@@ -28,3 +28,7 @@ Format: `DATE | TIME | TITLE | CHANGE | PLATFORM | ACTION`
 29 Aug 2026 | 00:07 | Alpha | NEW (OTT premiere Aug 28) | Netflix India | 🔥 Added to Must Watch — YRF Spy Universe (Alia Bhatt, Sharvari); TOI + Bollywood Hungama + ET confirm Netflix Aug 28
 29 Aug 2026 | 00:07 | Michael | NEW (Aug 29) | JioHotstar | 🔥 Added to Must Watch — Michael Jackson biopic per GQ India Aug 24-30 list ⚠️ Availability needs verification (single-source platform claim)
 29 Aug 2026 | 00:07 | Four Hands, Two Sonatas | NEW (premieres Aug 29, weekly episodes) | Netflix India | 💎 Added to Hidden Gems — Korean musical-romance series (Song Kang); ET slideshow + highonfilms confirm
+29 Aug 2026 | 01:19 | Michael | PLATFORM CONFIRMED | JioHotstar + Prime Video India | 🔥 Upgraded to multi-source: GQ + ET weekend list + myvi.in + JioHotstar promo — streams Aug 29; title pages still unchecked
+29 Aug 2026 | 01:19 | Lenin | PLATFORM CONFIRMED | Prime Video India + JioHotstar | 🔄 Resolved — official "New on JioHotstar" row lists Lenin; dual availability (PV #1 trending), not a move
+29 Aug 2026 | 01:19 | September leaving list (Poor Things, Bombshell, The Fault in Our Stars, Redeeming Love) | LEAVING-SOON (Sep) published | Netflix | ⚠️ Tudum list retrieved this pass — India availability unverified; daily job to verify
+29 Aug 2026 | 01:19 | SYSTEM | RECONCILE | All platforms | 01:07 pass crashed after catalog edit; 01:19 pass independently verified same facts and completed log/alerts/state/build/push

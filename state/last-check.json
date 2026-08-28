@@ -1,18 +1,47 @@
 {
   "timezone": "Asia/Kolkata",
   "platforms": {
-    "netflix-india": { "lastChecked": "2026-08-29 00:07 IST", "method": "web_search (GQ/ET/Vogue weeklies, FlixPatrol Top10, Tudum; Alpha + Four Hands Two Sonatas caught)" },
-    "prime-video-india": { "lastChecked": "2026-08-29 00:07 IST", "method": "web_search (weeklies + Prime new-and-upcoming; no new changes beyond baseline)" },
-    "jiohotstar": { "lastChecked": "2026-08-29 00:07 IST", "method": "web_search (hotstar.com new/coming-soon, GQ; Michael reported Aug 29 ⚠️ verify)" },
-    "sonyliv": { "lastChecked": "2026-08-29 00:07 IST", "method": "web_search (partial — no new-release signal found this pass)" },
-    "zee5": { "lastChecked": "2026-08-29 00:07 IST", "method": "web_search (zee5.com new movies + weeklies; no changes beyond baseline)" },
-    "jiocinema": { "lastChecked": null, "method": "not yet scanned — folded into daily job" },
-    "youtube": { "lastChecked": "2026-08-28 23:45 IST", "method": "web_search (channel baseline only; video-level picks start next cycle)" }
+    "netflix-india": {
+      "lastChecked": "2026-08-29 01:19 IST",
+      "method": "web_search (Tudum, netflixlife, weeklies; Sep leaving list caught — India unverified)"
+    },
+    "prime-video-india": {
+      "lastChecked": "2026-08-29 01:19 IST",
+      "method": "web_search (FlixPatrol Top10 28 Aug, Prime new-and-upcoming; Top10 unchanged — Lenin #1)"
+    },
+    "jiohotstar": {
+      "lastChecked": "2026-08-29 01:19 IST",
+      "method": "web_search (official hotstar.com New-on-JioHotstar row, GQ/Vogue/ET, myvi, promo; Michael + Lenin confirmed)"
+    },
+    "sonyliv": {
+      "lastChecked": "2026-08-29 01:19 IST",
+      "method": "web_search (aggregate India OTT weeklies only — no new-release signal found)"
+    },
+    "zee5": {
+      "lastChecked": "2026-08-29 01:19 IST",
+      "method": "web_search (aggregate India OTT weeklies only — no changes beyond Bandar baseline)"
+    },
+    "jiocinema": {
+      "lastChecked": null,
+      "method": "not yet scanned — folded into daily job"
+    },
+    "youtube": {
+      "lastChecked": "2026-08-28 23:45 IST",
+      "method": "web_search (channel baseline only; video-level picks start next cycle)"
+    }
   },
   "jobs": {
-    "hourlyCheck": { "created": "2026-08-28", "schedule": "cron 7 * * * * Asia/Kolkata", "scope": "delta-only" },
-    "dailyRefresh": { "created": "2026-08-28", "schedule": "cron 0 9 * * * Asia/Kolkata", "scope": "full refresh + report" }
+    "hourlyCheck": {
+      "created": "2026-08-28",
+      "schedule": "cron 7 * * * * Asia/Kolkata",
+      "scope": "delta-only"
+    },
+    "dailyRefresh": {
+      "created": "2026-08-28",
+      "schedule": "cron 0 9 * * * Asia/Kolkata",
+      "scope": "full refresh + report"
+    }
   },
   "baselineScanQueries": 10,
-  "notes": "No verifiable removal/leaving-soon data in baseline. SonyLIV weak signal — prioritize in daily refresh. JioCinema pending first scan. Hourly pass 29 Aug 00:07: caught Alpha (Netflix, Aug 28 premiere missed by baseline) + Michael (JioHotstar, single-source ⚠️) + Four Hands Two Sonatas (Netflix, Aug 29). Top-10 charts unchanged from baseline."
+  "notes": "Hourly pass 29 Aug 01:19: reconciled crashed 01:07 run; Michael multi-source confirmed (JioHotstar+PV), Lenin dual-platform confirmed via official row, Tudum Sep leaving list noted. Top-10s unchanged."
 }

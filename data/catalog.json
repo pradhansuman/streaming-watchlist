@@ -4,7 +4,7 @@
   "region": "India",
   "lastBaselineScan": "2026-08-28 23:40-23:55 IST",
   "lastFullRefresh": "2026-08-28 23:45 IST",
-  "notes": "Baseline established 28 Aug 2026 via live web search. Scores are provisional pending daily recalcs. urlType 'platform-search' = official platform search/discovery page fallback per link policy.",
+  "notes": "Baseline established 28 Aug 2026 via live web search. Scores are provisional pending daily recalcs. urlType 'platform-search' = official platform search/discovery page fallback per link policy. | 29 Aug 01:07 hourly: caught 28 Aug Friday batch missed by baseline (I, Nobody, Part-Timers, Adults S2, The Secret Woman, All the Truth in My Lies) + Michael platform expansion + Lenin platform resolution. Scores on new entries are provisional (daily job recalculates). | 01:19 hourly: Michael multi-source confirmed, Lenin dual-platform confirmed, Tudum Sep leaving list noted (India unverified).",
   "sections": {
     "mustWatch": [
       {
@@ -24,12 +24,12 @@
         "title": "Michael",
         "type": "movie",
         "year": 2026,
-        "platform": "JioHotstar",
+        "platform": "Prime Video India + JioHotstar",
         "url": "https://www.hotstar.com/in/explore?search_query=Michael",
         "urlType": "platform-search",
-        "note": "Michael Jackson biopic — among 2026's biggest titles. GQ India Aug 24-30 list gives JioHotstar Aug 29. ⚠️ Availability needs verification (single-source platform claim; US streaming differs).",
+        "note": "Michael Jackson biopic — streams Aug 29, 2026 on JioHotstar; ET also lists Prime Video. Multi-source confirmed (GQ, ET weekend list, myvi.in, JioHotstar promo); title pages still unchecked.",
         "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 00:07 IST",
+        "lastChecked": "2026-08-29 01:19 IST",
         "score": 78,
         "scoreConfidence": "low"
       },
@@ -117,12 +117,12 @@
         "title": "Lenin",
         "type": "movie",
         "year": 2026,
-        "platform": "Prime Video India",
+        "platform": "Prime Video India + JioHotstar",
         "url": "https://www.primevideo.com/search?phrase=Lenin",
         "urlType": "platform-search",
-        "note": "#1 trending on Prime Video India (3 days); among titles added this week per JustWatch. Also appears in JioHotstar's new list — possible cross-platform listing, 🔄 verify.",
+        "note": "#1 trending on Prime Video India (3 days); also on Prime new-and-upcoming. CONFIRMED dual availability via official \"New on JioHotstar\" row (29 Aug) — not a move.",
         "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
+        "lastChecked": "2026-08-29 01:19 IST",
         "score": 71,
         "scoreConfidence": "low"
       },
@@ -242,6 +242,48 @@
         "lastChecked": "2026-08-28 23:45 IST",
         "score": 71,
         "scoreConfidence": "low"
+      },
+      {
+        "title": "The Secret Woman",
+        "type": "movie",
+        "year": 2026,
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/title/81735102",
+        "urlType": "title-page",
+        "note": "Netflix original psychological drama (TV-14) released Aug 28, 2026; title page verified live.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 01:07 IST",
+        "score": 62,
+        "scoreConfidence": "low",
+        "provisionalScore": true
+      },
+      {
+        "title": "All the Truth in My Lies",
+        "type": "series",
+        "year": 2026,
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/title/81735486",
+        "urlType": "title-page",
+        "note": "Limited series adaptation of an Icelandic novel; listed as Aug 28, 2026 release by whats-on-netflix; title page verified live.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 01:07 IST",
+        "score": 60,
+        "scoreConfidence": "low",
+        "provisionalScore": true
+      },
+      {
+        "title": "Adults S2",
+        "type": "series",
+        "year": 2026,
+        "platform": "JioHotstar",
+        "url": "https://www.hotstar.com/in/browse/reco-editorial/new-on-jiohotstar/tp-ed_CJE3EAEaAQI",
+        "urlType": "platform-row",
+        "note": "Season 2 of the English comedy 'Adults' — Aug 28, 2026 per myvi weekly table + JioHotstar official new row.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 01:07 IST",
+        "score": 58,
+        "scoreConfidence": "low",
+        "provisionalScore": true
       }
     ],
     "indianPicks": [
@@ -306,6 +348,34 @@
         "addedOn": "2026-08-28",
         "lastChecked": "2026-08-28 23:45 IST",
         "score": 70
+      },
+      {
+        "title": "I, Nobody",
+        "type": "movie",
+        "year": 2026,
+        "platform": "JioHotstar",
+        "url": "https://www.hotstar.com/in/browse/reco-editorial/new-on-jiohotstar/tp-ed_CJE3EAEaAQI",
+        "urlType": "platform-row",
+        "note": "Malayalam film streaming from Aug 25, 2026 per Economic Times + Hindustan Times (explicit platform+date). Also in official new row.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 01:07 IST",
+        "score": 63,
+        "scoreConfidence": "low",
+        "provisionalScore": true
+      },
+      {
+        "title": "Part-Timers",
+        "type": "series",
+        "year": 2026,
+        "platform": "JioHotstar",
+        "url": "https://www.hotstar.com/in/browse/reco-editorial/new-on-jiohotstar/tp-ed_CJE3EAEaAQI",
+        "urlType": "platform-row",
+        "note": "Telugu drama (Gnaneswari Kandregula; roommates Sindhu & Teju) streams Aug 28, 2026 per ET Panache + GQ + official JioHotstar row.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 01:07 IST",
+        "score": 60,
+        "scoreConfidence": "low",
+        "provisionalScore": true
       }
     ],
     "youtubePicks": [
@@ -345,12 +415,25 @@
   "platformChanges": [
     {
       "title": "Lenin",
-      "detail": "Trending #1 on Prime Video India AND present in JioHotstar's official 'New on JioHotstar' list — possible multi-platform listing or move. 🔄 Verify at next refresh.",
-      "lastChecked": "2026-08-28 23:45 IST"
+      "detail": "RESOLVED 29 Aug 01:07: JioHotstar presence confirmed via official 'New on JioHotstar' editorial row. Multi-platform listing verified (Prime Video India #1 trending + JioHotstar). Not a removal/move — dual availability.",
+      "lastChecked": "2026-08-29 01:19 IST"
+    },
+    {
+      "title": "Michael",
+      "detail": "Platform expanded: now reported on BOTH Prime Video and JioHotstar (Economic Times weekend roundup, Aug 29) — was single-sourced JioHotstar-only at 00:07 pass. Multi-platform release Aug 29, 2026.",
+      "lastChecked": "2026-08-29 01:19 IST"
     }
   ],
   "upcoming": [
-    { "title": "Gandhari", "platform": "Netflix India", "date": "2026-09-03" },
-    { "title": "Vigil Season 3 / Trigger Point Season 4 (this-week listings)", "platform": "needs platform verification", "date": "2026-08-22..28" }
+    {
+      "title": "Gandhari",
+      "platform": "Netflix India",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Vigil Season 3 / Trigger Point Season 4 (this-week listings)",
+      "platform": "needs platform verification",
+      "date": "2026-08-22..28"
+    }
   ]
 }

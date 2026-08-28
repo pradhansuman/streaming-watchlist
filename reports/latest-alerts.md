@@ -15,17 +15,20 @@ Blockbuster spy thriller; Netflix India title page verified live ([watch](https:
 Reports this week point to the extended cut surfacing ~27 Aug.
 ⚠️ Verify exact cut/version at next refresh. — Last checked: 28 Aug 2026 23:45 IST
 
-**Michael — JioHotstar (reported 29 Aug)**
-Michael Jackson biopic — one of 2026's biggest titles. GQ India's Aug 24-30 roundup lists it as a JioHotstar arrival today.
-⚠️ Availability needs verification — single-source platform claim (US streaming is on a different service); confirm on JioHotstar at next refresh. — Last checked: 29 Aug 2026 00:07 IST
+**Michael — JioHotstar (streams 29 Aug) — CONFIRMED MULTI-SOURCE**
+Michael Jackson biopic (Antoine Fuqua) — confirmed for Aug 29 by GQ India, Economic Times weekend list, myvi.in, and JioHotstar's own promo. ET additionally lists Prime Video (single source for that part).
+⚠️ Title pages not yet opened — verify direct links at next refresh. — Last checked: 29 Aug 2026 01:19 IST
 
 ## ⏰ WATCH BEFORE IT LEAVES
 
-_No verifiable leaving-soon data in baseline scan (28 Aug) or hourly pass (29 Aug 00:07). Daily job tracks dedicated sources for expirations._
+**Netflix September leaving list published (Tudum, 29 Aug)** — Poor Things, Bombshell, The Fault in Our Stars, Redeeming Love among departures.
+⚠️ US-sourced list; India availability unverified. Daily job (09:00) to check the India leaving-soon row. — Last checked: 29 Aug 2026 01:19 IST
+
+_No India-verified expirations yet. Daily job tracks dedicated sources for expirations._
 
 ## 🔄 PLATFORM CHANGE
 
-**Lenin** — trending #1 on Prime Video India **and** listed in JioHotstar's official "New on JioHotstar" row. Possible multi-platform listing or move — verifying at next refresh. — Last checked: 28 Aug 2026 23:45 IST
+**Lenin** — RESOLVED 29 Aug 01:19: official "New on JioHotstar" row lists Lenin; Prime Video India still #1 trending. Dual availability confirmed — not a move, no action needed. — Last checked: 29 Aug 2026 01:19 IST
 
 ## 📅 UPCOMING TO WATCH
 
