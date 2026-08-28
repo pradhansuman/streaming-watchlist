@@ -1,0 +1,356 @@
+{
+  "version": 1,
+  "system": "Streaming Watchlist — Live Content Update Engine",
+  "region": "India",
+  "lastBaselineScan": "2026-08-28 23:40-23:55 IST",
+  "lastFullRefresh": "2026-08-28 23:45 IST",
+  "notes": "Baseline established 28 Aug 2026 via live web search. Scores are provisional pending daily recalcs. urlType 'platform-search' = official platform search/discovery page fallback per link policy.",
+  "sections": {
+    "mustWatch": [
+      {
+        "title": "Alpha",
+        "type": "movie",
+        "year": 2026,
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/search?q=Alpha",
+        "urlType": "platform-search",
+        "note": "YRF Spy Universe first female-led entry (Alia Bhatt, Sharvari). OTT premiere Aug 28, 2026 — confirmed by Times of India, Bollywood Hungama, Economic Times. Missed by baseline scan (arrived same night).",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 00:07 IST",
+        "score": 84,
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "Michael",
+        "type": "movie",
+        "year": 2026,
+        "platform": "JioHotstar",
+        "url": "https://www.hotstar.com/in/explore?search_query=Michael",
+        "urlType": "platform-search",
+        "note": "Michael Jackson biopic — among 2026's biggest titles. GQ India Aug 24-30 list gives JioHotstar Aug 29. ⚠️ Availability needs verification (single-source platform claim; US streaming differs).",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 00:07 IST",
+        "score": 78,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "Dhurandhar (extended cut 'RAW AND UNDEKHA')",
+        "type": "movie",
+        "year": 2025,
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/in/title/82156122",
+        "urlType": "title-page",
+        "note": "Blockbuster Ranveer Singh spy thriller; title page live on Netflix India. IMDb news lists Netflix 8/27/2026 for the new cut; Netflix streaming since Jan 30, 2026. Extended cut arrival reported this week — ⚠️ verify exact cut/date.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 88,
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "The Last Salute: A Love Letter To MiG-21",
+        "type": "documentary",
+        "year": 2026,
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/search?q=The%20Last%20Salute",
+        "urlType": "platform-search",
+        "note": "Out now (reported Aug 26); entered India Top 10 films at #3 on day 1 (FlixPatrol Aug 28). New Indian aviation documentary.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 82,
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "The Last Sunrise",
+        "type": "movie",
+        "year": 2026,
+        "platform": "Prime Video India",
+        "url": "https://www.primevideo.com/search?phrase=The%20Last%20Sunrise",
+        "urlType": "platform-search",
+        "note": "Featured as NEW MOVIE on Prime Video; #2 trending in India after 1 day on chart (FlixPatrol Aug 28).",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 78,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "Bandar",
+        "type": "movie",
+        "year": 2026,
+        "platform": "ZEE5",
+        "url": "https://www.zee5.com/search?q=Bandar",
+        "urlType": "platform-search",
+        "note": "Listed by multiple OTT trackers for Aug 28, 2026 (today) on ZEE5. Notable festival-circuit Indian title. ⚠️ Availability needs verification.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 76,
+        "scoreConfidence": "low"
+      }
+    ],
+    "highlyRecommended": [
+      {
+        "title": "Cocktail 2",
+        "type": "movie",
+        "year": 2026,
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/search?q=Cocktail%202",
+        "urlType": "platform-search",
+        "note": "#1-2 on Netflix India Top 10 films for ~2 straight weeks (13 days on chart, FlixPatrol Aug 28).",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 74,
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "Pyaar Prema Kalyanam",
+        "type": "movie",
+        "year": 2026,
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/search?q=Pyaar%20Prema%20Kalyanam",
+        "urlType": "platform-search",
+        "note": "#1 on Netflix India Top 10 films (6 days on chart, FlixPatrol Aug 28).",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 72,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "Lenin",
+        "type": "movie",
+        "year": 2026,
+        "platform": "Prime Video India",
+        "url": "https://www.primevideo.com/search?phrase=Lenin",
+        "urlType": "platform-search",
+        "note": "#1 trending on Prime Video India (3 days); among titles added this week per JustWatch. Also appears in JioHotstar's new list — possible cross-platform listing, 🔄 verify.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 71,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "Novak Djokovic: The Wolf in Winter",
+        "type": "documentary",
+        "year": 2026,
+        "platform": "JioHotstar",
+        "url": "https://www.hotstar.com/in/explore?search_query=Djokovic",
+        "urlType": "platform-search",
+        "note": "New sports documentary; NYT lists it among August's Disney+ arrivals (JioHotstar carries Disney+ in India); also surfaced as NEW on Prime Video storefront. ⚠️ Verify platform in India.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 70,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "Ted Lasso (new season)",
+        "type": "series",
+        "platform": "JioHotstar",
+        "url": "https://www.hotstar.com/in/explore?search_query=Ted%20Lasso",
+        "urlType": "platform-search",
+        "note": "NYT: 'Ted Lasso returns' among August Disney+ arrivals; India via JioHotstar. ⚠️ Availability needs verification.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 74,
+        "scoreConfidence": "low"
+      }
+    ],
+    "hiddenGems": [
+      {
+        "title": "Four Hands, Two Sonatas",
+        "type": "series",
+        "year": 2026,
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/search?q=Four%20Hands%20Two%20Sonatas",
+        "urlType": "platform-search",
+        "note": "Korean coming-of-age musical romance (Song Kang, Lee Jun-young, Jang Gyu-ri) set at an elite arts school; premieres Aug 29, 2026, weekly episodes (tvN + global Netflix) per ET slideshow and highonfilms release schedule.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 00:07 IST",
+        "score": 68,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "Breaking the Bank: One Trader, 50 Billion",
+        "type": "documentary-series",
+        "year": 2026,
+        "platform": "JioHotstar",
+        "url": "https://www.hotstar.com/in/explore?search_query=Breaking%20the%20Bank",
+        "urlType": "platform-search",
+        "note": "Season 1, newly listed on JioHotstar (JustWatch new releases). Finance/trading doc — fits systems-thinker taste.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 73,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "Governor: The Silent Saviour",
+        "type": "movie",
+        "year": 2026,
+        "platform": "Prime Video India",
+        "url": "https://www.primevideo.com/search?phrase=Governor%20The%20Silent%20Saviour",
+        "urlType": "platform-search",
+        "note": "Political/economic-crisis thriller; OTT Aug 7, #3 on Prime India Top 10 for ~3 weeks (20 days on chart).",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 70,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "Exhuma",
+        "type": "movie",
+        "year": 2024,
+        "platform": "JioHotstar",
+        "url": "https://www.hotstar.com/in/explore?search_query=Exhuma",
+        "urlType": "platform-search",
+        "note": "Acclaimed Korean occult thriller, newly surfaced on JioHotstar (JustWatch new list).",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 72,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "A Child of My Own",
+        "type": "documentary",
+        "year": 2026,
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/search?q=A%20Child%20of%20My%20Own",
+        "urlType": "platform-search",
+        "note": "New Netflix documentary (Aug 13, per topdocumentaryfilms.com August roundup).",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 68,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "The Whisper Man",
+        "type": "movie",
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/search?q=The%20Whisper%20Man",
+        "urlType": "platform-search",
+        "note": "On Netflix's New Movies row this week.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 66,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "Freefall: A Reckoning for Boeing",
+        "type": "documentary",
+        "year": 2026,
+        "platform": "UNVERIFIED-IN-INDIA",
+        "url": "",
+        "urlType": "none",
+        "note": "Streaming Aug 19, 2026 (Rotten Tomatoes). India platform not yet confirmed — parked until the daily job verifies.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 71,
+        "scoreConfidence": "low"
+      }
+    ],
+    "indianPicks": [
+      {
+        "title": "The Last Salute: A Love Letter To MiG-21",
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/search?q=The%20Last%20Salute",
+        "urlType": "platform-search",
+        "note": "New this week; Top 10 day-1 entry.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 82
+      },
+      {
+        "title": "Dhurandhar (extended cut)",
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/in/title/82156122",
+        "urlType": "title-page",
+        "note": "Title page verified live.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 88
+      },
+      {
+        "title": "Bandar",
+        "platform": "ZEE5",
+        "url": "https://www.zee5.com/search?q=Bandar",
+        "urlType": "platform-search",
+        "note": "Aug 28 arrival per trackers. ⚠️ verify.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 76
+      },
+      {
+        "title": "Chumbak",
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/search?q=Chumbak",
+        "urlType": "platform-search",
+        "note": "Listed for Aug 28, 2026 on Netflix (bollymoviereviewz upcoming table). ⚠️ verify.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 65,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "Gandhari",
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/search?q=Gandhari",
+        "urlType": "platform-search",
+        "note": "UPCOMING — out 3 September on Netflix (Netflix India official promo). Watchlist for next week.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 75,
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "Peddi",
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/search?q=Peddi",
+        "urlType": "platform-search",
+        "note": "Still in Top 10 after 49 days on chart — long tail.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 70
+      }
+    ],
+    "youtubePicks": [
+      {
+        "title": "Real Stories (channel) — full-length documentaries",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/Real_Stories",
+        "urlType": "channel",
+        "note": "Baseline tracking: publishes 3+ award-winning full-length docs per week. Video-level picks start accumulating from the next daily refresh.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 70
+      },
+      {
+        "title": "PBS Documentaries / PBS Voices — 'Ritual' new series",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/@PBSDocumentaries",
+        "urlType": "channel",
+        "note": "New documentary series 'Ritual' announced on PBS Voices.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 68
+      },
+      {
+        "title": "Free Documentary (channel) — new releases",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/channel/UCijcd0GR0fkxCAZwkiuWqtQ",
+        "urlType": "channel",
+        "note": "Baseline tracking: frequent new full-length docs.",
+        "addedOn": "2026-08-28",
+        "lastChecked": "2026-08-28 23:45 IST",
+        "score": 65
+      }
+    ]
+  },
+  "removed": [],
+  "platformChanges": [
+    {
+      "title": "Lenin",
+      "detail": "Trending #1 on Prime Video India AND present in JioHotstar's official 'New on JioHotstar' list — possible multi-platform listing or move. 🔄 Verify at next refresh.",
+      "lastChecked": "2026-08-28 23:45 IST"
+    }
+  ],
+  "upcoming": [
+    { "title": "Gandhari", "platform": "Netflix India", "date": "2026-09-03" },
+    { "title": "Vigil Season 3 / Trigger Point Season 4 (this-week listings)", "platform": "needs platform verification", "date": "2026-08-22..28" }
+  ]
+}
