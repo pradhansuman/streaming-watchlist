@@ -400,7 +400,45 @@ function pf(img){
 """
 
 
+def prune_changelog():
+    """Rolling 24h window: move change-log entries older than 24h to
+    data/change-log-archive.md so the live log stays a recent-changes feed."""
+    path = p("data", "change-log.md")
+    if not os.path.exists(path):
+        return 0
+    with open(path, encoding="utf-8") as f:
+        lines = f.readlines()
+    now = datetime.now(IST)
+    keep, old = [], []
+    for line in lines:
+        m = re.match(r"^(\d{1,2}) (\w{3}) (\d{4}) \| (\d{1,2}:\d{2}) \|", line.strip())
+        ts = None
+        if m:
+            try:
+                ts = datetime.strptime(
+                    f"{m.group(1)} {m.group(2)} {m.group(3)} {m.group(4)}",
+                    "%d %b %Y %H:%M").replace(tzinfo=IST)
+            except ValueError:
+                ts = None
+        if ts is not None and now - ts > timedelta(hours=24):
+            old.append(line if line.endswith("\n") else line + "\n")
+        else:
+            keep.append(line)
+    if not old:
+        return 0
+    arch = p("data", "change-log-archive.md")
+    with open(arch, "a", encoding="utf-8") as f:
+        if not os.path.exists(arch) or os.path.getsize(arch) == 0:
+            f.write("# 🗄️ Change Log — Archive\n\n"
+                    "Deprecated entries rolled off the live 24-hour change-log by web/build.py.\n\n---\n\n")
+        f.writelines(old)
+    with open(path, "w", encoding="utf-8") as f:
+        f.writelines(keep)
+    return len(old)
+
+
 def main():
+    pruned = prune_changelog()
     with open(p("data", "catalog.json"), encoding="utf-8") as f:
         data = json.load(f)
     now = datetime.now(IST).strftime("%d %b %Y, %H:%M IST")
@@ -452,7 +490,7 @@ def main():
   {upcoming(data)}
   {removed(data)}
   <section id="log"><h2>📊 Change Log <span class="count">{len(rows)}</span></h2>
-  <p class="sub2">Newest first · append-only, maintained by the hourly/daily jobs.</p>{log_table}</section>
+  <p class="sub2">Newest first · rolling 24-hour window — older entries auto-archived to <a href="../data/change-log-archive.md">change-log-archive.md</a>.</p>{log_table}</section>
   {commands()}
 </main>
 <footer>
@@ -471,7 +509,7 @@ def main():
     out = p("web", "index.html")
     with open(out, "w", encoding="utf-8") as f:
         f.write(doc)
-    print(f"built {out} — {total} titles, {len(rows)} log rows, "
+    print(f"built {out} — {total} titles, {len(rows)} log rows ({pruned} archived), "
           f"{posters_on_disk} posters cached, generated {now}")
 
 

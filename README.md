@@ -19,7 +19,8 @@ Both run as isolated scheduled jobs (manageable in the AutoClaw 「定时」 pan
 | File | Purpose |
 |---|---|
 | [data/catalog.json](data/catalog.json) | The catalog: all tracked titles, sections, provisional scores, last-checked stamps |
-| [data/change-log.md](data/change-log.md) | Append-only log — `DATE \| TIME \| TITLE \| CHANGE \| PLATFORM \| ACTION` |
+| [data/change-log.md](data/change-log.md) | **Rolling 24-hour log** — `DATE \| TIME \| TITLE \| CHANGE \| PLATFORM \| ACTION`; entries older than 24h are auto-archived at build time |
+| [data/change-log-archive.md](data/change-log-archive.md) | Deprecated change-log entries (older than 24h), preserved for audit |
 | [state/last-check.json](state/last-check.json) | Per-platform last-checked timestamps |
 | [reports/2026-08-28.md](reports/2026-08-28.md) | Daily "Today's Streaming Update" reports (one per day) |
 | [reports/latest-alerts.md](reports/latest-alerts.md) | Standing alerts: 🔥 DON'T MISS / ⏰ WATCH BEFORE IT LEAVES / 🔄 PLATFORM CHANGE |
