@@ -4,7 +4,7 @@
   "region": "India",
   "lastBaselineScan": "2026-08-28 23:40-23:55 IST",
   "lastFullRefresh": "2026-08-28 23:45 IST",
-  "notes": "Baseline established 28 Aug 2026 via live web search. Scores are provisional pending daily recalcs. urlType 'platform-search' = official platform search/discovery page fallback per link policy. | 29 Aug 01:07 hourly: caught 28 Aug Friday batch missed by baseline (I, Nobody, Part-Timers, Adults S2, The Secret Woman, All the Truth in My Lies) + Michael platform expansion + Lenin platform resolution. Scores on new entries are provisional (daily job recalculates). | 01:19 hourly: Michael multi-source confirmed, Lenin dual-platform confirmed, Tudum Sep leaving list noted (India unverified).",
+  "notes": "Baseline established 28 Aug 2026 via live web search. Scores are provisional pending daily recalcs. urlType 'platform-search' = official platform search/discovery page fallback per link policy. | 29 Aug 01:07 hourly: caught 28 Aug Friday batch missed by baseline (I, Nobody, Part-Timers, Adults S2, The Secret Woman, All the Truth in My Lies) + Michael platform expansion + Lenin platform resolution. Scores on new entries are provisional (daily job recalculates). | 01:19 hourly: Michael multi-source confirmed, Lenin dual-platform confirmed, Tudum Sep leaving list noted (India unverified). | 06:07 hourly: Michael + Part-Timers upgraded to verified official title pages; added Babita Singh Reporting (multi-source) + Baredda (single-source ⚠️) on Prime Video India; Reacher new at #2 on Prime India Overall Top 10; Tudum Sep leaving list expanded; Operation Safed Sagar flagged for daily job. | 08:19 hourly: backfilled change-log for titles added by the crashed 01:07 run — The Secret Woman re-verified (official about.netflix.com; Danish-Norwegian thriller), All the Truth in My Lies re-verified (title page; corrected to Spanish Benavent adaptation), Adults S2 + I, Nobody logged for audit. Added Batman: Knightfall Part 1 (JioHotstar, Vogue + OTT-popcorn reel, ⚠️ provisional — no official title page). Prime/SonyLIV/ZEE5: no new signal. | 09:28 hourly: added Mousetrap (Netflix, verified title page — missed by earlier passes) + Anbe Diana (SonyLIV, single-source ⚠️, first SonyLIV signal). No removals/platform moves; Four Hands Two Sonatas + Michael premiere today as scheduled.",
   "sections": {
     "mustWatch": [
       {
@@ -25,11 +25,11 @@
         "type": "movie",
         "year": 2026,
         "platform": "Prime Video India + JioHotstar",
-        "url": "https://www.hotstar.com/in/explore?search_query=Michael",
-        "urlType": "platform-search",
-        "note": "Michael Jackson biopic — streams Aug 29, 2026 on JioHotstar; ET also lists Prime Video. Multi-source confirmed (GQ, ET weekend list, myvi.in, JioHotstar promo); title pages still unchecked.",
+        "url": "https://www.hotstar.com/in/movies/michael/1271670552",
+        "urlType": "title-page",
+        "note": "Michael Jackson biopic (Antoine Fuqua, Jaafar Jackson) — official JioHotstar title page live: 'Releasing on Aug 29', IMDb 7.4; streams via the Peacock Hub (Bollywood Hungama). ET also lists Prime Video.",
         "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 01:19 IST",
+        "lastChecked": "2026-08-29 06:07 IST",
         "score": 78,
         "scoreConfidence": "low"
       },
@@ -87,6 +87,20 @@
       }
     ],
     "highlyRecommended": [
+      {
+        "title": "Mousetrap",
+        "type": "series",
+        "year": 2026,
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/title/81991749",
+        "urlType": "title-page",
+        "note": "Korean identity-theft thriller limited series (Ryu Jun-yeol, Sul Kyung-gu, Lee Kyoo-hyung), based on Kakao webtoon 'Field Mouse' — released Aug 28, 2026; official title page verified live (TV-MA, Thriller). Missed by earlier passes; caught via ET weekend slideshow + Mashable review.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 09:28 IST",
+        "score": 72,
+        "scoreConfidence": "medium",
+        "provisionalScore": true
+      },
       {
         "title": "Cocktail 2",
         "type": "movie",
@@ -250,9 +264,9 @@
         "platform": "Netflix India",
         "url": "https://www.netflix.com/title/81735102",
         "urlType": "title-page",
-        "note": "Netflix original psychological drama (TV-14) released Aug 28, 2026; title page verified live.",
+        "note": "Danish-Norwegian mystery thriller (SF Studios; Claes Bang, Ingrid Bolsø Berdal) — global Netflix launch Aug 28, 2026 per official about.netflix.com; title page verified live.",
         "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 01:07 IST",
+        "lastChecked": "2026-08-29 08:19 IST",
         "score": 62,
         "scoreConfidence": "low",
         "provisionalScore": true
@@ -264,9 +278,9 @@
         "platform": "Netflix India",
         "url": "https://www.netflix.com/title/81735486",
         "urlType": "title-page",
-        "note": "Limited series adaptation of an Icelandic novel; listed as Aug 28, 2026 release by whats-on-netflix; title page verified live.",
+        "note": "Spanish romcom limited series (TV-MA) based on Elísabet Benavent's bestselling novel — global Netflix launch Aug 28, 2026 per official about.netflix.com; title page verified live.",
         "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 01:07 IST",
+        "lastChecked": "2026-08-29 08:19 IST",
         "score": 60,
         "scoreConfidence": "low",
         "provisionalScore": true
@@ -284,9 +298,36 @@
         "score": 58,
         "scoreConfidence": "low",
         "provisionalScore": true
+      },
+      {
+        "title": "Batman: Knightfall Part 1",
+        "type": "movie",
+        "year": 2026,
+        "platform": "JioHotstar",
+        "url": "https://www.hotstar.com/in/explore",
+        "urlType": "platform-search",
+        "note": "DC animated film (digital release Aug 25, 2026); listed for JioHotstar by Vogue India Aug 24-30 roundup + OTT-popcorn weekly reel. No official title page found yet — ⚠️ Availability needs verification.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 08:19 IST",
+        "score": 60,
+        "scoreConfidence": "low",
+        "provisionalScore": true
       }
     ],
     "indianPicks": [
+      {
+        "title": "Anbe Diana",
+        "year": 2026,
+        "platform": "SonyLIV",
+        "url": "https://www.sonyliv.com/search?q=Anbe%20Diana",
+        "urlType": "platform-search",
+        "note": "Tamil title listed for Aug 28, 2026 on SonyLIV by Economic Times weekend slideshow — single source; type/genre unconfirmed. ⚠️ Availability needs verification.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 09:28 IST",
+        "score": 55,
+        "scoreConfidence": "low",
+        "provisionalScore": true
+      },
       {
         "title": "The Last Salute: A Love Letter To MiG-21",
         "platform": "Netflix India",
@@ -368,12 +409,40 @@
         "type": "series",
         "year": 2026,
         "platform": "JioHotstar",
-        "url": "https://www.hotstar.com/in/browse/reco-editorial/new-on-jiohotstar/tp-ed_CJE3EAEaAQI",
-        "urlType": "platform-row",
-        "note": "Telugu drama (Gnaneswari Kandregula; roommates Sindhu & Teju) streams Aug 28, 2026 per ET Panache + GQ + official JioHotstar row.",
+        "url": "https://www.hotstar.com/in/shows/part-timers/1271675060",
+        "urlType": "title-page",
+        "note": "Telugu drama (Gnaneswari Kandregula; roommates Sindhu & Teju) — official title page live, S1 E1 dated 28 Aug 2026; previously GQ + ET Panache + official new row.",
         "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 01:07 IST",
+        "lastChecked": "2026-08-29 06:07 IST",
         "score": 60,
+        "scoreConfidence": "low",
+        "provisionalScore": true
+      },
+      {
+        "title": "Babita Singh Reporting",
+        "type": "movie",
+        "year": 2026,
+        "platform": "Prime Video India",
+        "url": "https://www.primevideo.com/search?phrase=Babita%20Singh%20Reporting",
+        "urlType": "platform-search",
+        "note": "Prime Original investigative drama (Nimisha Sajayan, dir. Ambiecka Pandit) — global launch 28 Aug 2026 in Hindi with English subs, 240+ territories (Deadline exclusive + IMDb news + Times Now).",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 06:07 IST",
+        "score": 65,
+        "scoreConfidence": "low",
+        "provisionalScore": true
+      },
+      {
+        "title": "Baredda",
+        "type": "movie",
+        "year": 2026,
+        "platform": "Prime Video India",
+        "url": "https://www.primevideo.com/search?phrase=Baredda",
+        "urlType": "platform-search",
+        "note": "Listed for 28 Aug 2026 on Prime Video India by Times Now Friday-release roundup — single source. ⚠️ Availability needs verification.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 06:07 IST",
+        "score": 55,
         "scoreConfidence": "low",
         "provisionalScore": true
       }

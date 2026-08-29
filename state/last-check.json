@@ -2,24 +2,24 @@
   "timezone": "Asia/Kolkata",
   "platforms": {
     "netflix-india": {
-      "lastChecked": "2026-08-29 01:19 IST",
-      "method": "web_search (Tudum, netflixlife, weeklies; Sep leaving list caught — India unverified)"
+      "lastChecked": "2026-08-29 09:28 IST",
+      "method": "web_search (ET weekend slideshow, netflixlife, Tudum; Mousetrap caught + title page netflix.com/title/81991749 verified)"
     },
     "prime-video-india": {
-      "lastChecked": "2026-08-29 01:19 IST",
-      "method": "web_search (FlixPatrol Top10 28 Aug, Prime new-and-upcoming; Top10 unchanged — Lenin #1)"
+      "lastChecked": "2026-08-29 09:28 IST",
+      "method": "web_search (ET weekend slideshow, GQ/Vogue weeklies; no new beyond baseline — Michael streams today as scheduled)"
     },
     "jiohotstar": {
-      "lastChecked": "2026-08-29 01:19 IST",
-      "method": "web_search (official hotstar.com New-on-JioHotstar row, GQ/Vogue/ET, myvi, promo; Michael + Lenin confirmed)"
+      "lastChecked": "2026-08-29 09:28 IST",
+      "method": "web_search (ET + mjvibe + official hotstar title page; Michael live today — no new changes)"
     },
     "sonyliv": {
-      "lastChecked": "2026-08-29 01:19 IST",
-      "method": "web_search (aggregate India OTT weeklies only — no new-release signal found)"
+      "lastChecked": "2026-08-29 09:28 IST",
+      "method": "web_search (ET weekend slideshow — Anbe Diana Aug 28 caught, single source ⚠️ provisional)"
     },
     "zee5": {
-      "lastChecked": "2026-08-29 01:19 IST",
-      "method": "web_search (aggregate India OTT weeklies only — no changes beyond Bandar baseline)"
+      "lastChecked": "2026-08-29 09:28 IST",
+      "method": "web_search (ET + official ZEE5 new-movies row; no new beyond Bandar baseline)"
     },
     "jiocinema": {
       "lastChecked": null,
@@ -43,5 +43,5 @@
     }
   },
   "baselineScanQueries": 10,
-  "notes": "Hourly pass 29 Aug 01:19: reconciled crashed 01:07 run; Michael multi-source confirmed (JioHotstar+PV), Lenin dual-platform confirmed via official row, Tudum Sep leaving list noted. Top-10s unchanged."
+  "notes": "Hourly pass 29 Aug 09:28: 5 searches, weekend weeklies mostly already-logged. Added Mousetrap (Netflix K-thriller, verified title page; missed by earlier passes) + Anbe Diana (SonyLIV, single-source ⚠️, first SonyLIV signal). No removals/platform moves."
 }
