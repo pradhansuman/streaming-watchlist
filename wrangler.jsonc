@@ -1,0 +1,14 @@
+{
+  // Cloudflare Workers static-assets config.
+  // Serves the pre-built dashboard in ./web at the root of
+  // https://streaming-watchlist.suman20.workers.dev/
+  // Deployed automatically on every push to main via Workers Builds
+  // (deploy command: npx wrangler deploy — no build step needed;
+  // web/index.html is committed already-built by the watchlist jobs).
+  "name": "streaming-watchlist",
+  "compatibility_date": "2026-08-01",
+  "assets": {
+    "directory": "./web",
+    "html_handling": "auto-trailing-slash"
+  }
+}
