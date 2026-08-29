@@ -2,32 +2,32 @@
   "timezone": "Asia/Kolkata",
   "platforms": {
     "netflix-india": {
-      "lastChecked": "2026-08-29 13:07 IST",
-      "method": "web_search (ET weekend slideshow, GQ/Vogue Aug 24-30, JustWatch new page; no new beyond logged baseline — JustWatch items are older summer additions)"
+      "lastChecked": "2026-08-29 13:15 IST",
+      "method": "web_search (FlixPatrol India Top 10 + dedicated new-title/leaving searches; hourly passes 00:07-12:18 covered roundups) — Top 10 films stable: Pyaar 7d / Cocktail 2 14d / Peddi 50d; Operation Safed Sagar added; Call My Agent! The Movie → upcoming Sep 10; 'The Producer' unverifiable, not added"
     },
     "prime-video-india": {
-      "lastChecked": "2026-08-29 13:07 IST",
-      "method": "web_search (ET + myvi week window + livemint weekend roundup; no new beyond Babita Singh/Baredda baseline)"
+      "lastChecked": "2026-08-29 13:15 IST",
+      "method": "web_search (FlixPatrol Prime India Overall 28 Aug: Playground 9d #1, Reacher 3d #2 new, Aatank +1 #3) — Reacher added provisional, season on chart ⚠️"
     },
     "jiohotstar": {
-      "lastChecked": "2026-08-29 13:07 IST",
-      "method": "web_search (official 'New on JioHotstar' row + 91mobiles list; DWP2 29-Aug date checked and found stale — streaming since 29 Jul)"
+      "lastChecked": "2026-08-29 13:15 IST",
+      "method": "web_search (hourly passes 00:07-12:18 + daily pass; Michael title page verified 06:07, Jungle Tales upcoming Sep 12) — no new beyond logged baseline in daily pass"
     },
     "sonyliv": {
-      "lastChecked": "2026-08-29 13:07 IST",
-      "method": "web_search (ET/myvi roundup scan; no new signal beyond Anbe Diana)"
+      "lastChecked": "2026-08-29 13:15 IST",
+      "method": "web_search (dedicated Anbe Diana search) — VERIFIED: official SonyLIV trailer page + Times of India, Aug 28 premiere, Tamil rom-com; ⚠️ lifted"
     },
     "zee5": {
-      "lastChecked": "2026-08-29 13:07 IST",
-      "method": "web_search (ZEE5 new-movies page; titles undated, no last-24h evidence — no change)"
+      "lastChecked": "2026-08-29 13:15 IST",
+      "method": "web_search (ZEE5 new-movies page + ET/GQ/Mashable roundups) — Bandar VERIFIED multi-source (Anurag Kashyap, Bobby Deol, Aug 28); ⚠️ lifted; no other new signal"
     },
     "jiocinema": {
-      "lastChecked": null,
-      "method": "not yet scanned — folded into daily job"
+      "lastChecked": "2026-08-29 13:15 IST",
+      "method": "quick check only — no distinct JioCinema signal in any retrieved source; ecosystem folded into JioHotstar"
     },
     "youtube": {
-      "lastChecked": "2026-08-28 23:45 IST",
-      "method": "web_search (channel baseline only; video-level picks start next cycle)"
+      "lastChecked": "2026-08-29 13:15 IST",
+      "method": "web_search (video-level attempt) — no verifiable video-level picks this pass; channel-level tracking continues (Real Stories, PBS, Free Documentary)"
     }
   },
   "jobs": {
@@ -42,6 +42,7 @@
       "scope": "full refresh + report"
     }
   },
-  "baselineScanQueries": 7,
-  "notes": "Hourly pass 29 Aug 13:07: 7 searches, no meaningful changes on tracked platforms. Checked-and-cleared: Devil Wears Prada 2 '29 Aug' (91mobiles stale — since 29 Jul), Dark Matter S2 (Apple TV premiere 28 Aug, out of scope), Raël: The Last Prophet (2024 Netflix doc resurfacing in aggregator list, ⚠️ unverified). No removals/platform moves. Alerts: none."
+  "baselineScanQueries": 8,
+  "lastDailyRefresh": "2026-08-29 13:15 IST",
+  "notes": "DAILY DEEP REFRESH 29 Aug 13:15: 8 searches (budget cap respected). Added Operation Safed Sagar (Netflix, title page verified, premiered Aug 7, #1 India 20d) to highlyRecommended + indianPicks; Reacher added provisional (Prime India #2, 3d); Anbe Diana + Bandar verification flags lifted; Chumbak gained 2nd source; Call My Agent! The Movie added to upcoming (Sep 10 — FlixPatrol 'Aug 29' was a date-badge misparse); 'The Producer' unverifiable and excluded; Sep leaving list corroborated US-only, India still unverified; no removals/platform moves; YouTube/JioCinema no new signal. Report: reports/2026-08-29.md."
 }

@@ -1,7 +1,7 @@
 # 🎬 Streaming Watchlist — Live Content Update Engine
 
 A continuously refreshed watchlist of content available on **legitimate streaming services in India**:
-Netflix India · Prime Video India · JioHotstar · SonyLIV · ZEE5 · JioCinema · YouTube.
+Netflix India · Prime Video India · JioHotstar · SonyLIV · ZEE5 · Apple TV+ · JioCinema · YouTube.
 
 **Initialized:** 28 Aug 2026, ~23:45 IST (first baseline scan)
 
@@ -57,4 +57,4 @@ Both run as isolated scheduled jobs (manageable in the AutoClaw 「定时」 pan
 
 ## Tracked platforms
 
-Netflix India · Prime Video India · JioHotstar · SonyLIV · ZEE5 · JioCinema · YouTube (docs/channels + trending)
+Netflix India · Prime Video India · JioHotstar · SonyLIV · ZEE5 · Apple TV+ · JioCinema · YouTube (docs/channels + trending)

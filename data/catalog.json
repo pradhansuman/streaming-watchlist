@@ -4,7 +4,7 @@
   "region": "India",
   "lastBaselineScan": "2026-08-28 23:40-23:55 IST",
   "lastFullRefresh": "2026-08-28 23:45 IST",
-  "notes": "Baseline established 28 Aug 2026 via live web search. Scores are provisional pending daily recalcs. urlType 'platform-search' = official platform search/discovery page fallback per link policy. | 29 Aug 01:07 hourly: caught 28 Aug Friday batch missed by baseline (I, Nobody, Part-Timers, Adults S2, The Secret Woman, All the Truth in My Lies) + Michael platform expansion + Lenin platform resolution. Scores on new entries are provisional (daily job recalculates). | 01:19 hourly: Michael multi-source confirmed, Lenin dual-platform confirmed, Tudum Sep leaving list noted (India unverified). | 06:07 hourly: Michael + Part-Timers upgraded to verified official title pages; added Babita Singh Reporting (multi-source) + Baredda (single-source ⚠️) on Prime Video India; Reacher new at #2 on Prime India Overall Top 10; Tudum Sep leaving list expanded; Operation Safed Sagar flagged for daily job. | 08:19 hourly: backfilled change-log for titles added by the crashed 01:07 run — The Secret Woman re-verified (official about.netflix.com; Danish-Norwegian thriller), All the Truth in My Lies re-verified (title page; corrected to Spanish Benavent adaptation), Adults S2 + I, Nobody logged for audit. Added Batman: Knightfall Part 1 (JioHotstar, Vogue + OTT-popcorn reel, ⚠️ provisional — no official title page). Prime/SonyLIV/ZEE5: no new signal. | 09:28 hourly: added Mousetrap (Netflix, verified title page — missed by earlier passes) + Anbe Diana (SonyLIV, single-source ⚠️, first SonyLIV signal). No removals/platform moves; Four Hands Two Sonatas + Michael premiere today as scheduled. | 10:07 hourly: no changes — weeklies repeat already-logged titles; GQ 'weekend' piece (Dhurandhar/Office Romance/Pyramid Scheme) verified stale June 5 article; Tudum Sep leaving list unchanged; no removals/platform moves across all five platforms. | 12:18 hourly: Jungle Tales with Mowgli added to upcoming (official Disney India: Sep 12, JioHotstar Kids Profile + Disney Channel; aggregator Aug 28 dates wrong); TP S4 UK premiere 30 Aug confirmed — India platform still unverified; Heart Beat S3 checked = July 30 premiere, not new; Tudum Sep leaving list unchanged; no removals/platform moves across all five platforms.",
+  "notes": "Baseline established 28 Aug 2026 via live web search. Scores are provisional pending daily recalcs. urlType 'platform-search' = official platform search/discovery page fallback per link policy. | 29 Aug 01:07 hourly: caught 28 Aug Friday batch missed by baseline (I, Nobody, Part-Timers, Adults S2, The Secret Woman, All the Truth in My Lies) + Michael platform expansion + Lenin platform resolution. Scores on new entries are provisional (daily job recalculates). | 01:19 hourly: Michael multi-source confirmed, Lenin dual-platform confirmed, Tudum Sep leaving list noted (India unverified). | 06:07 hourly: Michael + Part-Timers upgraded to verified official title pages; added Babita Singh Reporting (multi-source) + Baredda (single-source ⚠️) on Prime Video India; Reacher new at #2 on Prime India Overall Top 10; Tudum Sep leaving list expanded; Operation Safed Sagar flagged for daily job. | 08:19 hourly: backfilled change-log for titles added by the crashed 01:07 run — The Secret Woman re-verified (official about.netflix.com; Danish-Norwegian thriller), All the Truth in My Lies re-verified (title page; corrected to Spanish Benavent adaptation), Adults S2 + I, Nobody logged for audit. Added Batman: Knightfall Part 1 (JioHotstar, Vogue + OTT-popcorn reel, ⚠️ provisional — no official title page). Prime/SonyLIV/ZEE5: no new signal. | 09:28 hourly: added Mousetrap (Netflix, verified title page — missed by earlier passes) + Anbe Diana (SonyLIV, single-source ⚠️, first SonyLIV signal). No removals/platform moves; Four Hands Two Sonatas + Michael premiere today as scheduled. | 10:07 hourly: no changes — weeklies repeat already-logged titles; GQ 'weekend' piece (Dhurandhar/Office Romance/Pyramid Scheme) verified stale June 5 article; Tudum Sep leaving list unchanged; no removals/platform moves across all five platforms. | 12:18 hourly: Jungle Tales with Mowgli added to upcoming (official Disney India: Sep 12, JioHotstar Kids Profile + Disney Channel; aggregator Aug 28 dates wrong); TP S4 UK premiere 30 Aug confirmed — India platform still unverified; Heart Beat S3 checked = July 30 premiere, not new; Tudum Sep leaving list unchanged; no removals/platform moves across all five platforms. | 13:15 DAILY DEEP REFRESH: Operation Safed Sagar added to highlyRecommended + indianPicks (official title page, premiered Aug 7, #1 India 20d — actioned 06:07 flag); Reacher added provisional (FlixPatrol #2 Prime India, 3d; season on chart ⚠️); Anbe Diana verified via official SonyLIV trailer page + TOI; Bandar ⚠️ lifted (ET+GQ+Mashable); Chumbak 2nd source (Mashable); Call My Agent! The Movie → upcoming Sep 10; Netflix Top 10 films stable (Pyaar 7d / Cocktail 2 14d / Peddi 50d); Sep leaving list corroborated US-only, India unverified; no removals/platform moves; YouTube/JioCinema no new signal. 8 searches used. | 2026-08-29 13:25 IST: Apple TV+ added as tracked platform (user request) — 11 titles seeded from Apple TV Press Aug 2026 + IGN roundup + The Times/Reddit best-of. Dark Matter S2 (premiered 28 Aug, weekly) and Ted Lasso S4 (Aug 5) are current-month releases. Scores provisional — daily job recalculates.",
   "sections": {
     "mustWatch": [
       {
@@ -79,14 +79,80 @@
         "platform": "ZEE5",
         "url": "https://www.zee5.com/search?q=Bandar",
         "urlType": "platform-search",
-        "note": "Listed by multiple OTT trackers for Aug 28, 2026 (today) on ZEE5. Notable festival-circuit Indian title. ⚠️ Availability needs verification.",
+        "note": "VERIFIED multi-source (29 Aug): Economic Times + GQ India + Mashable all list Aug 28 ZEE5. Anurag Kashyap crime thriller (Bobby Deol as Samar Mehra, Sanya Malhotra, Saba Azad); premiered at TIFF last year. Official ZEE5 title page still unchecked.",
         "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
+        "lastChecked": "2026-08-29 13:15 IST",
         "score": 76,
-        "scoreConfidence": "low"
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "Severance",
+        "type": "series",
+        "year": 2022,
+        "platform": "Apple TV+",
+        "url": "https://tv.apple.com/in/search?term=Severance",
+        "urlType": "platform-search",
+        "note": "Ben Stiller-directed workplace sci-fi thriller (Adam Scott); S2 (Jan 2025) was one of the year's biggest TV events; The Times Aug 2026 best-of standout + top Reddit r/tvPlus pick.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:25 IST",
+        "score": 92,
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "Slow Horses",
+        "type": "series",
+        "year": 2022,
+        "platform": "Apple TV+",
+        "url": "https://tv.apple.com/in/search?term=Slow%20Horses",
+        "urlType": "platform-search",
+        "note": "Gary Oldman-led Slough House spy thriller; S5 aired 2025, renewed beyond; 'standout success for the platform' per The Times Aug 2026 best-of.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:25 IST",
+        "score": 91,
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "Ted Lasso",
+        "type": "series",
+        "year": 2026,
+        "platform": "Apple TV+",
+        "url": "https://tv.apple.com/in/search?term=Ted%20Lasso",
+        "urlType": "platform-search",
+        "note": "S4 premiered Aug 5, 2026 (IGN / Apple TV Press) — the month's headline Apple original; flagship comfort-watch returns.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:25 IST",
+        "score": 86,
+        "scoreConfidence": "medium"
       }
     ],
     "highlyRecommended": [
+      {
+        "title": "Operation Safed Sagar: The Untold Story of the Kargil War",
+        "type": "series",
+        "year": 2026,
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/in/title/81616273",
+        "urlType": "title-page",
+        "note": "Hindi war series on the Golden Arrows squadron's IAF mission behind enemy lines in the 1999 Kargil War (also listed as 'The Highest Air Force Mission'). Official title page verified live; about.netflix.com: premiered Aug 7, 2026. #1 on FlixPatrol India Overall chart ~20 days (Aug 28). Actioned from 06:07 daily-job flag.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:15 IST",
+        "score": 72,
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "Reacher (current season)",
+        "type": "series",
+        "year": 2026,
+        "platform": "Prime Video India",
+        "url": "https://www.primevideo.com/search?phrase=Reacher",
+        "urlType": "platform-search",
+        "note": "New entry at #2 on FlixPatrol Prime India Overall Top 10 (3 days on chart, Aug 28) behind Playground (9d). OTT trackers list Reacher S4 from Aug 12; exact season on the India chart unverified ⚠️. Provisional — to re-verify.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:15 IST",
+        "score": 70,
+        "scoreConfidence": "low",
+        "provisionalScore": true
+      },
       {
         "title": "Mousetrap",
         "type": "series",
@@ -164,6 +230,45 @@
         "lastChecked": "2026-08-28 23:45 IST",
         "score": 74,
         "scoreConfidence": "low"
+      },
+      {
+        "title": "Silo",
+        "type": "series",
+        "year": 2023,
+        "platform": "Apple TV+",
+        "url": "https://tv.apple.com/in/search?term=Silo",
+        "urlType": "platform-search",
+        "note": "Dystopian mystery (Rebecca Ferguson) based on Hugh Howey's novels; 'no bad seasons' per Collider best-of; Reddit r/tvPlus staple.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:25 IST",
+        "score": 83,
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "Foundation",
+        "type": "series",
+        "year": 2021,
+        "platform": "Apple TV+",
+        "url": "https://tv.apple.com/in/search?term=Foundation",
+        "urlType": "platform-search",
+        "note": "Asimov adaptation; S3 (2025) well received; recurring Reddit best-of pick.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:25 IST",
+        "score": 82,
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "Dark Matter",
+        "type": "series",
+        "year": 2024,
+        "platform": "Apple TV+",
+        "url": "https://tv.apple.com/in/search?term=Dark%20Matter",
+        "urlType": "platform-search",
+        "note": "Multiverse thriller (Joel Edgerton); S2 premiered Aug 28, 2026, weekly Fridays (RadioTimes/CNET/tomsguide via 13:07 hourly scan) — first live-tracked Apple TV+ season.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:25 IST",
+        "score": 80,
+        "scoreConfidence": "medium"
       }
     ],
     "hiddenGems": [
@@ -174,9 +279,9 @@
         "platform": "Netflix India",
         "url": "https://www.netflix.com/search?q=Four%20Hands%20Two%20Sonatas",
         "urlType": "platform-search",
-        "note": "Korean coming-of-age musical romance (Song Kang, Lee Jun-young, Jang Gyu-ri) set at an elite arts school; premieres Aug 29, 2026, weekly episodes (tvN + global Netflix) per ET slideshow and highonfilms release schedule.",
+        "note": "Korean coming-of-age musical romance (Song Kang, Lee Jun-young, Jang Gyu-ri) set at an elite arts school; E1 now streaming — premiered Aug 29, 2026 as scheduled, weekly episodes (tvN + global Netflix) per ET slideshow and highonfilms release schedule.",
         "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 00:07 IST",
+        "lastChecked": "2026-08-29 13:15 IST",
         "score": 68,
         "scoreConfidence": "low"
       },
@@ -312,21 +417,96 @@
         "score": 60,
         "scoreConfidence": "low",
         "provisionalScore": true
+      },
+      {
+        "title": "Black Bird",
+        "type": "limited",
+        "year": 2022,
+        "platform": "Apple TV+",
+        "url": "https://tv.apple.com/in/search?term=Black%20Bird",
+        "urlType": "platform-search",
+        "note": "Taron Egerton vs Paul Walter Hauser prison thriller; elite limited series that flew under the mainstream radar; Reddit best-of mention.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:25 IST",
+        "score": 78,
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "For All Mankind",
+        "type": "series",
+        "year": 2019,
+        "platform": "Apple TV+",
+        "url": "https://tv.apple.com/in/search?term=For%20All%20Mankind",
+        "urlType": "platform-search",
+        "note": "Alternate-history space-race drama from Ronald D. Moore; long-running critics' favorite, Reddit best-of staple.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:25 IST",
+        "score": 76,
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "Shrinking",
+        "type": "series",
+        "year": 2023,
+        "platform": "Apple TV+",
+        "url": "https://tv.apple.com/in/search?term=Shrinking",
+        "urlType": "platform-search",
+        "note": "Bill Lawrence comedy (Jason Segel, Harrison Ford); S3 listed among 2026 Apple originals by Reddit r/tvPlus (date unverified).",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:25 IST",
+        "score": 75,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "Women in Blue (Las Azules)",
+        "type": "series",
+        "year": 2026,
+        "platform": "Apple TV+",
+        "url": "https://tv.apple.com/in/search?term=Women%20in%20Blue%20(Las%20Azules)",
+        "urlType": "platform-search",
+        "note": "Spanish-language period crime drama (Mexico's first female police force); S2 premiered Aug 12, 2026 (IGN/Apple press); under-watched outside Latin America.",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:25 IST",
+        "score": 68,
+        "scoreConfidence": "low"
+      },
+      {
+        "title": "The Dynasty: UConn Huskies",
+        "type": "docuseries",
+        "year": 2026,
+        "platform": "Apple TV+",
+        "url": "https://tv.apple.com/in/search?term=The%20Dynasty:%20UConn%20Huskies",
+        "urlType": "platform-search",
+        "note": "Sports docuseries on the UConn women's basketball dynasty; premiered Aug 21, 2026 (Apple TV Press / IMDb).",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:25 IST",
+        "score": 65,
+        "scoreConfidence": "low"
       }
     ],
     "indianPicks": [
       {
         "title": "Anbe Diana",
+        "type": "movie",
         "year": 2026,
         "platform": "SonyLIV",
         "url": "https://www.sonyliv.com/search?q=Anbe%20Diana",
         "urlType": "platform-search",
-        "note": "Tamil title listed for Aug 28, 2026 on SonyLIV by Economic Times weekend slideshow — single source; type/genre unconfirmed. ⚠️ Availability needs verification.",
+        "note": "VERIFIED (29 Aug): official SonyLIV trailer page live (sonyliv.com/trailer/anbe-diana-1090540079 — 'fun-filled rom-com about a timid Perambur guy whose love for an Anglo-Indian girl puts him at odds with his conservative family') + Times of India confirms Aug 28 premiere; also in ET slideshow. Tamil rom-com (Pari Elavazhagan, Ramya Ranganathan).",
         "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 09:28 IST",
-        "score": 55,
-        "scoreConfidence": "low",
-        "provisionalScore": true
+        "lastChecked": "2026-08-29 13:15 IST",
+        "score": 60,
+        "scoreConfidence": "medium"
+      },
+      {
+        "title": "Operation Safed Sagar: The Untold Story of the Kargil War",
+        "platform": "Netflix India",
+        "url": "https://www.netflix.com/in/title/81616273",
+        "urlType": "title-page",
+        "note": "See highlyRecommended — full entry. Kargil/IAF series, #1 India 20d; strong match for aviation-history taste (alongside Last Salute: MiG-21).",
+        "addedOn": "2026-08-29",
+        "lastChecked": "2026-08-29 13:15 IST",
+        "score": 72
       },
       {
         "title": "The Last Salute: A Love Letter To MiG-21",
@@ -353,9 +533,9 @@
         "platform": "ZEE5",
         "url": "https://www.zee5.com/search?q=Bandar",
         "urlType": "platform-search",
-        "note": "Aug 28 arrival per trackers. ⚠️ verify.",
+        "note": "Aug 28 arrival — VERIFIED multi-source (ET + GQ + Mashable, 29 Aug).",
         "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
+        "lastChecked": "2026-08-29 13:15 IST",
         "score": 76
       },
       {
@@ -363,9 +543,9 @@
         "platform": "Netflix India",
         "url": "https://www.netflix.com/search?q=Chumbak",
         "urlType": "platform-search",
-        "note": "Listed for Aug 28, 2026 on Netflix (bollymoviereviewz upcoming table). ⚠️ verify.",
+        "note": "Listed for Aug 28, 2026 on Netflix (bollymoviereviewz upcoming table); now also named in Mashable Aug 28-30 OTT roundup (2nd source). Platform still not title-page verified ⚠️.",
         "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
+        "lastChecked": "2026-08-29 13:15 IST",
         "score": 65,
         "scoreConfidence": "low"
       },
@@ -494,6 +674,12 @@
     }
   ],
   "upcoming": [
+    {
+      "title": "Call My Agent! The Movie",
+      "platform": "Netflix India",
+      "date": "2026-09-10",
+      "detail": "French 'Call My Agent!' film reuniting the ASK family, set five years after the series; global Netflix premiere Sep 10, 2026 per JustWatch India + comicbasics"
+    },
     {
       "title": "Gandhari",
       "platform": "Netflix India",

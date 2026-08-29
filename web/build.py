@@ -442,7 +442,7 @@ def main():
     <div class="stat"><b>{counts['mustWatch']}</b><span>must watch</span></div>
     <div class="stat"><b>{counts['hiddenGems']}</b><span>hidden gems</span></div>
     <div class="stat"><b>{len(data.get('platformChanges', []))}</b><span>platform changes</span></div>
-    <div class="stat"><b>7</b><span>platforms</span></div>
+    <div class="stat"><b>8</b><span>platforms</span></div>
   </div>
 </header>
 <main>

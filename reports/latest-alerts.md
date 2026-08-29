@@ -1,39 +1,38 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs._
+_Living file — rewritten by hourly/daily jobs. Last rewrite: 29 Aug 2026 13:15 IST._
 
 ---
 
 ## 🔥 DON'T MISS
 
-**Mousetrap — Netflix India (NEW, arrived 28 Aug) — TITLE PAGE VERIFIED**
-Korean identity-theft thriller limited series starring Ryu Jun-yeol and Sul Kyung-gu, adapted from the Kakao webtoon 'Field Mouse'. Official Netflix title page verified 29 Aug 09:28: [watch](https://www.netflix.com/title/81991749) (TV-MA, Limited Series). Caught via ET weekend slideshow + Mashable review — missed by earlier passes. — Last checked: 29 Aug 2026 09:28 IST
+**Alpha — Netflix India (NEW, arrived 28 Aug) — TOP PICK**
+YRF Spy Universe's first female-led entry (Alia Bhatt, Sharvari). OTT premiere Aug 28 confirmed by TOI, Bollywood Hungama, ET ([search](https://www.netflix.com/search?q=Alpha)). — Last checked: 29 Aug 2026 00:07 IST
 
-**Alpha — Netflix India (NEW, arrived 28 Aug)**
-YRF Spy Universe's first female-led entry, starring Alia Bhatt and Sharvari. OTT premiere confirmed for 28 Aug 2026 by Times of India, Bollywood Hungama, and Economic Times ([search](https://www.netflix.com/search?q=Alpha)).
-Caught in the 29 Aug 00:07 hourly pass — was missed by the 28 Aug baseline (arrived same night).
+**Michael — JioHotstar + Prime Video India (streams 29 Aug — today) — TITLE PAGE VERIFIED**
+Michael Jackson biopic (Antoine Fuqua, Jaafar Jackson); official JioHotstar title page: [watch](https://www.hotstar.com/in/movies/michael/1271670552) ("Releasing on Aug 29", IMDb 7.4). Multi-platform per ET. — Last checked: 29 Aug 2026 06:07 IST
+
+**Operation Safed Sagar: The Untold Story of the Kargil War — Netflix India (NEW to watchlist)**
+Hindi Kargil/IAF series (Golden Arrows squadron), official [title page](https://www.netflix.com/in/title/81616273); premiered Aug 7 and #1 on India Overall chart ~20 days. Aviation-history double bill with *The Last Salute: MiG-21*. — Last checked: 29 Aug 2026 13:15 IST
+
+**Mousetrap — Netflix India (arrived 28 Aug) — TITLE PAGE VERIFIED**
+Korean identity-theft thriller limited series (Ryu Jun-yeol, Sul Kyung-gu; Kakao webtoon 'Field Mouse'): [watch](https://www.netflix.com/title/81991749). — Last checked: 29 Aug 2026 09:28 IST
 
 **Dhurandhar (extended cut "RAW AND UNDEKHA") — Netflix India**
-Blockbuster spy thriller; Netflix India title page verified live ([watch](https://www.netflix.com/in/title/82156122)).
-Reports this week point to the extended cut surfacing ~27 Aug.
-⚠️ Verify exact cut/version at next refresh. — Last checked: 28 Aug 2026 23:45 IST
-
-**Michael — JioHotstar (streams 29 Aug — today) — CONFIRMED MULTI-SOURCE + TITLE PAGE**
-Michael Jackson biopic (Antoine Fuqua, Jaafar Jackson) — confirmed for Aug 29 by GQ India, Economic Times, myvi.in, and JioHotstar's own promo. ET additionally lists Prime Video (single source for that part).
-✅ Official JioHotstar title page verified 29 Aug 06:07: [watch](https://www.hotstar.com/in/movies/michael/1271670552) ("Releasing on Aug 29", IMDb 7.4). — Last checked: 29 Aug 2026 08:19 IST
+Blockbuster Ranveer Singh spy thriller; [title page verified](https://www.netflix.com/in/title/82156122). ⚠️ Exact cut/version still to confirm at next refresh. — Last checked: 28 Aug 2026 23:45 IST
 
 ## ⏰ WATCH BEFORE IT LEAVES
 
-**Netflix September leaving list published (Tudum, 29 Aug)** — Poor Things, Bombshell, The Fault in Our Stars, Redeeming Love among departures.
-⚠️ US-sourced list; India availability unverified. Daily job (09:00) to check the India leaving-soon row. — Last checked: 29 Aug 2026 01:19 IST
-
-_No India-verified expirations yet. Daily job tracks dedicated sources for expirations._
+**Netflix September exodus (US list, corroborated by whats-on-netflix + People)** — **Sep 1:** Little Miss Sunshine, Matilda, Non-Stop, Muriel's Wedding, Miracle; **later in Sep:** Girlfriends, Nashville, Rocky saga (6 films), Creed trilogy, Beverly Hills Cop; Tudum also lists Poor Things, Bombshell, The Fault in Our Stars, Redeeming Love.
+⚠️ **India availability STILL unverified** after a dedicated India-focused search (29 Aug 13:15) — US-centric sources only. Treat as US-list until seen on India leaving-soon rows. — Last checked: 29 Aug 2026 13:15 IST
 
 ## 🔄 PLATFORM CHANGE
 
-**Lenin** — RESOLVED 29 Aug 01:19: official "New on JioHotstar" row lists Lenin; Prime Video India still #1 trending. Dual availability confirmed — not a move, no action needed. — Last checked: 29 Aug 2026 01:19 IST
+_No open platform changes._ Lenin dual-availability (Prime + JioHotstar) and Michael's multi-platform release were resolved earlier today (01:19). — Last checked: 29 Aug 2026 13:15 IST
 
 ## 📅 UPCOMING TO WATCH
 
-**Gandhari — Netflix India, 3 Sep 2026** (Netflix India official promo). Queued for next week's report.
-**Four Hands, Two Sonatas — Netflix India, premiered 29 Aug** (Korean musical-romance series, weekly episodes).
+**Gandhari — Netflix India, 3 Sep 2026** (Netflix India official promo) — 5 days out.
+**Trigger Point S4 — UK ITV1/ITVX, 30 Aug** (India platform unverified).
+**Call My Agent! The Movie — Netflix, 10 Sep 2026** (JustWatch India + comicbasics; added 29 Aug — FlixPatrol "Aug 29" was a misparse).
+**Jungle Tales with Mowgli — JioHotstar, 12 Sep 2026** (official Disney India: Kids Profile + Disney Channel).
