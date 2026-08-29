@@ -2,27 +2,27 @@
   "timezone": "Asia/Kolkata",
   "platforms": {
     "netflix-india": {
-      "lastChecked": "2026-08-29 15:07 IST",
-      "method": "web_search (ET weekend slideshow + GQ/Vogue Aug 24-30 + Tudum/Wikipedia cross-check) — only already-logged titles repeat (Four Hands Two Sonatas streams today, Mousetrap Aug 28, The Secret Woman Aug 28); no removals"
+      "lastChecked": "2026-08-30 02:07 IST",
+      "method": "web_search (ET/Vogue/GQ/timesnownews Aug 24-30 + news18 + myvi + whats-on-netflix + Tudum) — no new releases; JustWatch-level flags only: The Last House + Outer Banks gap flagged for daily job, In The Earth US-only India-unverified"
     },
     "prime-video-india": {
-      "lastChecked": "2026-08-29 15:07 IST",
-      "method": "web_search (ET weekend slideshow + GQ/Vogue) — Michael streams today as scheduled; no new signal beyond already-logged titles"
+      "lastChecked": "2026-08-30 02:07 IST",
+      "method": "web_search (ET/Vogue/GQ/timesnownews Aug 24-30 + news18 + myvi week list) — only repeat already-logged titles; no new releases/removals (Michael Prime+Hotstar Aug 29 repeat)"
     },
     "jiohotstar": {
-      "lastChecked": "2026-08-29 15:07 IST",
-      "method": "web_search (ET + GQ/Vogue + 91mobiles list) — Michael streams today as scheduled; no new JioHotstar signal"
+      "lastChecked": "2026-08-30 02:07 IST",
+      "method": "web_search (ET/Vogue/timesnownews + official New-on-JioHotstar page + JustWatch new page) — only repeat already-logged titles; rolling-page library items (RE: Vendetta, LEGO Magical Mayhem, Snitch) undated, not added"
     },
     "sonyliv": {
-      "lastChecked": "2026-08-29 15:07 IST",
-      "method": "web_search (ET + myvi) — Anbe Diana (verified 13:15) is the only recent title in retrieved sources; no new signal"
+      "lastChecked": "2026-08-30 02:07 IST",
+      "method": "web_search (ET/Vogue/GQ/timesnownews Aug 24-30 + news18 + myvi week list) — only repeat already-logged titles; no new releases/removals (Anbe Diana repeat)"
     },
     "zee5": {
-      "lastChecked": "2026-08-29 15:07 IST",
-      "method": "web_search (ZEE5 new-movies page + roundups) — page items (26 Pahalgam Files, Defence Diaries, AI 171) undated standing-page entries, not attributable to last-24h; Bandar (verified 13:15) remains the only recent title"
+      "lastChecked": "2026-08-30 02:07 IST",
+      "method": "web_search (ET/Vogue/GQ/timesnownews Aug 24-30 + news18 + myvi week list) — only repeat already-logged titles; no new releases/removals; ZEE5 new-movies standing page unchanged (undated items)"
     },
     "jiocinema": {
-      "lastChecked": "2026-08-29 15:07 IST",
+      "lastChecked": "2026-08-29 16:07 IST",
       "method": "quick check only — no distinct JioCinema signal in any retrieved source; ecosystem folded into JioHotstar"
     },
     "youtube": {
@@ -30,8 +30,8 @@
       "method": "no dedicated video-level search this pass — channel-level tracking continues (Real Stories, PBS, Free Documentary)"
     },
     "apple-tv-plus": {
-      "lastChecked": "2026-08-29 15:07 IST",
-      "method": "web_search (Apple TV Press originals + RT Apple TV browse + dedicated anime verification) — Press page: only Aug 28 release = Dark Matter S2 (already logged); 'From Overshadowed to Overpowered' verified as Crunchyroll anime (premiered Jul 2, weekly) on Apple TV store listing, not Apple TV+ original — excluded; no removals"
+      "lastChecked": "2026-08-30 02:07 IST",
+      "method": "web_search (Apple TV Press + RT/People schedule) — Press unchanged: Dark Matter S2 Aug 28 latest, E2 Sep 4; no removals"
     }
   },
   "jobs": {
@@ -48,5 +48,5 @@
   },
   "baselineScanQueries": 8,
   "lastDailyRefresh": "2026-08-29 13:15 IST",
-  "notes": "DAILY DEEP REFRESH 29 Aug 13:15: 8 searches (budget cap respected). Added Operation Safed Sagar (Netflix, title page verified, premiered Aug 7, #1 India 20d) to highlyRecommended + indianPicks; Reacher added provisional (Prime India #2, 3d); Anbe Diana + Bandar verification flags lifted; Chumbak gained 2nd source; Call My Agent! The Movie added to upcoming (Sep 10 — FlixPatrol 'Aug 29' was a date-badge misparse); 'The Producer' unverifiable and excluded; Sep leaving list corroborated US-only, India still unverified; no removals/platform moves; YouTube/JioCinema no new signal. Report: reports/2026-08-29.md. | 14:07 HOURLY: 4 searches. Added Grand Theft Auto VI: An Extended Look (Netflix special, Aug 27 ET / Aug 28 IST; Variety+IGN+BBC; India per myvi week list) to hiddenGems; Turning Point: Generation 9/11 → upcoming (Netflix Sep 2; JustWatch/FlixPatrol/gadgets360 — indulgexpress JioHotstar Aug 29 claim contradicted); Apple TV+ first hourly pass: no new releases beyond Dark Matter S2 (already logged 13:25); no removals/platform moves. Alerts: none raised this pass. | 15:07 HOURLY: 5 searches. No meaningful changes — all retrieved sources repeat already-logged titles; 'From Overshadowed to Overpowered' (RT Apple TV listing) verified as Crunchyroll anime not new to Apple TV+; no alerts raised."
+  "notes": "DAILY DEEP REFRESH 29 Aug 13:15: 8 searches (budget cap respected). Added Operation Safed Sagar (Netflix, title page verified, premiered Aug 7, #1 India 20d) to highlyRecommended + indianPicks; Reacher added provisional (Prime India #2, 3d); Anbe Diana + Bandar verification flags lifted; Chumbak gained 2nd source; Call My Agent! The Movie added to upcoming (Sep 10 — FlixPatrol 'Aug 29' was a date-badge misparse); 'The Producer' unverifiable and excluded; Sep leaving list corroborated US-only, India still unverified; no removals/platform moves; YouTube/JioCinema no new signal. Report: reports/2026-08-29.md. | 14:07 HOURLY: 4 searches. Added Grand Theft Auto VI: An Extended Look (Netflix special, Aug 27 ET / Aug 28 IST; Variety+IGN+BBC; India per myvi week list) to hiddenGems; Turning Point: Generation 9/11 → upcoming (Netflix Sep 2; JustWatch/FlixPatrol/gadgets360 — indulgexpress JioHotstar Aug 29 claim contradicted); Apple TV+ first hourly pass: no new releases beyond Dark Matter S2 (already logged 13:25); no removals/platform moves. Alerts: none raised this pass. | 15:07 HOURLY: 5 searches. No meaningful changes — all retrieved sources repeat already-logged titles; 'From Overshadowed to Overpowered' (RT Apple TV listing) verified as Crunchyroll anime not new to Apple TV+; no alerts raised. | 16:07 HOURLY: 5 searches. No meaningful changes — ET slideshow items (Alpha, The Whisper Man, Michael, Four Hands Two Sonatas) all already in catalog; Apple TV Press unchanged; Tudum Sep leaving list unchanged (India unverified); FlixPatrol film-chart crawl conflict (Last Salute #3 2d vs Peddi #3 50d in 13:15 crawl) logged as ambiguous trending note for daily job; ZEE5 standing-page items undated; no alerts raised. | 00:07 HOURLY: 6 searches. Backfilled Main Vaapas Aaunga (Imtiaz Ali; Netflix since Aug 7, official title page netflix.com/title/82018915; provisional Indian Picks + genres) — catalog gap found via ET Panache monthly list; NriPage FB Aug 25-30 list verified stale (Raja Saab/Kis Kisko are Feb 2026 titles); Sep leaving chatter expanded (Aquaman, Rush Hour, The Flash) still India-unverified; The Last Sunrise already cataloged; no other changes, no alerts. | 02:07 HOURLY: 6 searches. No meaningful changes; gap flags: The Last House + Outer Banks new seasons (Tudum monthly names absent from catalog — daily job), In The Earth US-only; JustWatch JioHotstar rolling-page library items undated, not added; no alerts."
 }

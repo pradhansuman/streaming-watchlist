@@ -4,34 +4,6 @@ Format: `DATE | TIME | TITLE | CHANGE | PLATFORM | ACTION`
 
 ---
 
-28 Aug 2026 | 23:45 | SYSTEM | BASELINE | All platforms | Watchlist initialized; first full scan via live web search (10 queries)
-28 Aug 2026 | 23:45 | Dhurandhar (extended cut 'RAW AND UNDEKHA') | NEW/RESURFACED | Netflix India | 🔥 Added to Must Watch — title page verified (netflix.com/in/title/82156122)
-28 Aug 2026 | 23:45 | The Last Salute: A Love Letter To MiG-21 | NEW | Netflix India | 🔥 Added to Must Watch — Top 10 India films #3 on day 1 (FlixPatrol 28 Aug)
-28 Aug 2026 | 23:45 | The Last Sunrise | NEW | Prime Video India | ⭐ Added to Highly Recommended — #2 trending after 1 day
-28 Aug 2026 | 23:45 | Bandar | NEW | ZEE5 | 🇮🇳 Added to Indian Picks — trackers list Aug 28 arrival ⚠️ verify
-28 Aug 2026 | 23:45 | Chumbak | NEW | Netflix India | 🇮🇳 Logged — trackers list Aug 28 arrival ⚠️ verify
-28 Aug 2026 | 23:45 | Lenin | NEW | Prime Video India | ⭐ #1 trending (3 days); also on JioHotstar new list — 🔄 platform check pending
-28 Aug 2026 | 23:45 | Cocktail 2 | TRENDING (13d) | Netflix India | ⭐ High long-tail momentum (Top 10 ~2 weeks)
-28 Aug 2026 | 23:45 | Pyaar Prema Kalyanam | TRENDING (6d) | Netflix India | ⭐ Current #1 India film
-28 Aug 2026 | 23:45 | Breaking the Bank: One Trader, 50 Billion | NEW | JioHotstar | 💎 Added to Hidden Gems
-28 Aug 2026 | 23:45 | Governor: The Silent Saviour | TRENDING (20d) | Prime Video India | 💎 Added to Hidden Gems
-28 Aug 2026 | 23:45 | Exhuma | NEW TO PLATFORM | JioHotstar | 💎 Added to Hidden Gems
-28 Aug 2026 | 23:45 | Novak Djokovic: The Wolf in Winter | NEW | JioHotstar (Disney+ content) | ⭐ Added — platform in India ⚠️ verify
-28 Aug 2026 | 23:45 | Ted Lasso (new season) | NEW SEASON | JioHotstar (Disney+ content) | ⭐ Added — NYT August arrivals ⚠️ verify
-28 Aug 2026 | 23:45 | A Child of My Own | NEW (Aug 13) | Netflix India | 💎 Added to Hidden Gems
-28 Aug 2026 | 23:45 | The Whisper Man | NEW TO ROW | Netflix India | 💎 Added to Hidden Gems
-28 Aug 2026 | 23:45 | Freefall: A Reckoning for Boeing | NEW (Aug 19) | Platform in India unknown | 💎 Parked until platform verified
-28 Aug 2026 | 23:45 | Gandhari | UPCOMING | Netflix India | 🇮🇳 Queued — out 3 Sep (Netflix India promo)
-28 Aug 2026 | 23:45 | Graveyard S3 / Beauty in Black S3 / 25 Years of You S1 | NEW EPISODES/SEASONS | Netflix India | Logged (JustWatch new list) — not promoted
-28 Aug 2026 | 23:45 | Dark Matter S1 | NEW | Prime Video India | Logged (JustWatch new list) — not promoted
-28 Aug 2026 | 23:45 | — | NO REMOVAL DATA | — | No verifiable removal/leaving-soon data found in baseline scan; daily job will track
-29 Aug 2026 | 00:07 | Alpha | NEW (OTT premiere Aug 28) | Netflix India | 🔥 Added to Must Watch — YRF Spy Universe (Alia Bhatt, Sharvari); TOI + Bollywood Hungama + ET confirm Netflix Aug 28
-29 Aug 2026 | 00:07 | Michael | NEW (Aug 29) | JioHotstar | 🔥 Added to Must Watch — Michael Jackson biopic per GQ India Aug 24-30 list ⚠️ Availability needs verification (single-source platform claim)
-29 Aug 2026 | 00:07 | Four Hands, Two Sonatas | NEW (premieres Aug 29, weekly episodes) | Netflix India | 💎 Added to Hidden Gems — Korean musical-romance series (Song Kang); ET slideshow + highonfilms confirm
-29 Aug 2026 | 01:19 | Michael | PLATFORM CONFIRMED | JioHotstar + Prime Video India | 🔥 Upgraded to multi-source: GQ + ET weekend list + myvi.in + JioHotstar promo — streams Aug 29; title pages still unchecked
-29 Aug 2026 | 01:19 | Lenin | PLATFORM CONFIRMED | Prime Video India + JioHotstar | 🔄 Resolved — official "New on JioHotstar" row lists Lenin; dual availability (PV #1 trending), not a move
-29 Aug 2026 | 01:19 | September leaving list (Poor Things, Bombshell, The Fault in Our Stars, Redeeming Love) | LEAVING-SOON (Sep) published | Netflix | ⚠️ Tudum list retrieved this pass — India availability unverified; daily job to verify
-29 Aug 2026 | 01:19 | SYSTEM | RECONCILE | All platforms | 01:07 pass crashed after catalog edit; 01:19 pass independently verified same facts and completed log/alerts/state/build/push
 29 Aug 2026 | 06:07 | Part-Timers | TITLE PAGE VERIFIED | JioHotstar | Official page live (hotstar.com/in/shows/part-timers/1271675060), S1 E1 dated 28 Aug — upgraded from platform-row link
 29 Aug 2026 | 06:07 | Babita Singh Reporting | NEW (Aug 28) | Prime Video India | Prime Original investigative drama (Nimisha Sajayan, dir. Ambiecka Pandit), global launch 28 Aug — Deadline + IMDb + Times Now; added to Indian Picks
 29 Aug 2026 | 06:07 | Baredda | NEW (Aug 28) | Prime Video India | Times Now Friday-release list only — single source, ⚠️ Availability needs verification; provisional entry added
@@ -73,3 +45,13 @@ Format: `DATE | TIME | TITLE | CHANGE | PLATFORM | ACTION`
 29 Aug 2026 | 14:07 | Apple TV+ (first hourly pass) | NO NEW CHANGES | Apple TV+ | Apple TV Press originals page: only Aug 28 release = Dark Matter S2 (already logged 13:25); Stillwater S5/Dynasty (Aug 21) + Women in Blue S2 (Aug 12) already seeded; no removals
 29 Aug 2026 | 14:07 | — | NO OTHER CHANGES | Netflix India, Prime Video India, JioHotstar, SonyLIV, ZEE5 | Hourly re-scan (4 searches): ET weekend slideshow + Vogue + GQ + myvi/indulgexpress week lists only repeat already-logged titles; Tudum Sep leaving list not re-fetched (unchanged as of 13:15); no removals/platform moves
 29 Aug 2026 | 15:07 | — | NO CHANGES | Netflix India, Prime Video India, JioHotstar, SonyLIV, ZEE5, Apple TV+ | Hourly re-scan (5 searches): ET weekend slideshow + GQ/Vogue Aug 24-30 + myvi week list only repeat already-logged titles (Four Hands Two Sonatas + Michael stream today as scheduled); 'From Overshadowed to Overpowered' checked — Crunchyroll anime airing weekly since Jul 2 via Apple TV store listing, not an Apple TV+ original, not new; ZEE5 new-movies page items (26 Pahalgam Files, Defence Diaries, AI 171) undated standing-page entries — no last-24h signal; no removals/platform moves
+29 Aug 2026 | 16:07 | Netflix India film Top 10 | TRENDING UPDATE (conflicting crawls) | Netflix India | FlixPatrol 28-Aug film-chart snippet now shows The Last Salute #3 (2d) + Facing El Chapo #4 — conflicts with 13:15 crawl (Peddi #3, 50d); all titles already tracked, chart-cache ambiguity ⚠️ flagged for daily job
+29 Aug 2026 | 16:07 | — | NO CHANGES | Netflix India, Prime Video India, JioHotstar, SonyLIV, ZEE5, Apple TV+ | Hourly re-scan (5 searches): ET weekend slideshow (Alpha + The Whisper Man + Michael + Four Hands Two Sonatas — all already in catalog) + Vogue/GQ Aug 24-30 + myvi week list only repeat already-logged titles; Apple TV Press unchanged (Dark Matter S2 latest, Aug 28); Tudum Sep leaving list unchanged (India still unverified); ZEE5 new-movies page items (Before Colours, Re Routing, Awara Samsara) undated standing entries; no removals/platform moves
+30 Aug 2026 | 00:07 | Main Vaapas Aaunga | NEW BACKFILL (streaming since Aug 7; catalog gap found this pass) | Netflix India | Official title page verified (netflix.com/title/82018915) — Imtiaz Ali period romance (Diljit Dosanjh, Sharvari, Vedang Raina; theatrical Jun 12); TOI + ET Panache confirm Aug 7 Netflix premiere; provisional 🇮🇳 Indian Picks entry with genres — score review left to daily job
+30 Aug 2026 | 00:07 | The Raja Saab + Kis Kisko Pyaar Karoon 2 (NriPage FB 'Aug 25-30' list) | CHECKED — STALE LIST | JioHotstar | FB post recycles Feb 2026 week-list titles: The Raja Saab streaming since Feb 6 (official page hotstar.com/in/movies/the-raja-saab/1271527032 per NDTV/Indian Express); Kis Kisko Pyaar Karoon 2 same Feb week — not last-24h changes
+30 Aug 2026 | 00:07 | September leaving list (Aquaman, Rush Hour series, The Flash now in removal chatter) | LEAVING-SOON update | Netflix | netflixlife post expands Sep removal chatter beyond Tudum list — India availability STILL unverified ⚠️; daily job to verify
+30 Aug 2026 | 00:07 | — | NO OTHER CHANGES | Netflix India, Prime Video India, JioHotstar, SonyLIV, ZEE5, Apple TV+ | Hourly re-scan (6 searches): ET/GQ/Vogue Aug 24-30 + news18 Aug 28-30 + myvi week list only repeat already-logged titles; The Last Sunrise verified already cataloged (Prime, Aug 26); Apple TV Press unchanged (Dark Matter S2 Aug 28 latest); no removals/platform moves
+30 Aug 2026 | 02:07 | Resident Evil: Vendetta + LEGO Disney Princess: Magical Mayhem + Snitch (JustWatch JioHotstar 'new' page) | CHECKED — UNDATED ROLLING-PAGE LIBRARY ITEMS | JioHotstar | Official title pages live (RE: Vendetta hotstar.com/in/movies/1271685150; LEGO Magical Mayhem 1271673390) but no addition dates anywhere — same convention as ZEE5/Hotstar standing pages; no last-24h signal; not added
+30 Aug 2026 | 02:07 | The Last House + Outer Banks (new seasons) | CATALOG GAP FLAGGED for daily job | Netflix | Tudum 'New on Netflix in August' names both; absent from catalog; no date/details/India page retrieved this pass — daily deep refresh to verify (same gap type as Main Vaapas Aaunga backfill)
+30 Aug 2026 | 02:07 | In The Earth (2021) | CHECKED — US-only signal | Netflix (India unverified) | whats-on-netflix Aug 29 week-list addition; ⚠️ India availability unverified — not added
+30 Aug 2026 | 02:07 | — | NO OTHER CHANGES | Netflix India, Prime Video India, JioHotstar, SonyLIV, ZEE5, Apple TV+ | Hourly re-scan (6 searches): ET/Vogue/GQ/timesnownews Aug 24-30 + news18 + myvi week lists only repeat already-logged titles (Four Hands Two Sonatas + Michael streamed Aug 29 as scheduled); Apple TV Press unchanged (Dark Matter S2 latest, E2 Sep 4); ZEE5 new-movies page unchanged (Before Colours/Re Routing/Awara Samsara undated); no removals/platform moves
