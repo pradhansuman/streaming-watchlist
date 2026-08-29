@@ -2,27 +2,27 @@
   "timezone": "Asia/Kolkata",
   "platforms": {
     "netflix-india": {
-      "lastChecked": "2026-08-29 14:07 IST",
-      "method": "web_search (OTT roundups ET/Vogue/GQ/myvi + dedicated GTA 6 verification) — Grand Theft Auto VI: An Extended Look added (multi-source Variety+IGN+BBC, Aug 27 ET premiere, India per myvi week list); Turning Point: Generation 9/11 → upcoming Sep 2 (JustWatch/FlixPatrol/gadgets360); no removals"
+      "lastChecked": "2026-08-29 15:07 IST",
+      "method": "web_search (ET weekend slideshow + GQ/Vogue Aug 24-30 + Tudum/Wikipedia cross-check) — only already-logged titles repeat (Four Hands Two Sonatas streams today, Mousetrap Aug 28, The Secret Woman Aug 28); no removals"
     },
     "prime-video-india": {
-      "lastChecked": "2026-08-29 14:07 IST",
-      "method": "web_search (ET weekend slideshow + roundups) — only already-logged titles repeat (Michael, Four Hands Two Sonatas, Anbe Diana); Reacher/Playground chart state unchanged since 13:15; no new signal"
+      "lastChecked": "2026-08-29 15:07 IST",
+      "method": "web_search (ET weekend slideshow + GQ/Vogue) — Michael streams today as scheduled; no new signal beyond already-logged titles"
     },
     "jiohotstar": {
-      "lastChecked": "2026-08-29 14:07 IST",
-      "method": "web_search (roundups + Turning Point verification) — indulgexpress 'Turning Point: Generation 9/11 Aug 29 JioHotstar' claim contradicted by JustWatch India + FlixPatrol + gadgets360 (Netflix Sep 2); no new JioHotstar signal"
+      "lastChecked": "2026-08-29 15:07 IST",
+      "method": "web_search (ET + GQ/Vogue + 91mobiles list) — Michael streams today as scheduled; no new JioHotstar signal"
     },
     "sonyliv": {
-      "lastChecked": "2026-08-29 14:07 IST",
-      "method": "web_search (weekend roundups) — Anbe Diana (verified 13:15) is the only recent title in retrieved sources; no new signal"
+      "lastChecked": "2026-08-29 15:07 IST",
+      "method": "web_search (ET + myvi) — Anbe Diana (verified 13:15) is the only recent title in retrieved sources; no new signal"
     },
     "zee5": {
-      "lastChecked": "2026-08-29 14:07 IST",
-      "method": "web_search (weekend roundups) — Bandar (verified 13:15) is the only recent title in retrieved sources; no new signal"
+      "lastChecked": "2026-08-29 15:07 IST",
+      "method": "web_search (ZEE5 new-movies page + roundups) — page items (26 Pahalgam Files, Defence Diaries, AI 171) undated standing-page entries, not attributable to last-24h; Bandar (verified 13:15) remains the only recent title"
     },
     "jiocinema": {
-      "lastChecked": "2026-08-29 14:07 IST",
+      "lastChecked": "2026-08-29 15:07 IST",
       "method": "quick check only — no distinct JioCinema signal in any retrieved source; ecosystem folded into JioHotstar"
     },
     "youtube": {
@@ -30,8 +30,8 @@
       "method": "no dedicated video-level search this pass — channel-level tracking continues (Real Stories, PBS, Free Documentary)"
     },
     "apple-tv-plus": {
-      "lastChecked": "2026-08-29 14:07 IST",
-      "method": "web_search (Apple TV Press originals + Apple August coverage) — FIRST hourly pass since 13:25 platform addition; only Aug 28 release = Dark Matter S2 (already logged); Stillwater S5/Dynasty Aug 21 + Women in Blue S2 Aug 12 already seeded; no other releases/removals in window"
+      "lastChecked": "2026-08-29 15:07 IST",
+      "method": "web_search (Apple TV Press originals + RT Apple TV browse + dedicated anime verification) — Press page: only Aug 28 release = Dark Matter S2 (already logged); 'From Overshadowed to Overpowered' verified as Crunchyroll anime (premiered Jul 2, weekly) on Apple TV store listing, not Apple TV+ original — excluded; no removals"
     }
   },
   "jobs": {
@@ -48,5 +48,5 @@
   },
   "baselineScanQueries": 8,
   "lastDailyRefresh": "2026-08-29 13:15 IST",
-  "notes": "DAILY DEEP REFRESH 29 Aug 13:15: 8 searches (budget cap respected). Added Operation Safed Sagar (Netflix, title page verified, premiered Aug 7, #1 India 20d) to highlyRecommended + indianPicks; Reacher added provisional (Prime India #2, 3d); Anbe Diana + Bandar verification flags lifted; Chumbak gained 2nd source; Call My Agent! The Movie added to upcoming (Sep 10 — FlixPatrol 'Aug 29' was a date-badge misparse); 'The Producer' unverifiable and excluded; Sep leaving list corroborated US-only, India still unverified; no removals/platform moves; YouTube/JioCinema no new signal. Report: reports/2026-08-29.md. | 14:07 HOURLY: 4 searches. Added Grand Theft Auto VI: An Extended Look (Netflix special, Aug 27 ET / Aug 28 IST; Variety+IGN+BBC; India per myvi week list) to hiddenGems; Turning Point: Generation 9/11 → upcoming (Netflix Sep 2; JustWatch/FlixPatrol/gadgets360 — indulgexpress JioHotstar Aug 29 claim contradicted); Apple TV+ first hourly pass: no new releases beyond Dark Matter S2 (already logged 13:25); no removals/platform moves. Alerts: none raised this pass."
+  "notes": "DAILY DEEP REFRESH 29 Aug 13:15: 8 searches (budget cap respected). Added Operation Safed Sagar (Netflix, title page verified, premiered Aug 7, #1 India 20d) to highlyRecommended + indianPicks; Reacher added provisional (Prime India #2, 3d); Anbe Diana + Bandar verification flags lifted; Chumbak gained 2nd source; Call My Agent! The Movie added to upcoming (Sep 10 — FlixPatrol 'Aug 29' was a date-badge misparse); 'The Producer' unverifiable and excluded; Sep leaving list corroborated US-only, India still unverified; no removals/platform moves; YouTube/JioCinema no new signal. Report: reports/2026-08-29.md. | 14:07 HOURLY: 4 searches. Added Grand Theft Auto VI: An Extended Look (Netflix special, Aug 27 ET / Aug 28 IST; Variety+IGN+BBC; India per myvi week list) to hiddenGems; Turning Point: Generation 9/11 → upcoming (Netflix Sep 2; JustWatch/FlixPatrol/gadgets360 — indulgexpress JioHotstar Aug 29 claim contradicted); Apple TV+ first hourly pass: no new releases beyond Dark Matter S2 (already logged 13:25); no removals/platform moves. Alerts: none raised this pass. | 15:07 HOURLY: 5 searches. No meaningful changes — all retrieved sources repeat already-logged titles; 'From Overshadowed to Overpowered' (RT Apple TV listing) verified as Crunchyroll anime not new to Apple TV+; no alerts raised."
 }
