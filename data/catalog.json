@@ -683,7 +683,11 @@
         "note": "Title page verified live.",
         "addedOn": "2026-08-28",
         "lastChecked": "2026-08-28 23:45 IST",
-        "score": 88
+        "score": 88,
+        "genres": [
+          "Action",
+          "Thriller"
+        ]
       },
       {
         "title": "Bandar",

@@ -56,6 +56,10 @@ Both run as isolated scheduled jobs (manageable in the AutoClaw 「定时」 pan
 - Links prefer **official platform/title pages**; fallback is the platform's **official search/discovery page**.
 - **Never** piracy or illegal streaming sources. Aggregators (JustWatch/FlixPatrol/RT) are used as *detection sources only*, never as watch links.
 
+## Genre Picks of the Day
+
+The dashboard shows one best title per genre (Action · Thriller · Sci-Fi · Mystery · Drama · Comedy · Romance · Documentary · Animation). `web/build.py` rotates each pick daily among that genre's top-4 scored entries using the day of year — picks change at midnight with no job involvement. Entries need a `genres` array (1–2 tags from that list) in `catalog.json`; the hourly/daily jobs tag every new entry. Aliases of the same title are deduped; the richest entry represents it.
+
 ## Tracked platforms
 
 Netflix India · Prime Video India · JioHotstar · SonyLIV · ZEE5 · Apple TV+ · JioCinema · YouTube (docs/channels + trending)

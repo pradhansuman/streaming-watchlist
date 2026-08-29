@@ -252,6 +252,59 @@ def alerts_html():
     return f'<section id="alerts"><h2>🚨 Alerts</h2>{"".join(out)}</section>'
 
 
+GENRES = ["Action", "Thriller", "Sci-Fi", "Mystery", "Drama",
+          "Comedy", "Romance", "Documentary", "Animation"]
+
+
+def _short_title(t):
+    return re.sub(r"\s*\(.*$", "", t or "").strip()
+
+
+def genre_picks(data):
+    """🎯 Best title per genre — rotates daily (day-of-year mod top-4)."""
+    doy = datetime.now(IST).timetuple().tm_yday
+    pool = {}
+    for sec in data.get("sections", {}).values():
+        for e in sec:
+            if not e.get("genres"):
+                continue
+            k = _short_title(e.get("title", "")).lower()
+            cur = pool.get(k)
+            if cur is None or len(e.get("note", "")) > len(cur.get("note", "")):
+                pool[k] = e
+    by_genre = {}
+    for e in pool.values():
+        for g in e.get("genres", []):
+            by_genre.setdefault(g, []).append(e)
+    cards = []
+    for g in GENRES:
+        items = sorted(by_genre.get(g, []),
+                       key=lambda e: (-e.get("score", 0), e.get("title", "")))
+        if not items:
+            continue
+        top = items[:4]
+        pick, nxt = top[doy % len(top)], top[(doy + 1) % len(top)]
+        url = pick.get("url") or ""
+        t_html = (f'<a href="{esc(url)}" target="_blank" rel="noopener">{esc(pick["title"])} ↗</a>'
+                  if url.startswith("http") else esc(pick["title"]))
+        note = pick.get("note", "")
+        reason = esc(note[:120]) + ("…" if len(note) > 120 else "")
+        cards.append(
+            f'<div class="gcard"><div class="gname">{esc(g)}</div>'
+            f'<div class="gtitle">{t_html}</div>'
+            f'<div class="gmeta">{esc(pick.get("platform", "—"))} · score {pick.get("score", "—")}</div>'
+            f'<div class="gwhy">{reason}</div>'
+            f'<div class="gnext">tomorrow → {esc(_short_title(nxt.get("title", "")))}</div>'
+            f'</div>')
+    if not cards:
+        return ""
+    today = esc(datetime.now(IST).strftime("%d %b %Y"))
+    return (f'<section id="picks"><h2>🎯 Genre Picks of the Day '
+            f'<span class="count">{len(cards)}</span></h2>'
+            f'<p class="sub2">Best per genre · rotates daily among each genre\'s top-scored titles · {today}</p>'
+            f'<div class="ggrid">{"".join(cards)}</div></section>')
+
+
 def changelog_rows():
     md = read("data/change-log.md")
     rows = []
@@ -365,6 +418,14 @@ a.t{color:var(--txt)}a.t:hover{color:var(--blue)}
 .cbody p{color:var(--muted);font-size:.86rem}
 .meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;color:var(--muted);font-size:.74rem}
 .chip{background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:1px 8px}
+.ggrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
+.gcard{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+.gname{font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;opacity:.65}
+.gtitle{margin:2px 0;font-weight:600}
+.gtitle a{color:inherit}
+.gmeta{font-size:.8rem;opacity:.75}
+.gwhy{font-size:.8rem;opacity:.85;margin-top:4px}
+.gnext{font-size:.75rem;opacity:.6;margin-top:6px}
 .warn{color:var(--gold);font-weight:600}
 .score{display:flex;align-items:center;gap:10px;margin-top:auto}
 .score span{font-weight:800;font-size:.95rem;color:var(--txt)}
@@ -485,6 +546,7 @@ def main():
 </header>
 <main>
   {alerts_html()}
+  {genre_picks(data)}
   {body_sections}
   {platform_changes(data)}
   {upcoming(data)}
