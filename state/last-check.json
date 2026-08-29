@@ -2,24 +2,24 @@
   "timezone": "Asia/Kolkata",
   "platforms": {
     "netflix-india": {
-      "lastChecked": "2026-08-29 12:18 IST",
-      "method": "web_search (ET weekend slideshow, Tudum new-on-Netflix + whats-leaving, GQ/Vogue Aug 24-30; no new beyond logged baseline)"
+      "lastChecked": "2026-08-29 13:07 IST",
+      "method": "web_search (ET weekend slideshow, GQ/Vogue Aug 24-30, JustWatch new page; no new beyond logged baseline — JustWatch items are older summer additions)"
     },
     "prime-video-india": {
-      "lastChecked": "2026-08-29 12:18 IST",
-      "method": "web_search (ET + myvi new-week window Aug 29-Sep 4 + GQ/Vogue; no new beyond Babita Singh/Baredda baseline)"
+      "lastChecked": "2026-08-29 13:07 IST",
+      "method": "web_search (ET + myvi week window + livemint weekend roundup; no new beyond Babita Singh/Baredda baseline)"
     },
     "jiohotstar": {
-      "lastChecked": "2026-08-29 12:18 IST",
-      "method": "web_search (hotstar official home + Heart Beat title page + Disney India social for Jungle Tales; added Jungle Tales with Mowgli to upcoming, Sep 12)"
+      "lastChecked": "2026-08-29 13:07 IST",
+      "method": "web_search (official 'New on JioHotstar' row + 91mobiles list; DWP2 29-Aug date checked and found stale — streaming since 29 Jul)"
     },
     "sonyliv": {
-      "lastChecked": "2026-08-29 12:18 IST",
-      "method": "web_search (ET/Instagram roundup scan; no new signal beyond Anbe Diana)"
+      "lastChecked": "2026-08-29 13:07 IST",
+      "method": "web_search (ET/myvi roundup scan; no new signal beyond Anbe Diana)"
     },
     "zee5": {
-      "lastChecked": "2026-08-29 12:18 IST",
-      "method": "web_search (ZEE5 new-movies page + roundup scan; no dated new signal beyond Bandar baseline)"
+      "lastChecked": "2026-08-29 13:07 IST",
+      "method": "web_search (ZEE5 new-movies page; titles undated, no last-24h evidence — no change)"
     },
     "jiocinema": {
       "lastChecked": null,
@@ -43,5 +43,5 @@
     }
   },
   "baselineScanQueries": 7,
-  "notes": "Hourly pass 29 Aug 12:18: 7 searches. One new upcoming title — Jungle Tales with Mowgli (JioHotstar, official Disney India: Sep 12 start on Kids Profile + Disney Channel; myvi/digit Aug 28 dates conflict and treated as wrong). Trigger Point S4 UK premiere (30 Aug ITV1/ITVX) confirmed — India platform still unverified. Heart Beat S3 'New Season' badge checked: July 30 premiere, not new. Tudum Sep leaving list unchanged. No removals/platform moves. Alerts: none."
+  "notes": "Hourly pass 29 Aug 13:07: 7 searches, no meaningful changes on tracked platforms. Checked-and-cleared: Devil Wears Prada 2 '29 Aug' (91mobiles stale — since 29 Jul), Dark Matter S2 (Apple TV premiere 28 Aug, out of scope), Raël: The Last Prophet (2024 Netflix doc resurfacing in aggregator list, ⚠️ unverified). No removals/platform moves. Alerts: none."
 }
