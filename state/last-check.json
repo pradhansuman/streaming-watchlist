@@ -2,24 +2,24 @@
   "timezone": "Asia/Kolkata",
   "platforms": {
     "netflix-india": {
-      "lastChecked": "2026-08-30 15:07 IST",
-      "method": "web_search (ET weekend slideshow + Vogue/GQ Aug 24-30 + Tudum leaving + Tudum/FlixPatrol charts) — Gatta Kusthi 2 verified & ADDED (official title page, streaming since 31 Jul, #5 Tudum India chart); Sep leaving chatter expanded (Poor Things/Bombshell/TFIOS/Heels), India unverified; no removals"
+      "lastChecked": "2026-08-30 21:08 IST",
+      "method": "web_search (Tudum India films+TV charts + FlixPatrol worldwide + week-list repeats) — Idhayam Murali verified & ADDED (title page, since 7 Aug, #6 India films chart); Our Sticky Love gap-flagged (TV chart #3, zero corroboration); no removals"
     },
     "prime-video-india": {
-      "lastChecked": "2026-08-30 15:07 IST",
-      "method": "web_search (news21 FB Aug 24-30 + week lists) — Bambai Meri Jaan listing stale (2023 S1, S2 undated); no new releases"
+      "lastChecked": "2026-08-30 21:08 IST",
+      "method": "web_search (week-list repeats only) — no new releases; NriPage FB list stale again (Ikkis)"
     },
     "jiohotstar": {
-      "lastChecked": "2026-08-30 15:07 IST",
+      "lastChecked": "2026-08-30 21:08 IST",
       "method": "web_search (week-list repeats only) — no new releases/removals"
     },
     "sonyliv": {
-      "lastChecked": "2026-08-30 15:07 IST",
-      "method": "web_search (week-list repeats only) — no new releases/removals"
+      "lastChecked": "2026-08-30 21:08 IST",
+      "method": "web_search (week-list repeats only) — Anbe Diana already cataloged; no new releases"
     },
     "zee5": {
-      "lastChecked": "2026-08-30 15:07 IST",
-      "method": "web_search (week-list repeats only) — no new releases/removals; Patriot/Maa Behen remain unverified from 13:07"
+      "lastChecked": "2026-08-30 21:08 IST",
+      "method": "web_search (week-list repeats only) — no new releases; Patriot/Maa Behen remain unverified from 13:07"
     },
     "jiocinema": {
       "lastChecked": "2026-08-29 16:07 IST",
@@ -30,8 +30,8 @@
       "method": "no dedicated video-level search this pass — channel-level tracking continues (Real Stories, PBS, Free Documentary)"
     },
     "apple-tv-plus": {
-      "lastChecked": "2026-08-30 15:07 IST",
-      "method": "web_search (Apple TV Press Aug page + Polygon weekend list) — Dark Matter S2 Aug 28 latest, E2 Sep 4 confirmed; no new releases/removals"
+      "lastChecked": "2026-08-30 21:08 IST",
+      "method": "web_search (Apple TV Press Aug page + Ted Lasso S4 PR + IGN Sep schedule) — Press unchanged (Dark Matter S2 latest Aug 28, E2 Sep 4); Ted Lasso S4 duplicate entry platform-corrected to Apple TV+ (PR: premiered Aug 5, 10 eps weekly); no new releases/removals"
     }
   },
   "jobs": {
