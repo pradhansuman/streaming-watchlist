@@ -54,6 +54,7 @@ SECTIONS = [
     ("hiddenGems", "💎 Hidden Gems", "Excellent but less obvious"),
     ("indianPicks", "🇮🇳 Indian Picks", "Best new Indian content"),
     ("youtubePicks", "▶️ YouTube Picks", "Docs & channels worth following"),
+    ("futurePicks", "🚀 Future & Learn", "YouTube must-watch: latest futuristic drops + timeless learning essentials"),
 ]
 
 # ---------------------------------------------------------------- posters
