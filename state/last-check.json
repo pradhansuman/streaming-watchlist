@@ -32,6 +32,30 @@
     "apple-tv-plus": {
       "lastChecked": "2026-08-30 21:08 IST",
       "method": "web_search (Apple TV Press Aug page + Ted Lasso S4 PR + IGN Sep schedule) — Press unchanged (Dark Matter S2 latest Aug 28, E2 Sep 4); Ted Lasso S4 duplicate entry platform-corrected to Apple TV+ (PR: premiered Aug 5, 10 eps weekly); no new releases/removals"
+    },
+    "ai": {
+      "lastChecked": "2026-08-30 22:09 IST",
+      "method": "initial seeding via web_search (2026 best-of channel lists); weekday rotation starts 31 Aug"
+    },
+    "sports": {
+      "lastChecked": "2026-08-30 22:09 IST",
+      "method": "initial seeding via web_search (2026 best-of channel lists); weekday rotation starts 31 Aug"
+    },
+    "gadgets": {
+      "lastChecked": "2026-08-30 22:09 IST",
+      "method": "initial seeding via web_search (2026 best-of channel lists); weekday rotation starts 31 Aug"
+    },
+    "green-energy": {
+      "lastChecked": "2026-08-30 22:09 IST",
+      "method": "initial seeding via web_search (2026 best-of channel lists); weekday rotation starts 31 Aug"
+    },
+    "business": {
+      "lastChecked": "2026-08-30 22:09 IST",
+      "method": "initial seeding via web_search (2026 best-of channel lists); weekday rotation starts 31 Aug"
+    },
+    "money": {
+      "lastChecked": "2026-08-30 22:09 IST",
+      "method": "initial seeding via web_search (2026 best-of channel lists); weekday rotation starts 31 Aug"
     }
   },
   "jobs": {

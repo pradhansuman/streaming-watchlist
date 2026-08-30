@@ -55,6 +55,12 @@ SECTIONS = [
     ("indianPicks", "🇮🇳 Indian Picks", "Best new Indian content"),
     ("youtubePicks", "▶️ YouTube Picks", "Docs & channels worth following"),
     ("futurePicks", "🚀 Future & Learn", "YouTube must-watch: latest futuristic drops + timeless learning essentials"),
+    ("aiPicks", "🤖 AI & Future Tech", "AI channels & picks on YouTube"),
+    ("sportsPicks", "🏟️ Sports", "Sports analysis & highlights on YouTube"),
+    ("gadgetPicks", "📱 Gadgets", "Tech reviews & hardware on YouTube"),
+    ("greenPicks", "🌱 Green Energy", "Cleantech & energy transition on YouTube"),
+    ("businessPicks", "💼 Business Ideas", "Startups & entrepreneurship on YouTube"),
+    ("moneyPicks", "💰 Money", "Personal finance & investing on YouTube"),
 ]
 
 # ---------------------------------------------------------------- posters
