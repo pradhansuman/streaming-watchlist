@@ -1,1569 +1,1608 @@
 {
-  "version": 1,
-  "system": "Streaming Watchlist — Live Content Update Engine",
-  "region": "India",
-  "lastBaselineScan": "2026-08-28 23:40-23:55 IST",
-  "lastFullRefresh": "2026-08-28 23:45 IST",
-  "notes": "Baseline established 28 Aug 2026 via live web search. Scores are provisional pending daily recalcs. urlType 'platform-search' = official platform search/discovery page fallback per link policy. | 29 Aug 01:07 hourly: caught 28 Aug Friday batch missed by baseline (I, Nobody, Part-Timers, Adults S2, The Secret Woman, All the Truth in My Lies) + Michael platform expansion + Lenin platform resolution. Scores on new entries are provisional (daily job recalculates). | 01:19 hourly: Michael multi-source confirmed, Lenin dual-platform confirmed, Tudum Sep leaving list noted (India unverified). | 06:07 hourly: Michael + Part-Timers upgraded to verified official title pages; added Babita Singh Reporting (multi-source) + Baredda (single-source ⚠️) on Prime Video India; Reacher new at #2 on Prime India Overall Top 10; Tudum Sep leaving list expanded; Operation Safed Sagar flagged for daily job. | 08:19 hourly: backfilled change-log for titles added by the crashed 01:07 run — The Secret Woman re-verified (official about.netflix.com; Danish-Norwegian thriller), All the Truth in My Lies re-verified (title page; corrected to Spanish Benavent adaptation), Adults S2 + I, Nobody logged for audit. Added Batman: Knightfall Part 1 (JioHotstar, Vogue + OTT-popcorn reel, ⚠️ provisional — no official title page). Prime/SonyLIV/ZEE5: no new signal. | 09:28 hourly: added Mousetrap (Netflix, verified title page — missed by earlier passes) + Anbe Diana (SonyLIV, single-source ⚠️, first SonyLIV signal). No removals/platform moves; Four Hands Two Sonatas + Michael premiere today as scheduled. | 10:07 hourly: no changes — weeklies repeat already-logged titles; GQ 'weekend' piece (Dhurandhar/Office Romance/Pyramid Scheme) verified stale June 5 article; Tudum Sep leaving list unchanged; no removals/platform moves across all five platforms. | 12:18 hourly: Jungle Tales with Mowgli added to upcoming (official Disney India: Sep 12, JioHotstar Kids Profile + Disney Channel; aggregator Aug 28 dates wrong); TP S4 UK premiere 30 Aug confirmed — India platform still unverified; Heart Beat S3 checked = July 30 premiere, not new; Tudum Sep leaving list unchanged; no removals/platform moves across all five platforms. | 13:15 DAILY DEEP REFRESH: Operation Safed Sagar added to highlyRecommended + indianPicks (official title page, premiered Aug 7, #1 India 20d — actioned 06:07 flag); Reacher added provisional (FlixPatrol #2 Prime India, 3d; season on chart ⚠️); Anbe Diana verified via official SonyLIV trailer page + TOI; Bandar ⚠️ lifted (ET+GQ+Mashable); Chumbak 2nd source (Mashable); Call My Agent! The Movie → upcoming Sep 10; Netflix Top 10 films stable (Pyaar 7d / Cocktail 2 14d / Peddi 50d); Sep leaving list corroborated US-only, India unverified; no removals/platform moves; YouTube/JioCinema no new signal. 8 searches used. | 2026-08-29 13:25 IST: Apple TV+ added as tracked platform (user request) — 11 titles seeded from Apple TV Press Aug 2026 + IGN roundup + The Times/Reddit best-of. Dark Matter S2 (premiered 28 Aug, weekly) and Ted Lasso S4 (Aug 5) are current-month releases. Scores provisional — daily job recalculates. | 14:07 hourly: added Grand Theft Auto VI: An Extended Look to hiddenGems (Netflix special, Aug 27 ET / Aug 28 IST premiere; Variety+IGN+BBC multi-source; India per myvi week list); Turning Point: Generation 9/11 added to upcoming (Netflix Sep 2 — JustWatch/FlixPatrol/gadgets360; indulgexpress JioHotstar Aug 29 claim contradicted); Apple TV+ first hourly pass: Apple TV Press shows no other Aug 28 release besides Dark Matter S2 (already logged 13:25); no removals/platform moves. 4 searches used. | 02:07 HOURLY: 6 searches. No meaningful changes — all retrieved sources repeat already-logged titles; JustWatch/Hotstar JioHotstar rolling-page library items (Resident Evil: Vendetta, LEGO Disney Princess: Magical Mayhem, Snitch) undated, not added; catalog gaps flagged for daily job (The Last House, Outer Banks new seasons — Tudum monthly names, unverified this pass); In The Earth US-only, India unverified; no removals/platform moves. | 06:07 HOURLY: 5 searches. No meaningful changes — all retrieved sources repeat already-logged titles; Sep leaving-list chatter further expanded (Anatomy of a Fall, Black Lightning S1-5, Orphan Black, Crashing S1, A Beautiful Life, Ali, Blood and Bone) still India-unverified ⚠️; Outer Banks S5 dated to Aug 17-23 window per wionews (corroborates standing gap flag); Apple TV Press unchanged (Dark Matter S2 latest, E2 Sep 4); no entry changes, no alerts. | 10:07 HOURLY: 5 searches. No meaningful changes — week lists repeat already-logged titles; Babita Singh Reporting confirmed already cataloged (06:07) — url upgraded to official Prime detail page (urlType title-page), genre refined Drama+Mystery; Netflix India film Top 10 Aug 29: Alpha #1 / GTA VI Extended Look #2 / Safed Sagar #3 (trending note logged); Apple TV Press unchanged (Dark Matter S2 latest, E2 Sep 4); no removals/platform moves, no alerts. | 18:07 HOURLY: 6 searches. Two verified backfills added to hiddenGems: Facing El Chapo (official India title page netflix.com/in/title/82048151; Mexican action thriller 'La Captura', Aug 21 worldwide premiere per The Week+TOI; FlixPatrol India film chart #4 on 29 Aug crawl; corrects 29 Aug 16:07 'already tracked' misread) and Don't Say Good Luck (official title page netflix.com/title/81975622; Julia Hart/Sunny Sandler drama, Aug 14 premiere per Wikipedia+Tudum+Variety). All week lists (GQ/Vogue/ET/TimesNow Aug 24-30, news18 Aug 28-30, myvi Aug 29-Sep 4) repeat already-logged titles; Apple TV Press unchanged (Dark Matter S2 latest, E2 Sep 4); Sep leaving chatter unchanged since 15:07 (India unverified); no removals/platform moves, no alerts. | 21:08 HOURLY: 9 searches (6 discovery + 3 verification). Idhayam Murali added to indianPicks (official title page netflix.com/title/82072500, streaming since 7 Aug, #6 Tudum India films chart); 'Ted Lasso (new season)' duplicate platform-corrected JioHotstar→Apple TV+ (Apple TV PR contradicts NYT Disney+ attribution); Our Sticky Love (Tudum India TV chart #3) gap-flagged for daily job — zero corroboration beyond chart; FlixPatrol worldwide Aug 30: GTA VI #1, Whisper Man #2, Facing El Chapo #3 (all cataloged); no removals/platform moves, no alerts. | 2026-08-30 21:25 IST: youtubePicks upgraded from 3 channel-only entries to 6 tracked channels (Real Stories, PBS, Free Documentary, + Veritasium, 3Blue1Brown, Kurzgesagt per user request for better YouTube recommendations) + first video-level pick (Kurzgesagt 'The Impenetrable Barrier', Aug 4). Daily job now runs a YouTube pass: new notable uploads become video picks (max 2-3/week), picks retire after ~14 days. | 2026-08-30 21:39 IST: new section futurePicks ('🚀 Future & Learn — YouTube Must Watch') per user request: latest futuristic drops (🆕) + timeless learning essentials (🎓), 6 entries, all search-verified. Impenetrable Barrier moved here from youtubePicks. | 2026-08-30 22:09 IST: SIX interest sections added per user request — aiPicks/sportsPicks/gadgetPicks/greenPicks/businessPicks/moneyPicks (21 YouTube channel entries, all search-verified 2026 lists). No genres on interest sections (excluded from Genre Picks). Daily job maintains them via weekday rotation (Mon AI, Tue Sports, Wed Gadgets, Thu Green Energy, Fri Business, Sat Money). | 05:25 HOURLY 02 Sep: 7 searches. Two backfills: Newton's 3rd Law (Netflix India — official /in/title/83001645 verified, Telugu investigative drama, #2 FlixPatrol India films Sep 1) + The Moment (JioHotstar — official title page 1271666133 verified, Charli XCX mockumentary, Jul arrival per third-party ⚠️). Trending shift: Alpha #1 / Newton's 3rd Law #2 / Whisper Man #3 / Cocktail 2 #4 (Sep 1 films chart). Alert file rewritten with Sep-wave block — 17:07 claimed rewrite had not persisted (file still showed 29 Aug version). No removals/platform moves. | 07:16 HOURLY 02 Sep: 5 searches. No new titles — Tudum India film chart shift logged (Alpha #1, Pyaar Prema Kalyanam #2, Cocktail 2 #3, GTA VI Extended Look #4, Newton's 3rd Law #5; Whisper Man out of visible top-5); Apple TV Press unchanged (Dark Matter S2 E2 Sep 4, Mayday Sep 4); Korean Kanakaraju still date-less; no removals/platform moves, no alerts. | 13:07 HOURLY 02 Sep: 7 searches. No meaningful changes — no catalog edits, no alerts. Flags for daily job: Jared Freid: The Family Plan (Netflix Sep 1) + Driven S1-3 (Netflix Sep 2) — Tudum official monthly list, India unverified; Death of the Pastor's Wife (Netflix docuseries, Aug 26) #1 globally per FlixPatrol Sep 1 — India unverified. Madharaasi flag RESOLVED: Prime library title since Oct 1 2025 (GQ listing stale); Tudum India films chart unchanged vs 07:16.",
-  "sections": {
-    "mustWatch": [
-      {
-        "title": "Alpha",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/search?q=Alpha",
-        "urlType": "platform-search",
-        "note": "YRF Spy Universe first female-led entry (Alia Bhatt, Sharvari). OTT premiere Aug 28, 2026 — confirmed by Times of India, Bollywood Hungama, Economic Times. Missed by baseline scan (arrived same night).",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 00:07 IST",
-        "score": 84,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Action",
-          "Thriller"
-        ]
-      },
-      {
-        "title": "Michael",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Prime Video India + JioHotstar",
-        "url": "https://www.hotstar.com/in/movies/michael/1271670552",
-        "urlType": "title-page",
-        "note": "Michael Jackson biopic (Antoine Fuqua, Jaafar Jackson) — official JioHotstar title page live: 'Releasing on Aug 29', IMDb 7.4; streams via the Peacock Hub (Bollywood Hungama). ET also lists Prime Video.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 06:07 IST",
-        "score": 78,
-        "scoreConfidence": "low",
-        "genres": [
-          "Drama"
-        ]
-      },
-      {
-        "title": "Dhurandhar (extended cut 'RAW AND UNDEKHA')",
-        "type": "movie",
-        "year": 2025,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/in/title/82156122",
-        "urlType": "title-page",
-        "note": "Blockbuster Ranveer Singh spy thriller; title page live on Netflix India. IMDb news lists Netflix 8/27/2026 for the new cut; Netflix streaming since Jan 30, 2026. Extended cut arrival reported this week — ⚠️ verify exact cut/date.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 88,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Action",
-          "Thriller"
-        ]
-      },
-      {
-        "title": "The Last Salute: A Love Letter To MiG-21",
-        "type": "documentary",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/search?q=The%20Last%20Salute",
-        "urlType": "platform-search",
-        "note": "Out now (reported Aug 26); entered India Top 10 films at #3 on day 1 (FlixPatrol Aug 28). New Indian aviation documentary.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 82,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "The Last Sunrise",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Prime Video India",
-        "url": "https://www.primevideo.com/search?phrase=The%20Last%20Sunrise",
-        "urlType": "platform-search",
-        "note": "Featured as NEW MOVIE on Prime Video; #2 trending in India after 1 day on chart (FlixPatrol Aug 28).",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 78,
-        "scoreConfidence": "low",
-        "genres": [
-          "Drama"
-        ]
-      },
-      {
-        "title": "Bandar",
-        "type": "movie",
-        "year": 2026,
-        "platform": "ZEE5",
-        "url": "https://www.zee5.com/search?q=Bandar",
-        "urlType": "platform-search",
-        "note": "VERIFIED multi-source (29 Aug): Economic Times + GQ India + Mashable all list Aug 28 ZEE5. Anurag Kashyap crime thriller (Bobby Deol as Samar Mehra, Sanya Malhotra, Saba Azad); premiered at TIFF last year. Official ZEE5 title page still unchecked.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-29 13:15 IST",
-        "score": 76,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Drama",
-          "Thriller"
-        ]
-      },
-      {
-        "title": "Severance",
-        "type": "series",
-        "year": 2022,
-        "platform": "Apple TV+",
-        "url": "https://tv.apple.com/in/search?term=Severance",
-        "urlType": "platform-search",
-        "note": "Ben Stiller-directed workplace sci-fi thriller (Adam Scott); S2 (Jan 2025) was one of the year's biggest TV events; The Times Aug 2026 best-of standout + top Reddit r/tvPlus pick.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:25 IST",
-        "score": 92,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Sci-Fi",
-          "Thriller"
-        ]
-      },
-      {
-        "title": "Slow Horses",
-        "type": "series",
-        "year": 2022,
-        "platform": "Apple TV+",
-        "url": "https://tv.apple.com/in/search?term=Slow%20Horses",
-        "urlType": "platform-search",
-        "note": "Gary Oldman-led Slough House spy thriller; S5 aired 2025, renewed beyond; 'standout success for the platform' per The Times Aug 2026 best-of.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:25 IST",
-        "score": 91,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Thriller"
-        ]
-      },
-      {
-        "title": "Ted Lasso",
-        "type": "series",
-        "year": 2026,
-        "platform": "Apple TV+",
-        "url": "https://tv.apple.com/in/search?term=Ted%20Lasso",
-        "urlType": "platform-search",
-        "note": "S4 premiered Aug 5, 2026 (IGN / Apple TV Press) — the month's headline Apple original; flagship comfort-watch returns.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:25 IST",
-        "score": 86,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Comedy",
-          "Drama"
-        ]
-      }
-    ],
-    "highlyRecommended": [
-      {
-        "title": "Operation Safed Sagar: The Untold Story of the Kargil War",
-        "type": "series",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/in/title/81616273",
-        "urlType": "title-page",
-        "note": "Hindi war series on the Golden Arrows squadron's IAF mission behind enemy lines in the 1999 Kargil War (also listed as 'The Highest Air Force Mission'). Official title page verified live; about.netflix.com: premiered Aug 7, 2026. #1 on FlixPatrol India Overall chart ~20 days (Aug 28). Actioned from 06:07 daily-job flag.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:15 IST",
-        "score": 72,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Drama"
-        ]
-      },
-      {
-        "title": "Reacher (current season)",
-        "type": "series",
-        "year": 2026,
-        "platform": "Prime Video India",
-        "url": "https://www.primevideo.com/search?phrase=Reacher",
-        "urlType": "platform-search",
-        "note": "New entry at #2 on FlixPatrol Prime India Overall Top 10 (3 days on chart, Aug 28) behind Playground (9d). OTT trackers list Reacher S4 from Aug 12; exact season on the India chart unverified ⚠️. Provisional — to re-verify.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:15 IST",
-        "score": 70,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Action",
-          "Thriller"
-        ]
-      },
-      {
-        "title": "Mousetrap",
-        "type": "series",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/title/81991749",
-        "urlType": "title-page",
-        "note": "Korean identity-theft thriller limited series (Ryu Jun-yeol, Sul Kyung-gu, Lee Kyoo-hyung), based on Kakao webtoon 'Field Mouse' — released Aug 28, 2026; official title page verified live (TV-MA, Thriller). Missed by earlier passes; caught via ET weekend slideshow + Mashable review.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 09:28 IST",
-        "score": 72,
-        "scoreConfidence": "medium",
-        "provisionalScore": true,
-        "genres": [
-          "Thriller",
-          "Mystery"
-        ]
-      },
-      {
-        "title": "Cocktail 2",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/search?q=Cocktail%202",
-        "urlType": "platform-search",
-        "note": "#1-2 on Netflix India Top 10 films for ~2 straight weeks (13 days on chart, FlixPatrol Aug 28).",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 74,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Comedy",
-          "Romance"
-        ]
-      },
-      {
-        "title": "Pyaar Prema Kalyanam",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/search?q=Pyaar%20Prema%20Kalyanam",
-        "urlType": "platform-search",
-        "note": "#1 on Netflix India Top 10 films (6 days on chart, FlixPatrol Aug 28).",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 72,
-        "scoreConfidence": "low",
-        "genres": [
-          "Romance",
-          "Comedy"
-        ]
-      },
-      {
-        "title": "Lenin",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Prime Video India + JioHotstar",
-        "url": "https://www.primevideo.com/search?phrase=Lenin",
-        "urlType": "platform-search",
-        "note": "#1 trending on Prime Video India (3 days); also on Prime new-and-upcoming. CONFIRMED dual availability via official \"New on JioHotstar\" row (29 Aug) — not a move.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-29 01:19 IST",
-        "score": 71,
-        "scoreConfidence": "low",
-        "genres": [
-          "Drama"
-        ]
-      },
-      {
-        "title": "Novak Djokovic: The Wolf in Winter",
-        "type": "documentary",
-        "year": 2026,
-        "platform": "JioHotstar",
-        "url": "https://www.hotstar.com/in/explore?search_query=Djokovic",
-        "urlType": "platform-search",
-        "note": "New sports documentary; NYT lists it among August's Disney+ arrivals (JioHotstar carries Disney+ in India); also surfaced as NEW on Prime Video storefront. ⚠️ Verify platform in India.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 70,
-        "scoreConfidence": "low",
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "Ted Lasso (new season)",
-        "type": "series",
-        "platform": "Apple TV+",
-        "url": "https://tv.apple.com/in/search?term=Ted%20Lasso",
-        "urlType": "platform-search",
-        "note": "PLATFORM CORRECTED (30 Aug 21:08): NYT 'August Disney+ arrivals' attribution WRONG — Apple TV Press confirms S4 global Apple TV premiere Aug 5 2026, 10 episodes weekly (E1 'Home' Aug 5 per Forbes; E9 Sep 30 per IGN schedule); record premiere per Deadline/MacRumors. Same show as mustWatch entry — duplicate left for daily job to merge/remove.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-30 21:08 IST",
-        "score": 74,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Comedy",
-          "Drama"
-        ]
-      },
-      {
-        "title": "Silo",
-        "type": "series",
-        "year": 2023,
-        "platform": "Apple TV+",
-        "url": "https://tv.apple.com/in/search?term=Silo",
-        "urlType": "platform-search",
-        "note": "Dystopian mystery (Rebecca Ferguson) based on Hugh Howey's novels; 'no bad seasons' per Collider best-of; Reddit r/tvPlus staple.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:25 IST",
-        "score": 83,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Sci-Fi",
-          "Mystery"
-        ]
-      },
-      {
-        "title": "Foundation",
-        "type": "series",
-        "year": 2021,
-        "platform": "Apple TV+",
-        "url": "https://tv.apple.com/in/search?term=Foundation",
-        "urlType": "platform-search",
-        "note": "Asimov adaptation; S3 (2025) well received; recurring Reddit best-of pick.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:25 IST",
-        "score": 82,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Sci-Fi"
-        ]
-      },
-      {
-        "title": "Dark Matter",
-        "type": "series",
-        "year": 2024,
-        "platform": "Apple TV+",
-        "url": "https://tv.apple.com/in/search?term=Dark%20Matter",
-        "urlType": "platform-search",
-        "note": "Multiverse thriller (Joel Edgerton); S2 premiered Aug 28, 2026, weekly Fridays (RadioTimes/CNET/tomsguide via 13:07 hourly scan) — first live-tracked Apple TV+ season.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:25 IST",
-        "score": 80,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Sci-Fi",
-          "Thriller"
-        ]
-      }
-    ],
-    "hiddenGems": [
-      {
-        "title": "Four Hands, Two Sonatas",
-        "type": "series",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/search?q=Four%20Hands%20Two%20Sonatas",
-        "urlType": "platform-search",
-        "note": "Korean coming-of-age musical romance (Song Kang, Lee Jun-young, Jang Gyu-ri) set at an elite arts school; E1 now streaming — premiered Aug 29, 2026 as scheduled, weekly episodes (tvN + global Netflix) per ET slideshow and highonfilms release schedule.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:15 IST",
-        "score": 68,
-        "scoreConfidence": "low",
-        "genres": [
-          "Romance",
-          "Drama"
-        ]
-      },
-      {
-        "title": "Breaking the Bank: One Trader, 50 Billion",
-        "type": "documentary-series",
-        "year": 2026,
-        "platform": "JioHotstar",
-        "url": "https://www.hotstar.com/in/explore?search_query=Breaking%20the%20Bank",
-        "urlType": "platform-search",
-        "note": "Season 1, newly listed on JioHotstar (JustWatch new releases). Finance/trading doc — fits systems-thinker taste.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 73,
-        "scoreConfidence": "low",
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "Governor: The Silent Saviour",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Prime Video India",
-        "url": "https://www.primevideo.com/search?phrase=Governor%20The%20Silent%20Saviour",
-        "urlType": "platform-search",
-        "note": "Political/economic-crisis thriller; OTT Aug 7, #3 on Prime India Top 10 for ~3 weeks (20 days on chart).",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 70,
-        "scoreConfidence": "low",
-        "genres": [
-          "Thriller",
-          "Drama"
-        ]
-      },
-      {
-        "title": "Exhuma",
-        "type": "movie",
-        "year": 2024,
-        "platform": "JioHotstar",
-        "url": "https://www.hotstar.com/in/explore?search_query=Exhuma",
-        "urlType": "platform-search",
-        "note": "Acclaimed Korean occult thriller, newly surfaced on JioHotstar (JustWatch new list).",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 72,
-        "scoreConfidence": "low",
-        "genres": [
-          "Mystery",
-          "Thriller"
-        ]
-      },
-      {
-        "title": "A Child of My Own",
-        "type": "documentary",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/search?q=A%20Child%20of%20My%20Own",
-        "urlType": "platform-search",
-        "note": "New Netflix documentary (Aug 13, per topdocumentaryfilms.com August roundup).",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 68,
-        "scoreConfidence": "low",
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "The Whisper Man",
-        "type": "movie",
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/search?q=The%20Whisper%20Man",
-        "urlType": "platform-search",
-        "note": "On Netflix's New Movies row this week.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 66,
-        "scoreConfidence": "low",
-        "genres": [
-          "Mystery",
-          "Thriller"
-        ]
-      },
-      {
-        "title": "Freefall: A Reckoning for Boeing",
-        "type": "documentary",
-        "year": 2026,
-        "platform": "UNVERIFIED-IN-INDIA",
-        "url": "",
-        "urlType": "none",
-        "note": "Streaming Aug 19, 2026 (Rotten Tomatoes). India platform not yet confirmed — parked until the daily job verifies.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 71,
-        "scoreConfidence": "low",
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "The Secret Woman",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/title/81735102",
-        "urlType": "title-page",
-        "note": "Danish-Norwegian mystery thriller (SF Studios; Claes Bang, Ingrid Bolsø Berdal) — global Netflix launch Aug 28, 2026 per official about.netflix.com; title page verified live.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 08:19 IST",
-        "score": 62,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Mystery",
-          "Thriller"
-        ]
-      },
-      {
-        "title": "All the Truth in My Lies",
-        "type": "series",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/title/81735486",
-        "urlType": "title-page",
-        "note": "Spanish romcom limited series (TV-MA) based on Elísabet Benavent's bestselling novel — global Netflix launch Aug 28, 2026 per official about.netflix.com; title page verified live.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 08:19 IST",
-        "score": 60,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Romance",
-          "Comedy"
-        ]
-      },
-      {
-        "title": "Adults S2",
-        "type": "series",
-        "year": 2026,
-        "platform": "JioHotstar",
-        "url": "https://www.hotstar.com/in/browse/reco-editorial/new-on-jiohotstar/tp-ed_CJE3EAEaAQI",
-        "urlType": "platform-row",
-        "note": "Season 2 of the English comedy 'Adults' — Aug 28, 2026 per myvi weekly table + JioHotstar official new row.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 01:07 IST",
-        "score": 58,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Comedy"
-        ]
-      },
-      {
-        "title": "Batman: Knightfall Part 1",
-        "type": "movie",
-        "year": 2026,
-        "platform": "JioHotstar",
-        "url": "https://www.hotstar.com/in/explore",
-        "urlType": "platform-search",
-        "note": "DC animated film (digital release Aug 25, 2026); listed for JioHotstar by Vogue India Aug 24-30 roundup + OTT-popcorn weekly reel. No official title page found yet — ⚠️ Availability needs verification.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 08:19 IST",
-        "score": 60,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Animation",
-          "Action"
-        ]
-      },
-      {
-        "title": "Black Bird",
-        "type": "limited",
-        "year": 2022,
-        "platform": "Apple TV+",
-        "url": "https://tv.apple.com/in/search?term=Black%20Bird",
-        "urlType": "platform-search",
-        "note": "Taron Egerton vs Paul Walter Hauser prison thriller; elite limited series that flew under the mainstream radar; Reddit best-of mention.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:25 IST",
-        "score": 78,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Thriller"
-        ]
-      },
-      {
-        "title": "For All Mankind",
-        "type": "series",
-        "year": 2019,
-        "platform": "Apple TV+",
-        "url": "https://tv.apple.com/in/search?term=For%20All%20Mankind",
-        "urlType": "platform-search",
-        "note": "Alternate-history space-race drama from Ronald D. Moore; long-running critics' favorite, Reddit best-of staple.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:25 IST",
-        "score": 76,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Sci-Fi",
-          "Drama"
-        ]
-      },
-      {
-        "title": "Shrinking",
-        "type": "series",
-        "year": 2023,
-        "platform": "Apple TV+",
-        "url": "https://tv.apple.com/in/search?term=Shrinking",
-        "urlType": "platform-search",
-        "note": "Bill Lawrence comedy (Jason Segel, Harrison Ford); S3 listed among 2026 Apple originals by Reddit r/tvPlus (date unverified).",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:25 IST",
-        "score": 75,
-        "scoreConfidence": "low",
-        "genres": [
-          "Comedy",
-          "Drama"
-        ]
-      },
-      {
-        "title": "Women in Blue (Las Azules)",
-        "type": "series",
-        "year": 2026,
-        "platform": "Apple TV+",
-        "url": "https://tv.apple.com/in/search?term=Women%20in%20Blue%20(Las%20Azules)",
-        "urlType": "platform-search",
-        "note": "Spanish-language period crime drama (Mexico's first female police force); S2 premiered Aug 12, 2026 (IGN/Apple press); under-watched outside Latin America.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:25 IST",
-        "score": 68,
-        "scoreConfidence": "low",
-        "genres": [
-          "Drama"
-        ]
-      },
-      {
-        "title": "The Dynasty: UConn Huskies",
-        "type": "docuseries",
-        "year": 2026,
-        "platform": "Apple TV+",
-        "url": "https://tv.apple.com/in/search?term=The%20Dynasty:%20UConn%20Huskies",
-        "urlType": "platform-search",
-        "note": "Sports docuseries on the UConn women's basketball dynasty; premiered Aug 21, 2026 (Apple TV Press / IMDb).",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:25 IST",
-        "score": 65,
-        "scoreConfidence": "low",
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "Grand Theft Auto VI: An Extended Look",
-        "type": "special",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/search?q=GTA%206",
-        "urlType": "platform-search",
-        "note": "27-minute 'extended look' special of new GTA 6 in-game footage, premiered on Netflix Aug 27, 2026 3pm ET (= Aug 28 IST) — Variety + IGN + BBC + Reddit megathread; India availability per myvi Aug 29-Sep 4 week list. Promotional event video, not a series/film — provisional.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 14:07 IST",
-        "score": 62,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Gaming",
-          "Documentary"
-        ]
-      },
-      {
-        "title": "Facing El Chapo",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/in/title/82048151",
-        "urlType": "title-page",
-        "note": "BACKFILL (30 Aug 18:07): Mexican action thriller (aka 'La Captura'; dir. Chava Cartas; Alfonso Herrera, Noé Hernández; 91 min) — worldwide Netflix premiere Aug 21, 2026 (The Week + Times of India); official India title page verified live (netflix.com/in/title/82048151, A-rated); on FlixPatrol India film chart (#4, 29 Aug crawl). Corrects 29 Aug 16:07 'already tracked' misread — was absent from catalog. Provisional, score review left to daily job.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 18:07 IST",
-        "score": 61,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Action",
-          "Thriller"
-        ]
-      },
-      {
-        "title": "Don't Say Good Luck",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/title/81975622",
-        "urlType": "title-page",
-        "note": "BACKFILL (30 Aug 18:07): coming-of-age drama (dir. Julia Hart; Sunny Sandler, Melanie Lynskey, Max Greenfield; PG-13) — Netflix premiere Aug 14, 2026 (Wikipedia + official Tudum 'now streaming' article + Variety/RogerEbert reviews); official title page verified live (netflix.com/title/81975622). Catalog gap found via whats-on-netflix 'Best New Movies Aug 2026' list. Provisional, score review left to daily job.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 18:07 IST",
-        "score": 60,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Drama"
-        ]
-      },
-      {
-        "title": "The Moment",
-        "type": "movie",
-        "year": 2026,
-        "platform": "JioHotstar",
-        "url": "https://www.hotstar.com/in/movies/the-moment/1271666133",
-        "urlType": "title-page",
-        "note": "BACKFILL (02 Sep 05:25): pop-star mockumentary (dir. Aidan Zamiri; Charli XCX, Jamie Demetriou, Rosanna Arquette) — as her arena tour looms, a breakout pop star battles the cost of staying on top. Official JioHotstar title page verified live; JustWatch India lists JioHotstar; Tribune India review live. Third-party posts indicate a Jul 2026 arrival (IG reel: Jul 11) — exact India date not retrieved ⚠️. Catalog gap surfaced via r/JioHotstar mention — provisional, score review left to daily job.",
-        "addedOn": "2026-09-02",
-        "lastChecked": "2026-09-02 05:25 IST",
-        "score": 63,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Drama",
-          "Comedy"
-        ]
-      },
-      {
-        "title": "Lovesick",
-        "type": "series",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/title/81262893",
-        "urlType": "title-page",
-        "note": "BACKFILL (02 Sep 06:32): Mexican period romance 'Mal de amores' (Renata Vaca) — during the Mexican Revolution, Emilia Sauri pursues her dream of becoming a doctor, defying convention in search of love. Premiered Sep 2, 2026 (today) per official Netflix title page (81262893, TV-MA Drama) + whats-on-netflix + Vogue India week list (3 concordant sources). Catalog gap — provisional, score review left to daily job.",
-        "addedOn": "2026-09-02",
-        "lastChecked": "2026-09-02 06:32 IST",
-        "score": 66,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Romance",
-          "Drama"
-        ]
-      },
-      {
-        "title": "Untold Raygun: Breaking Badly",
-        "type": "documentary",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/title/82048542",
-        "urlType": "title-page",
-        "note": "BACKFILL (02 Sep 06:32 — resolves 01 Sep date-less flag): Untold series doc — breakdancer 'Raygun' (Rachael Gunn) recounts going from Australian academic to global meme after Paris 2024. Premiered globally Sep 1, 2026 per official Netflix title page (82048542, TV-MA Documentary) + media.netflix.com (Sep 1) + Hollywood Reporter ('currently streaming'). Catalog gap — provisional, score review left to daily job.",
-        "addedOn": "2026-09-02",
-        "lastChecked": "2026-09-02 06:32 IST",
-        "score": 65,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Documentary"
-        ]
-      }
-    ],
-    "indianPicks": [
-      {
-        "title": "Anbe Diana",
-        "type": "movie",
-        "year": 2026,
-        "platform": "SonyLIV",
-        "url": "https://www.sonyliv.com/search?q=Anbe%20Diana",
-        "urlType": "platform-search",
-        "note": "VERIFIED (29 Aug): official SonyLIV trailer page live (sonyliv.com/trailer/anbe-diana-1090540079 — 'fun-filled rom-com about a timid Perambur guy whose love for an Anglo-Indian girl puts him at odds with his conservative family') + Times of India confirms Aug 28 premiere; also in ET slideshow. Tamil rom-com (Pari Elavazhagan, Ramya Ranganathan).",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:15 IST",
-        "score": 60,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Comedy",
-          "Romance"
-        ]
-      },
-      {
-        "title": "Operation Safed Sagar: The Untold Story of the Kargil War",
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/in/title/81616273",
-        "urlType": "title-page",
-        "note": "See highlyRecommended — full entry. Kargil/IAF series, #1 India 20d; strong match for aviation-history taste (alongside Last Salute: MiG-21).",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 13:15 IST",
-        "score": 72,
-        "genres": [
-          "Drama"
-        ]
-      },
-      {
-        "title": "The Last Salute: A Love Letter To MiG-21",
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/search?q=The%20Last%20Salute",
-        "urlType": "platform-search",
-        "note": "New this week; Top 10 day-1 entry.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 82,
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "Dhurandhar (extended cut)",
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/in/title/82156122",
-        "urlType": "title-page",
-        "note": "Title page verified live.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 88,
-        "genres": [
-          "Action",
-          "Thriller"
-        ]
-      },
-      {
-        "title": "Bandar",
-        "platform": "ZEE5",
-        "url": "https://www.zee5.com/search?q=Bandar",
-        "urlType": "platform-search",
-        "note": "Aug 28 arrival — VERIFIED multi-source (ET + GQ + Mashable, 29 Aug).",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-29 13:15 IST",
-        "score": 76,
-        "genres": [
-          "Drama",
-          "Thriller"
-        ]
-      },
-      {
-        "title": "Chumbak",
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/search?q=Chumbak",
-        "urlType": "platform-search",
-        "note": "Listed for Aug 28, 2026 on Netflix (bollymoviereviewz upcoming table); now also named in Mashable Aug 28-30 OTT roundup (2nd source). Platform still not title-page verified ⚠️.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-29 13:15 IST",
-        "score": 65,
-        "scoreConfidence": "low",
-        "genres": [
-          "Drama"
-        ]
-      },
-      {
-        "title": "Gandhari",
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/search?q=Gandhari",
-        "urlType": "platform-search",
-        "note": "UPCOMING — out 3 September on Netflix (Netflix India official promo). Watchlist for next week.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 75,
-        "scoreConfidence": "medium",
-        "genres": [
-          "Action",
-          "Thriller"
-        ]
-      },
-      {
-        "title": "Peddi",
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/search?q=Peddi",
-        "urlType": "platform-search",
-        "note": "Still in Top 10 after 49 days on chart — long tail.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-28 23:45 IST",
-        "score": 70,
-        "genres": [
-          "Drama"
-        ]
-      },
-      {
-        "title": "I, Nobody",
-        "type": "movie",
-        "year": 2026,
-        "platform": "JioHotstar",
-        "url": "https://www.hotstar.com/in/browse/reco-editorial/new-on-jiohotstar/tp-ed_CJE3EAEaAQI",
-        "urlType": "platform-row",
-        "note": "Malayalam film streaming from Aug 25, 2026 per Economic Times + Hindustan Times (explicit platform+date). Also in official new row.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 01:07 IST",
-        "score": 63,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Action"
-        ]
-      },
-      {
-        "title": "Part-Timers",
-        "type": "series",
-        "year": 2026,
-        "platform": "JioHotstar",
-        "url": "https://www.hotstar.com/in/shows/part-timers/1271675060",
-        "urlType": "title-page",
-        "note": "Telugu drama (Gnaneswari Kandregula; roommates Sindhu & Teju) — official title page live, S1 E1 dated 28 Aug 2026; previously GQ + ET Panache + official new row.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 06:07 IST",
-        "score": 60,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Drama"
-        ]
-      },
-      {
-        "title": "Babita Singh Reporting",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Prime Video India",
-        "url": "https://www.primevideo.com/detail/0L0C4OX0141EW5XEMTSRX9164L",
-        "urlType": "title-page",
-        "note": "Prime Original investigative drama (Nimisha Sajayan, dir. Ambiecka Pandit) — global launch 28 Aug 2026 in Hindi with English subs, 240+ territories (Deadline exclusive + IMDb news + Times Now).",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-30 10:07 IST",
-        "score": 65,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Drama",
-          "Mystery"
-        ]
-      },
-      {
-        "title": "Baredda",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Prime Video India",
-        "url": "https://www.primevideo.com/search?phrase=Baredda",
-        "urlType": "platform-search",
-        "note": "Listed for 28 Aug 2026 on Prime Video India by Times Now Friday-release roundup — single source. ⚠️ Availability needs verification.",
-        "addedOn": "2026-08-29",
-        "lastChecked": "2026-08-29 06:07 IST",
-        "score": 55,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Drama"
-        ]
-      },
-      {
-        "title": "Main Vaapas Aaunga",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/title/82018915",
-        "urlType": "title-page",
-        "note": "BACKFILL (30 Aug 00:07): Imtiaz Ali period romance (Diljit Dosanjh, Sharvari, Vedang Raina; theatrical Jun 12) — streaming exclusively on Netflix since Aug 7, 2026. Official title page verified live (netflix.com/title/82018915); TOI (Netflix India IG confirmation) + ET Panache corroborate. Catalog gap found during hourly scan — provisional, score review left to daily job.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 00:07 IST",
-        "score": 64,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Romance",
-          "Drama"
-        ]
-      },
-      {
-        "title": "Gatta Kusthi 2",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/title/82072530",
-        "urlType": "title-page",
-        "note": "BACKFILL (30 Aug 15:07): Tamil sports comedy (Vishnu Vishal Studioz / Vels Film International per IMDb) — theatrical 3 Jul 2026, streaming on Netflix since 31 Jul 2026 in Tamil/Hindi/Telugu/Kannada/Malayalam (Wikipedia + official Netflix IG). Official title page verified live (netflix.com/title/82072530); currently #5 on Tudum India films chart (30 Aug). Resolves 13:07 gap flag — provisional, score review left to daily job.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 15:07 IST",
-        "score": 62,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Comedy",
-          "Drama"
-        ]
-      },
-      {
-        "title": "Idhayam Murali",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/title/82072500",
-        "urlType": "title-page",
-        "note": "BACKFILL (30 Aug 21:08): Tamil coming-of-age romantic drama (Atharvaa, Preity Mukhundhan, Kayadu Lohar) — streaming on Netflix since 7 Aug 2026 in Tamil/Telugu/Kannada/Malayalam/Hindi (TOI + Pinkvilla + official OTT Nights IG). Official title page verified live (netflix.com/title/82072500); currently #6 on Tudum India films chart (30 Aug). Provisional — score review left to daily job.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 21:08 IST",
-        "score": 62,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Romance",
-          "Drama"
-        ]
-      },
-      {
-        "title": "Newton's 3rd Law",
-        "type": "movie",
-        "year": 2026,
-        "platform": "Netflix India",
-        "url": "https://www.netflix.com/in/title/83001645",
-        "urlType": "title-page",
-        "note": "BACKFILL (02 Sep 05:25): 2026 Telugu investigative drama (dir. Rajesh Karna, Mark My Words Entertainment) — two deaths from 1999 resurface and a headstrong investigator uncovers dark secrets (Netflix synopsis; IMDb: double-murder case). Official India title page verified live (netflix.com/in/title/83001645, U/A 16+); streaming in Telugu/Hindi/Tamil/Kannada/Malayalam per official IG. #2 on FlixPatrol India films chart Sep 1 (4 days on chart). Premiere date not retrieved — late Aug per chart run ⚠️. Catalog gap found via Sep 1 chart crawl — provisional, score review left to daily job.",
-        "addedOn": "2026-09-02",
-        "lastChecked": "2026-09-02 05:25 IST",
-        "score": 64,
-        "scoreConfidence": "low",
-        "provisionalScore": true,
-        "genres": [
-          "Drama",
-          "Mystery"
-        ]
-      }
-    ],
-    "youtubePicks": [
-      {
-        "title": "Real Stories (channel) — full-length documentaries",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/Real_Stories",
-        "urlType": "channel",
-        "note": "Full-length licensed documentaries, 3+ new per week; the reliable firehose of the section. Daily job watches for standout new uploads.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-30 21:25 IST",
-        "score": 70,
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "PBS Documentaries / PBS Voices — 'Ritual' new series",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/@PBSDocumentaries",
-        "urlType": "channel",
-        "note": "PBS-quality docs + the new 'Ritual' series on PBS Voices (announced 28 Aug baseline). Daily job tracks new episodes.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-30 21:25 IST",
-        "score": 68,
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "Free Documentary (channel) — new releases",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/channel/UCijcd0GR0fkxCAZwkiuWqtQ",
-        "urlType": "channel",
-        "note": "Baseline tracking: frequent new full-length docs.",
-        "addedOn": "2026-08-28",
-        "lastChecked": "2026-08-30 21:25 IST",
-        "score": 65,
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "Veritasium",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/veritasium",
-        "urlType": "channel",
-        "note": "Science & engineering deep dives with real experiments (Derek Muller; 20M+ subs as of Apr 2026). Recent uploads include 'We sent a balloon to space to film the solar eclipse', 'Is spider web really stronger than steel?', 'Why does every mammal get 1 billion heartbeats in their life?'.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 21:25 IST",
-        "score": 78,
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "3Blue1Brown",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/c/3blue1brown",
-        "urlType": "channel",
-        "note": "Visual math/CS explainers (Grant Sanderson) — linear algebra, neural networks, topology; the systems-thinker's math channel. ~242 videos.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 21:25 IST",
-        "score": 78,
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "Kurzgesagt – In a Nutshell",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
-        "urlType": "channel",
-        "note": "Vibrant animated science explainers ('optimistic nihilism') — space, biology, existential risk; 383 videos.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 21:25 IST",
-        "score": 82,
-        "genres": [
-          "Documentary"
-        ]
-      }
-    ],
-    "futurePicks": [
-      {
-        "title": "The Impenetrable Barrier Trapping Us in the Solar System",
-        "type": "video",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Kurzgesagt+Impenetrable+Barrier+Trapping+Us+in+the+Solar+System",
-        "urlType": "platform-search",
-        "note": "🆕 Latest — Kurzgesagt, premiered 4 Aug 2026: why the heliopause makes leaving the solar system nearly impossible; r/kurzgesagt calls it a return to classic form. Watch link is an on-YouTube search (daily job upgrades to direct URL).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 21:25 IST",
-        "score": 82,
-        "genres": [
-          "Animation",
-          "Documentary"
-        ]
-      },
-      {
-        "title": "This equation will change how you see the world (the logistic map)",
-        "type": "video",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Veritasium+logistic+map+equation+change+how+you+see+the+world",
-        "urlType": "platform-search",
-        "note": "🎓 Essential — Veritasium's chaos-theory classic; the logistic map from simple rule to infinite complexity. Community-crowned favorite (r/Veritasium) and the single best door into systems thinking. Watch link is an on-YouTube search (daily job upgrades to direct URL).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 21:39 IST",
-        "score": 90,
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "Genetic Engineering Will Change Everything Forever – CRISPR",
-        "type": "video",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Kurzgesagt+CRISPR+Genetic+Engineering+Will+Change+Everything+Forever",
-        "urlType": "platform-search",
-        "note": "🎓 Essential — Kurzgesagt's CRISPR explainer, on the channel's official 'Our Best Stuff' playlist; the cleanest 10-minute grounding in the technology rewriting biology.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 21:39 IST",
-        "score": 85,
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "Optimistic Nihilism",
-        "type": "video",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Kurzgesagt+Optimistic+Nihilism",
-        "urlType": "platform-search",
-        "note": "🎓 Essential — Kurzgesagt's philosophy of meaning in a meaningless universe; on the official 'Our Best Stuff' playlist. The rare 'watch this for your head' pick.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 21:39 IST",
-        "score": 84,
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "Human Origins",
-        "type": "video",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Kurzgesagt+Human+Origins",
-        "urlType": "platform-search",
-        "note": "🎓 Essential — Kurzgesagt's 24M-view big-picture story of where we came from; on the official 'Our Best Stuff' playlist.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 21:39 IST",
-        "score": 82,
-        "genres": [
-          "Documentary"
-        ]
-      },
-      {
-        "title": "The AI that solved IMO Geometry Problems",
-        "type": "video",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=3Blue1Brown+AI+solved+IMO+Geometry+Problems+Aleph0+AlphaGeometry",
-        "urlType": "platform-search",
-        "note": "🆕 Latest — 3Blue1Brown guest video (Aleph0): how DeepMind's AlphaGeometry cracks olympiad-level geometry — AI capability progress, visualized the 3b1b way.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 21:39 IST",
-        "score": 80,
-        "genres": [
-          "Documentary"
-        ]
-      }
-    ],
-    "aiPicks": [
-      {
-        "title": "Two Minute Papers",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Two+Minute+Papers",
-        "urlType": "platform-search",
-        "note": "AI research papers turned into 5-10 min 'what a time to be alive' episodes — the fastest way to watch the frontier move. 2026 best-AI-channel lists (gen.pro).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 82
-      },
-      {
-        "title": "AI Explained",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=AI+Explained",
-        "urlType": "platform-search",
-        "note": "Deep, calm analysis of LLM releases and AI research — model comparisons and 'what actually matters', no hype. gen.pro + aiprofitboardroom 2026 picks.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 80
-      },
-      {
-        "title": "Matt Wolfe",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Matt+Wolfe",
-        "urlType": "platform-search",
-        "note": "AI tools & news roundups — practical coverage of ChatGPT, Claude, Midjourney, Canva AI for builders. 2026 lists pick him for tools+news.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 76
-      }
-    ],
-    "sportsPicks": [
-      {
-        "title": "Sky Sports Football",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Sky+Sports+Football",
-        "urlType": "platform-search",
-        "note": "Football news, analysis and highlights — Premier League coverage backbone (2026 sports-analysis lists).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 76
-      },
-      {
-        "title": "Football Analysis",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/@footballanalysis1",
-        "urlType": "channel",
-        "note": "@footballanalysis1 — team rebuilds, film breakdowns, breakout players, long-term club outlooks.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 74
-      },
-      {
-        "title": "NBA",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=NBA",
-        "urlType": "platform-search",
-        "note": "Official nightly highlights, top plays and series recaps.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 72
-      },
-      {
-        "title": "Wiloo",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Wiloo",
-        "urlType": "platform-search",
-        "note": "Tactical game-by-game breakdowns; went daily during World Cup 2026 — r/footballtactics community pick.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 70
-      }
-    ],
-    "gadgetPicks": [
-      {
-        "title": "MKBHD (Marques Brownlee)",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/user/marquesbrownlee",
-        "urlType": "channel",
-        "note": "Quality tech videos — the benchmark for phone/laptop/gadget reviews; 18-20M subs. 2026 tech-YouTuber lists rank him #1 for honest deep dives.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 84
-      },
-      {
-        "title": "Mrwhosetheboss",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA",
-        "urlType": "channel",
-        "note": "Polished mega-comparisons and big hands-ons — recent: 'Google Pixel 11 Hands on — The Phone Crisis Begins', 'The Honor Robot Phone is absolutely insane'.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 82
-      },
-      {
-        "title": "Linus Tech Tips",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Linus+Tech+Tips",
-        "urlType": "platform-search",
-        "note": "Daily tech news, builds and labs-tested reviews — the coverage workhorse (r/mkbhd calls it the most reliable tech-news channel).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 74
-      }
-    ],
-    "greenPicks": [
-      {
-        "title": "Engineering with Rosie",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Engineering+with+Rosie",
-        "urlType": "platform-search",
-        "note": "Engineer's take on renewables, batteries and grid tech — top 2026 renewable-energy channel lists (feedspot).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 78
-      },
-      {
-        "title": "DIY Solar Power with Will Prowse",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=DIY+Solar+Power+with+Will+Prowse",
-        "urlType": "platform-search",
-        "note": "Hands-on solar and battery reviews — the practical DIY-solar authority (feedspot + gridworksenergy 2026 lists).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 76
-      },
-      {
-        "title": "The Great Simplification with Nate Hagens",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=The+Great+Simplification+with+Nate+Hagens",
-        "urlType": "platform-search",
-        "note": "Big-picture energy dynamics and systems view of the human predicament (r/energy pick) — pairs well with the EV-charger map project.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 75
-      }
-    ],
-    "businessPicks": [
-      {
-        "title": "Y Combinator",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Y+Combinator",
-        "urlType": "platform-search",
-        "note": "Startup School lectures, founder talks and thousands of pitches — the free startup university (top of LinkedIn's 2026 founder-channel list).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 84
-      },
-      {
-        "title": "a16z",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=a16z",
-        "urlType": "platform-search",
-        "note": "AI/tech market analysis and operator interviews from the venture firm (LinkedIn founder list #2).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 78
-      },
-      {
-        "title": "Greg Isenberg",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Greg+Isenberg",
-        "urlType": "platform-search",
-        "note": "Niche business breakdowns and idea-to-execution plays — community-driven business models.",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 76
-      },
-      {
-        "title": "Starter Story by Pat Walls",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Starter+Story+by+Pat+Walls",
-        "urlType": "platform-search",
-        "note": "Real founder revenue case studies — what actually works, with numbers (LinkedIn founder list).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 74
-      }
-    ],
-    "moneyPicks": [
-      {
-        "title": "Ben Felix",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Ben+Felix",
-        "urlType": "platform-search",
-        "note": "Evidence-based investing (index funds, factor evidence) — ranked #1 for quality in 2026 personal-finance rankings (vidpros).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 84
-      },
-      {
-        "title": "Two Cents",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Two+Cents",
-        "urlType": "platform-search",
-        "note": "PBS personal-finance basics — budgeting, habits, behavioral traps, in 10-minute bites (vidpros 2026 list).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 78
-      },
-      {
-        "title": "Money Guy Show",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Money+Guy+Show",
-        "urlType": "platform-search",
-        "note": "Financial Order of Operations + wealth-building call-ins (vidpros 2026 list).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 76
-      },
-      {
-        "title": "Humphrey Yang",
-        "type": "channel",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/results?search_query=Humphrey+Yang",
-        "urlType": "platform-search",
-        "note": "Plain-English money explainers — taxes, investing first steps (outlierkit 2026 creator teardown).",
-        "addedOn": "2026-08-30",
-        "lastChecked": "2026-08-30 22:09 IST",
-        "score": 74
-      }
+ "version": 1,
+ "system": "Streaming Watchlist — Live Content Update Engine",
+ "region": "India",
+ "lastBaselineScan": "2026-08-28 23:40-23:55 IST",
+ "lastFullRefresh": "2026-08-28 23:45 IST",
+ "notes": "Baseline established 28 Aug 2026 via live web search. Scores are provisional pending daily recalcs. urlType 'platform-search' = official platform search/discovery page fallback per link policy. | 29 Aug 01:07 hourly: caught 28 Aug Friday batch missed by baseline (I, Nobody, Part-Timers, Adults S2, The Secret Woman, All the Truth in My Lies) + Michael platform expansion + Lenin platform resolution. Scores on new entries are provisional (daily job recalculates). | 01:19 hourly: Michael multi-source confirmed, Lenin dual-platform confirmed, Tudum Sep leaving list noted (India unverified). | 06:07 hourly: Michael + Part-Timers upgraded to verified official title pages; added Babita Singh Reporting (multi-source) + Baredda (single-source ⚠️) on Prime Video India; Reacher new at #2 on Prime India Overall Top 10; Tudum Sep leaving list expanded; Operation Safed Sagar flagged for daily job. | 08:19 hourly: backfilled change-log for titles added by the crashed 01:07 run — The Secret Woman re-verified (official about.netflix.com; Danish-Norwegian thriller), All the Truth in My Lies re-verified (title page; corrected to Spanish Benavent adaptation), Adults S2 + I, Nobody logged for audit. Added Batman: Knightfall Part 1 (JioHotstar, Vogue + OTT-popcorn reel, ⚠️ provisional — no official title page). Prime/SonyLIV/ZEE5: no new signal. | 09:28 hourly: added Mousetrap (Netflix, verified title page — missed by earlier passes) + Anbe Diana (SonyLIV, single-source ⚠️, first SonyLIV signal). No removals/platform moves; Four Hands Two Sonatas + Michael premiere today as scheduled. | 10:07 hourly: no changes — weeklies repeat already-logged titles; GQ 'weekend' piece (Dhurandhar/Office Romance/Pyramid Scheme) verified stale June 5 article; Tudum Sep leaving list unchanged; no removals/platform moves across all five platforms. | 12:18 hourly: Jungle Tales with Mowgli added to upcoming (official Disney India: Sep 12, JioHotstar Kids Profile + Disney Channel; aggregator Aug 28 dates wrong); TP S4 UK premiere 30 Aug confirmed — India platform still unverified; Heart Beat S3 checked = July 30 premiere, not new; Tudum Sep leaving list unchanged; no removals/platform moves across all five platforms. | 13:15 DAILY DEEP REFRESH: Operation Safed Sagar added to highlyRecommended + indianPicks (official title page, premiered Aug 7, #1 India 20d — actioned 06:07 flag); Reacher added provisional (FlixPatrol #2 Prime India, 3d; season on chart ⚠️); Anbe Diana verified via official SonyLIV trailer page + TOI; Bandar ⚠️ lifted (ET+GQ+Mashable); Chumbak 2nd source (Mashable); Call My Agent! The Movie → upcoming Sep 10; Netflix Top 10 films stable (Pyaar 7d / Cocktail 2 14d / Peddi 50d); Sep leaving list corroborated US-only, India unverified; no removals/platform moves; YouTube/JioCinema no new signal. 8 searches used. | 2026-08-29 13:25 IST: Apple TV+ added as tracked platform (user request) — 11 titles seeded from Apple TV Press Aug 2026 + IGN roundup + The Times/Reddit best-of. Dark Matter S2 (premiered 28 Aug, weekly) and Ted Lasso S4 (Aug 5) are current-month releases. Scores provisional — daily job recalculates. | 14:07 hourly: added Grand Theft Auto VI: An Extended Look to hiddenGems (Netflix special, Aug 27 ET / Aug 28 IST premiere; Variety+IGN+BBC multi-source; India per myvi week list); Turning Point: Generation 9/11 added to upcoming (Netflix Sep 2 — JustWatch/FlixPatrol/gadgets360; indulgexpress JioHotstar Aug 29 claim contradicted); Apple TV+ first hourly pass: Apple TV Press shows no other Aug 28 release besides Dark Matter S2 (already logged 13:25); no removals/platform moves. 4 searches used. | 02:07 HOURLY: 6 searches. No meaningful changes — all retrieved sources repeat already-logged titles; JustWatch/Hotstar JioHotstar rolling-page library items (Resident Evil: Vendetta, LEGO Disney Princess: Magical Mayhem, Snitch) undated, not added; catalog gaps flagged for daily job (The Last House, Outer Banks new seasons — Tudum monthly names, unverified this pass); In The Earth US-only, India unverified; no removals/platform moves. | 06:07 HOURLY: 5 searches. No meaningful changes — all retrieved sources repeat already-logged titles; Sep leaving-list chatter further expanded (Anatomy of a Fall, Black Lightning S1-5, Orphan Black, Crashing S1, A Beautiful Life, Ali, Blood and Bone) still India-unverified ⚠️; Outer Banks S5 dated to Aug 17-23 window per wionews (corroborates standing gap flag); Apple TV Press unchanged (Dark Matter S2 latest, E2 Sep 4); no entry changes, no alerts. | 10:07 HOURLY: 5 searches. No meaningful changes — week lists repeat already-logged titles; Babita Singh Reporting confirmed already cataloged (06:07) — url upgraded to official Prime detail page (urlType title-page), genre refined Drama+Mystery; Netflix India film Top 10 Aug 29: Alpha #1 / GTA VI Extended Look #2 / Safed Sagar #3 (trending note logged); Apple TV Press unchanged (Dark Matter S2 latest, E2 Sep 4); no removals/platform moves, no alerts. | 18:07 HOURLY: 6 searches. Two verified backfills added to hiddenGems: Facing El Chapo (official India title page netflix.com/in/title/82048151; Mexican action thriller 'La Captura', Aug 21 worldwide premiere per The Week+TOI; FlixPatrol India film chart #4 on 29 Aug crawl; corrects 29 Aug 16:07 'already tracked' misread) and Don't Say Good Luck (official title page netflix.com/title/81975622; Julia Hart/Sunny Sandler drama, Aug 14 premiere per Wikipedia+Tudum+Variety). All week lists (GQ/Vogue/ET/TimesNow Aug 24-30, news18 Aug 28-30, myvi Aug 29-Sep 4) repeat already-logged titles; Apple TV Press unchanged (Dark Matter S2 latest, E2 Sep 4); Sep leaving chatter unchanged since 15:07 (India unverified); no removals/platform moves, no alerts. | 21:08 HOURLY: 9 searches (6 discovery + 3 verification). Idhayam Murali added to indianPicks (official title page netflix.com/title/82072500, streaming since 7 Aug, #6 Tudum India films chart); 'Ted Lasso (new season)' duplicate platform-corrected JioHotstar→Apple TV+ (Apple TV PR contradicts NYT Disney+ attribution); Our Sticky Love (Tudum India TV chart #3) gap-flagged for daily job — zero corroboration beyond chart; FlixPatrol worldwide Aug 30: GTA VI #1, Whisper Man #2, Facing El Chapo #3 (all cataloged); no removals/platform moves, no alerts. | 2026-08-30 21:25 IST: youtubePicks upgraded from 3 channel-only entries to 6 tracked channels (Real Stories, PBS, Free Documentary, + Veritasium, 3Blue1Brown, Kurzgesagt per user request for better YouTube recommendations) + first video-level pick (Kurzgesagt 'The Impenetrable Barrier', Aug 4). Daily job now runs a YouTube pass: new notable uploads become video picks (max 2-3/week), picks retire after ~14 days. | 2026-08-30 21:39 IST: new section futurePicks ('🚀 Future & Learn — YouTube Must Watch') per user request: latest futuristic drops (🆕) + timeless learning essentials (🎓), 6 entries, all search-verified. Impenetrable Barrier moved here from youtubePicks. | 2026-08-30 22:09 IST: SIX interest sections added per user request — aiPicks/sportsPicks/gadgetPicks/greenPicks/businessPicks/moneyPicks (21 YouTube channel entries, all search-verified 2026 lists). No genres on interest sections (excluded from Genre Picks). Daily job maintains them via weekday rotation (Mon AI, Tue Sports, Wed Gadgets, Thu Green Energy, Fri Business, Sat Money). | 05:25 HOURLY 02 Sep: 7 searches. Two backfills: Newton's 3rd Law (Netflix India — official /in/title/83001645 verified, Telugu investigative drama, #2 FlixPatrol India films Sep 1) + The Moment (JioHotstar — official title page 1271666133 verified, Charli XCX mockumentary, Jul arrival per third-party ⚠️). Trending shift: Alpha #1 / Newton's 3rd Law #2 / Whisper Man #3 / Cocktail 2 #4 (Sep 1 films chart). Alert file rewritten with Sep-wave block — 17:07 claimed rewrite had not persisted (file still showed 29 Aug version). No removals/platform moves. | 07:16 HOURLY 02 Sep: 5 searches. No new titles — Tudum India film chart shift logged (Alpha #1, Pyaar Prema Kalyanam #2, Cocktail 2 #3, GTA VI Extended Look #4, Newton's 3rd Law #5; Whisper Man out of visible top-5); Apple TV Press unchanged (Dark Matter S2 E2 Sep 4, Mayday Sep 4); Korean Kanakaraju still date-less; no removals/platform moves, no alerts. | 13:07 HOURLY 02 Sep: 7 searches. No meaningful changes — no catalog edits, no alerts. Flags for daily job: Jared Freid: The Family Plan (Netflix Sep 1) + Driven S1-3 (Netflix Sep 2) — Tudum official monthly list, India unverified; Death of the Pastor's Wife (Netflix docuseries, Aug 26) #1 globally per FlixPatrol Sep 1 — India unverified. Madharaasi flag RESOLVED: Prime library title since Oct 1 2025 (GQ listing stale); Tudum India films chart unchanged vs 07:16.",
+ "sections": {
+  "mustWatch": [
+   {
+    "title": "Alpha",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=Alpha",
+    "urlType": "platform-search",
+    "note": "YRF Spy Universe first female-led entry (Alia Bhatt, Sharvari). OTT premiere Aug 28, 2026 — confirmed by Times of India, Bollywood Hungama, Economic Times. Missed by baseline scan (arrived same night).",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 00:07 IST",
+    "score": 84,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Action",
+     "Thriller"
     ]
-  },
-  "removed": [],
-  "platformChanges": [
-    {
-      "title": "Lenin",
-      "detail": "RESOLVED 29 Aug 01:07: JioHotstar presence confirmed via official 'New on JioHotstar' editorial row. Multi-platform listing verified (Prime Video India #1 trending + JioHotstar). Not a removal/move — dual availability.",
-      "lastChecked": "2026-08-29 01:19 IST"
-    },
-    {
-      "title": "Michael",
-      "detail": "Platform expanded: now reported on BOTH Prime Video and JioHotstar (Economic Times weekend roundup, Aug 29) — was single-sourced JioHotstar-only at 00:07 pass. Multi-platform release Aug 29, 2026.",
-      "lastChecked": "2026-08-29 01:19 IST"
-    }
+   },
+   {
+    "title": "Michael",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Prime Video India + JioHotstar",
+    "url": "https://www.hotstar.com/in/movies/michael/1271670552",
+    "urlType": "title-page",
+    "note": "Michael Jackson biopic (Antoine Fuqua, Jaafar Jackson) — official JioHotstar title page live: 'Releasing on Aug 29', IMDb 7.4; streams via the Peacock Hub (Bollywood Hungama). ET also lists Prime Video.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 06:07 IST",
+    "score": 78,
+    "scoreConfidence": "low",
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "Dhurandhar (extended cut 'RAW AND UNDEKHA')",
+    "type": "movie",
+    "year": 2025,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/in/title/82156122",
+    "urlType": "title-page",
+    "note": "Blockbuster Ranveer Singh spy thriller; title page live on Netflix India. IMDb news lists Netflix 8/27/2026 for the new cut; Netflix streaming since Jan 30, 2026. Extended cut arrival reported this week — ⚠️ verify exact cut/date.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 88,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Action",
+     "Thriller"
+    ]
+   },
+   {
+    "title": "The Last Salute: A Love Letter To MiG-21",
+    "type": "documentary",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=The%20Last%20Salute",
+    "urlType": "platform-search",
+    "note": "Out now (reported Aug 26); entered India Top 10 films at #3 on day 1 (FlixPatrol Aug 28). New Indian aviation documentary.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 82,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "The Last Sunrise",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Prime Video India",
+    "url": "https://www.primevideo.com/search?phrase=The%20Last%20Sunrise",
+    "urlType": "platform-search",
+    "note": "Featured as NEW MOVIE on Prime Video; #2 trending in India after 1 day on chart (FlixPatrol Aug 28).",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 78,
+    "scoreConfidence": "low",
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "Bandar",
+    "type": "movie",
+    "year": 2026,
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/search?q=Bandar",
+    "urlType": "platform-search",
+    "note": "VERIFIED multi-source (29 Aug): Economic Times + GQ India + Mashable all list Aug 28 ZEE5. Anurag Kashyap crime thriller (Bobby Deol as Samar Mehra, Sanya Malhotra, Saba Azad); premiered at TIFF last year. Official ZEE5 title page still unchecked.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-29 13:15 IST",
+    "score": 76,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Drama",
+     "Thriller"
+    ]
+   },
+   {
+    "title": "Severance",
+    "type": "series",
+    "year": 2022,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/in/search?term=Severance",
+    "urlType": "platform-search",
+    "note": "Ben Stiller-directed workplace sci-fi thriller (Adam Scott); S2 (Jan 2025) was one of the year's biggest TV events; The Times Aug 2026 best-of standout + top Reddit r/tvPlus pick.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:25 IST",
+    "score": 92,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Sci-Fi",
+     "Thriller"
+    ]
+   },
+   {
+    "title": "Slow Horses",
+    "type": "series",
+    "year": 2022,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/in/search?term=Slow%20Horses",
+    "urlType": "platform-search",
+    "note": "Gary Oldman-led Slough House spy thriller; S5 aired 2025, renewed beyond; 'standout success for the platform' per The Times Aug 2026 best-of.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:25 IST",
+    "score": 91,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Thriller"
+    ]
+   },
+   {
+    "title": "Ted Lasso",
+    "type": "series",
+    "year": 2026,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/in/search?term=Ted%20Lasso",
+    "urlType": "platform-search",
+    "note": "S4 premiered Aug 5, 2026 (IGN / Apple TV Press) — the month's headline Apple original; flagship comfort-watch returns.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:25 IST",
+    "score": 86,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Comedy",
+     "Drama"
+    ]
+   }
   ],
-  "upcoming": [
-    {
-      "title": "Turning Point: Generation 9/11",
-      "platform": "Netflix India",
-      "date": "2026-09-02",
-      "detail": "Documentary marking 25 years since 9/11, examining its long-term impact on a generation (Mathrubhumi); Netflix Sep 2, 2026 per JustWatch India + FlixPatrol + gadgets360 — indulgexpress 'Aug 29 on JioHotstar' claim contradicted by 3 concordant sources"
-    },
-    {
-      "title": "Call My Agent! The Movie",
-      "platform": "Netflix India",
-      "date": "2026-09-10",
-      "detail": "French 'Call My Agent!' film reuniting the ASK family, set five years after the series; global Netflix premiere Sep 10, 2026 per JustWatch India + comicbasics"
-    },
-    {
-      "title": "Gandhari",
-      "platform": "Netflix India",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Vigil Season 3 / Trigger Point Season 4 (this-week listings)",
-      "platform": "needs platform verification",
-      "date": "2026-08-22..28",
-      "detail": "TP S4 UK premiere confirmed Sun 30 Aug 9pm ITV1 + ITVX boxset (Radio Times/Digital Spy, 18 Aug); Vigil S3 India platform still unverified; 91mobiles lists both in India this-week roundup"
-    },
-    {
-      "title": "Jungle Tales with Mowgli",
-      "platform": "JioHotstar",
-      "date": "2026-09-12",
-      "detail": "Official Disney India post (28 Aug): starts 12 Sep on JioHotstar Kids Profile + Disney Channel; kids animation — aggregator dates (myvi/digit 'Aug 28') conflict and are treated as wrong"
-    },
-    {
-      "title": "Star Wars: The Mandalorian and Grogu",
-      "platform": "JioHotstar",
-      "date": "2026-09-02",
-      "genres": [
-        "Sci-Fi",
-        "Action"
-      ],
-      "detail": "Mandalorian feature film — Din Djarin & Grogu enlisted to rescue Rotta the Hutt from a pirate underworld; JioHotstar digital premiere Sep 2, 2026 per GQ week list"
-    },
-    {
-      "title": "The Runner",
-      "platform": "Prime Video India",
-      "date": "2026-09-02",
-      "genres": [
-        "Thriller"
-      ],
-      "detail": "Psychological thriller — London lawyer Maia (Gal Gadot) forced through dangerous tasks while her son is held; Prime Video Sep 2, 2026 per GQ week list"
-    },
-    {
-      "title": "The Gentlemen Season 2",
-      "platform": "Netflix India",
-      "date": "2026-09-03",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "detail": "Theo James & Kaya Scodelario return; cannabis empire expands to a global syndicate (Italy/Rome); Netflix Sep 3, 2026 per GQ + Vogue week lists"
-    },
-    {
-      "title": "Dhamaal 4",
-      "platform": "Netflix India",
-      "date": "2026-09-04",
-      "genres": [
-        "Comedy"
-      ],
-      "detail": "Indra Kumar slapstick franchise 4th instalment (Ajay Devgn + original gang); Netflix Sep 4, 2026 per Vogue week list"
-    },
-    {
-      "title": "Earle Meets World",
-      "platform": "Netflix India",
-      "date": "2026-09-04",
-      "genres": [
-        "Documentary"
-      ],
-      "detail": "8-part unscripted docuseries on influencer Alix Earle building her business empire; Netflix Sep 4, 2026 per GQ week list"
-    },
-    {
-      "title": "Jagamae Sangeetham",
-      "platform": "Prime Video India",
-      "date": "2026-09-04",
-      "genres": [
-        "Drama"
-      ],
-      "detail": "Musical drama billed from the Bandish Bandits world — disciplined Carnatic heir Balu (Akshay Lagusani) x pop star Pallavi (Sushmita Shetty); Prime Video Sep 4, 2026 per GQ week list"
-    },
-    {
-      "title": "The Court",
-      "platform": "JioHotstar",
-      "date": "2026-09-04",
-      "genres": [
-        "Drama"
-      ],
-      "detail": "Tamil courtroom drama — young lawyer Yazhini (R. Yogalakshmi), who lives with a speech impairment, takes on her veteran-lawyer father; JioHotstar Sep 4, 2026 per GQ week list"
-    },
-    {
-      "title": "Mayday",
-      "platform": "Apple TV+",
-      "date": "2026-09-04",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "detail": "Cold War 1987 action-comedy — US Navy pilot Troy 'Assassin' Kelly (Ryan Reynolds) rescued behind enemy lines by pop-culture-obsessed ex-KGB agent Nikolai (Kenneth Branagh); Apple TV Sep 4, 2026 per GQ week list"
-    },
-    {
-      "title": "Unmadham",
-      "platform": "SonyLIV",
-      "date": "2026-09-04",
-      "genres": [
-        "Thriller",
-        "Mystery"
-      ],
-      "detail": "Malayalam psychological investigative thriller — civil police officer turned screenwriter Shelly (Kunchacko Boban) reopens a cold case as fiction and reality blur; SonyLIV Sep 4, 2026 per GQ week list"
-    },
-    {
-      "title": "The Revolutionaries",
-      "platform": "Prime Video India",
-      "date": "2026-09-11",
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "detail": "Period action thriller (Bhuvan Bam, Rohit Saraf, Gurfateh Pirzada); Prime Video premiere Sep 11, 2026 per ET Panache + bollymoviereviewz"
-    },
-    {
-      "title": "Ghamasaan",
-      "platform": "ZEE5",
-      "date": "2026-09-11",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "detail": "Tigmanshu Dhulia gritty power drama (Pratik Gandhi, Arshad Warsi) — showdown between a hunter and an outlaw; ZEE5 premiere Sep 11, 2026 per ZEE5 trailer announcement (indiantelevision.com) + IMDb ('Watch Ghamasaan on Zee 5', release Sep 11) + festival-screening reports; first new ZEE5 title signal since Aug 29"
-    },
-    {
-      "title": "The Kevin Langue Show",
-      "platform": "Netflix India",
-      "date": "2026-09-05",
-      "genres": [
-        "Comedy"
-      ],
-      "detail": "Comedy series from YouTube creator Kevin Langue; The Kevin Langue Show + Kevin Langue 2 join Netflix Sep 5, 2026 with new episodes dropping day-and-date thereafter (Netflix press release via Futon Critic Aug 25 + Variety via netinfluencer); 91mobiles India week list concurs"
-    },
-    {
-      "title": "Don't Be Shy",
-      "platform": "Prime Video India",
-      "date": "2026-09-25",
-      "genres": [
-        "Drama"
-      ],
-      "detail": "Coming-of-age film (Aarushi Bajaj, Piyush Khati); Prime Video Sep 25, 2026 per ET Panache + myvi month list + Hans India + bollymoviereviewz (4 concordant; dtnext '24 Aug 2026' treated as stale)"
-    },
-    {
-      "title": "Veerabhadruni Rahasyam (Season 1 Part 2)",
-      "platform": "ZEE5",
-      "date": "2026-09-04",
-      "genres": [
-        "Mystery",
-        "Thriller"
-      ],
-      "detail": "Telugu mystery thriller 'From the World of Marmadesam' — S1 streaming since Jul 3, 2026 (ZEE5 details page: released 4 Jul, 30 eps, Telugu; Wikipedia concurs 3 Jul); Part 2 premieres Sep 4, 2026 per cast/PR Instagram premiere post + ottrelease.com ZEE5 September roundup"
-    }
+  "highlyRecommended": [
+   {
+    "title": "Operation Safed Sagar: The Untold Story of the Kargil War",
+    "type": "series",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/in/title/81616273",
+    "urlType": "title-page",
+    "note": "Hindi war series on the Golden Arrows squadron's IAF mission behind enemy lines in the 1999 Kargil War (also listed as 'The Highest Air Force Mission'). Official title page verified live; about.netflix.com: premiered Aug 7, 2026. #1 on FlixPatrol India Overall chart ~20 days (Aug 28). Actioned from 06:07 daily-job flag.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:15 IST",
+    "score": 72,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "Reacher (current season)",
+    "type": "series",
+    "year": 2026,
+    "platform": "Prime Video India",
+    "url": "https://www.primevideo.com/search?phrase=Reacher",
+    "urlType": "platform-search",
+    "note": "New entry at #2 on FlixPatrol Prime India Overall Top 10 (3 days on chart, Aug 28) behind Playground (9d). OTT trackers list Reacher S4 from Aug 12; exact season on the India chart unverified ⚠️. Provisional — to re-verify.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:15 IST",
+    "score": 70,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Action",
+     "Thriller"
+    ]
+   },
+   {
+    "title": "Mousetrap",
+    "type": "series",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/title/81991749",
+    "urlType": "title-page",
+    "note": "Korean identity-theft thriller limited series (Ryu Jun-yeol, Sul Kyung-gu, Lee Kyoo-hyung), based on Kakao webtoon 'Field Mouse' — released Aug 28, 2026; official title page verified live (TV-MA, Thriller). Missed by earlier passes; caught via ET weekend slideshow + Mashable review.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 09:28 IST",
+    "score": 72,
+    "scoreConfidence": "medium",
+    "provisionalScore": true,
+    "genres": [
+     "Thriller",
+     "Mystery"
+    ]
+   },
+   {
+    "title": "Cocktail 2",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=Cocktail%202",
+    "urlType": "platform-search",
+    "note": "#1-2 on Netflix India Top 10 films for ~2 straight weeks (13 days on chart, FlixPatrol Aug 28).",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 74,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Comedy",
+     "Romance"
+    ]
+   },
+   {
+    "title": "Pyaar Prema Kalyanam",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=Pyaar%20Prema%20Kalyanam",
+    "urlType": "platform-search",
+    "note": "#1 on Netflix India Top 10 films (6 days on chart, FlixPatrol Aug 28).",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 72,
+    "scoreConfidence": "low",
+    "genres": [
+     "Romance",
+     "Comedy"
+    ]
+   },
+   {
+    "title": "Lenin",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Prime Video India + JioHotstar",
+    "url": "https://www.primevideo.com/search?phrase=Lenin",
+    "urlType": "platform-search",
+    "note": "#1 trending on Prime Video India (3 days); also on Prime new-and-upcoming. CONFIRMED dual availability via official \"New on JioHotstar\" row (29 Aug) — not a move.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-29 01:19 IST",
+    "score": 71,
+    "scoreConfidence": "low",
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "Novak Djokovic: The Wolf in Winter",
+    "type": "documentary",
+    "year": 2026,
+    "platform": "JioHotstar",
+    "url": "https://www.hotstar.com/in/explore?search_query=Djokovic",
+    "urlType": "platform-search",
+    "note": "New sports documentary; NYT lists it among August's Disney+ arrivals (JioHotstar carries Disney+ in India); also surfaced as NEW on Prime Video storefront. ⚠️ Verify platform in India.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 70,
+    "scoreConfidence": "low",
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "Ted Lasso (new season)",
+    "type": "series",
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/in/search?term=Ted%20Lasso",
+    "urlType": "platform-search",
+    "note": "PLATFORM CORRECTED (30 Aug 21:08): NYT 'August Disney+ arrivals' attribution WRONG — Apple TV Press confirms S4 global Apple TV premiere Aug 5 2026, 10 episodes weekly (E1 'Home' Aug 5 per Forbes; E9 Sep 30 per IGN schedule); record premiere per Deadline/MacRumors. Same show as mustWatch entry — duplicate left for daily job to merge/remove.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-30 21:08 IST",
+    "score": 74,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Comedy",
+     "Drama"
+    ]
+   },
+   {
+    "title": "Silo",
+    "type": "series",
+    "year": 2023,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/in/search?term=Silo",
+    "urlType": "platform-search",
+    "note": "Dystopian mystery (Rebecca Ferguson) based on Hugh Howey's novels; 'no bad seasons' per Collider best-of; Reddit r/tvPlus staple.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:25 IST",
+    "score": 83,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Sci-Fi",
+     "Mystery"
+    ]
+   },
+   {
+    "title": "Foundation",
+    "type": "series",
+    "year": 2021,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/in/search?term=Foundation",
+    "urlType": "platform-search",
+    "note": "Asimov adaptation; S3 (2025) well received; recurring Reddit best-of pick.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:25 IST",
+    "score": 82,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Sci-Fi"
+    ]
+   },
+   {
+    "title": "Dark Matter",
+    "type": "series",
+    "year": 2024,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/in/search?term=Dark%20Matter",
+    "urlType": "platform-search",
+    "note": "Multiverse thriller (Joel Edgerton); S2 premiered Aug 28, 2026, weekly Fridays (RadioTimes/CNET/tomsguide via 13:07 hourly scan) — first live-tracked Apple TV+ season.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:25 IST",
+    "score": 80,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Sci-Fi",
+     "Thriller"
+    ]
+   }
+  ],
+  "hiddenGems": [
+   {
+    "title": "Four Hands, Two Sonatas",
+    "type": "series",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=Four%20Hands%20Two%20Sonatas",
+    "urlType": "platform-search",
+    "note": "Korean coming-of-age musical romance (Song Kang, Lee Jun-young, Jang Gyu-ri) set at an elite arts school; E1 now streaming — premiered Aug 29, 2026 as scheduled, weekly episodes (tvN + global Netflix) per ET slideshow and highonfilms release schedule.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:15 IST",
+    "score": 68,
+    "scoreConfidence": "low",
+    "genres": [
+     "Romance",
+     "Drama"
+    ]
+   },
+   {
+    "title": "Breaking the Bank: One Trader, 50 Billion",
+    "type": "documentary-series",
+    "year": 2026,
+    "platform": "JioHotstar",
+    "url": "https://www.hotstar.com/in/explore?search_query=Breaking%20the%20Bank",
+    "urlType": "platform-search",
+    "note": "Season 1, newly listed on JioHotstar (JustWatch new releases). Finance/trading doc — fits systems-thinker taste.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 73,
+    "scoreConfidence": "low",
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "Governor: The Silent Saviour",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Prime Video India",
+    "url": "https://www.primevideo.com/search?phrase=Governor%20The%20Silent%20Saviour",
+    "urlType": "platform-search",
+    "note": "Political/economic-crisis thriller; OTT Aug 7, #3 on Prime India Top 10 for ~3 weeks (20 days on chart).",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 70,
+    "scoreConfidence": "low",
+    "genres": [
+     "Thriller",
+     "Drama"
+    ]
+   },
+   {
+    "title": "Exhuma",
+    "type": "movie",
+    "year": 2024,
+    "platform": "JioHotstar",
+    "url": "https://www.hotstar.com/in/explore?search_query=Exhuma",
+    "urlType": "platform-search",
+    "note": "Acclaimed Korean occult thriller, newly surfaced on JioHotstar (JustWatch new list).",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 72,
+    "scoreConfidence": "low",
+    "genres": [
+     "Mystery",
+     "Thriller"
+    ]
+   },
+   {
+    "title": "A Child of My Own",
+    "type": "documentary",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=A%20Child%20of%20My%20Own",
+    "urlType": "platform-search",
+    "note": "New Netflix documentary (Aug 13, per topdocumentaryfilms.com August roundup).",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 68,
+    "scoreConfidence": "low",
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "The Whisper Man",
+    "type": "movie",
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=The%20Whisper%20Man",
+    "urlType": "platform-search",
+    "note": "On Netflix's New Movies row this week.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 66,
+    "scoreConfidence": "low",
+    "genres": [
+     "Mystery",
+     "Thriller"
+    ]
+   },
+   {
+    "title": "Freefall: A Reckoning for Boeing",
+    "type": "documentary",
+    "year": 2026,
+    "platform": "UNVERIFIED-IN-INDIA",
+    "url": "",
+    "urlType": "none",
+    "note": "Streaming Aug 19, 2026 (Rotten Tomatoes). India platform not yet confirmed — parked until the daily job verifies.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 71,
+    "scoreConfidence": "low",
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "The Secret Woman",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/title/81735102",
+    "urlType": "title-page",
+    "note": "Danish-Norwegian mystery thriller (SF Studios; Claes Bang, Ingrid Bolsø Berdal) — global Netflix launch Aug 28, 2026 per official about.netflix.com; title page verified live.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 08:19 IST",
+    "score": 62,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Mystery",
+     "Thriller"
+    ]
+   },
+   {
+    "title": "All the Truth in My Lies",
+    "type": "series",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/title/81735486",
+    "urlType": "title-page",
+    "note": "Spanish romcom limited series (TV-MA) based on Elísabet Benavent's bestselling novel — global Netflix launch Aug 28, 2026 per official about.netflix.com; title page verified live.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 08:19 IST",
+    "score": 60,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Romance",
+     "Comedy"
+    ]
+   },
+   {
+    "title": "Adults S2",
+    "type": "series",
+    "year": 2026,
+    "platform": "JioHotstar",
+    "url": "https://www.hotstar.com/in/browse/reco-editorial/new-on-jiohotstar/tp-ed_CJE3EAEaAQI",
+    "urlType": "platform-row",
+    "note": "Season 2 of the English comedy 'Adults' — Aug 28, 2026 per myvi weekly table + JioHotstar official new row.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 01:07 IST",
+    "score": 58,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Comedy"
+    ]
+   },
+   {
+    "title": "Batman: Knightfall Part 1",
+    "type": "movie",
+    "year": 2026,
+    "platform": "JioHotstar",
+    "url": "https://www.hotstar.com/in/explore",
+    "urlType": "platform-search",
+    "note": "DC animated film (digital release Aug 25, 2026); listed for JioHotstar by Vogue India Aug 24-30 roundup + OTT-popcorn weekly reel. No official title page found yet — ⚠️ Availability needs verification.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 08:19 IST",
+    "score": 60,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Animation",
+     "Action"
+    ]
+   },
+   {
+    "title": "Black Bird",
+    "type": "limited",
+    "year": 2022,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/in/search?term=Black%20Bird",
+    "urlType": "platform-search",
+    "note": "Taron Egerton vs Paul Walter Hauser prison thriller; elite limited series that flew under the mainstream radar; Reddit best-of mention.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:25 IST",
+    "score": 78,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Thriller"
+    ]
+   },
+   {
+    "title": "For All Mankind",
+    "type": "series",
+    "year": 2019,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/in/search?term=For%20All%20Mankind",
+    "urlType": "platform-search",
+    "note": "Alternate-history space-race drama from Ronald D. Moore; long-running critics' favorite, Reddit best-of staple.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:25 IST",
+    "score": 76,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Sci-Fi",
+     "Drama"
+    ]
+   },
+   {
+    "title": "Shrinking",
+    "type": "series",
+    "year": 2023,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/in/search?term=Shrinking",
+    "urlType": "platform-search",
+    "note": "Bill Lawrence comedy (Jason Segel, Harrison Ford); S3 listed among 2026 Apple originals by Reddit r/tvPlus (date unverified).",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:25 IST",
+    "score": 75,
+    "scoreConfidence": "low",
+    "genres": [
+     "Comedy",
+     "Drama"
+    ]
+   },
+   {
+    "title": "Women in Blue (Las Azules)",
+    "type": "series",
+    "year": 2026,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/in/search?term=Women%20in%20Blue%20(Las%20Azules)",
+    "urlType": "platform-search",
+    "note": "Spanish-language period crime drama (Mexico's first female police force); S2 premiered Aug 12, 2026 (IGN/Apple press); under-watched outside Latin America.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:25 IST",
+    "score": 68,
+    "scoreConfidence": "low",
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "The Dynasty: UConn Huskies",
+    "type": "docuseries",
+    "year": 2026,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/in/search?term=The%20Dynasty:%20UConn%20Huskies",
+    "urlType": "platform-search",
+    "note": "Sports docuseries on the UConn women's basketball dynasty; premiered Aug 21, 2026 (Apple TV Press / IMDb).",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:25 IST",
+    "score": 65,
+    "scoreConfidence": "low",
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "Grand Theft Auto VI: An Extended Look",
+    "type": "special",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=GTA%206",
+    "urlType": "platform-search",
+    "note": "27-minute 'extended look' special of new GTA 6 in-game footage, premiered on Netflix Aug 27, 2026 3pm ET (= Aug 28 IST) — Variety + IGN + BBC + Reddit megathread; India availability per myvi Aug 29-Sep 4 week list. Promotional event video, not a series/film — provisional.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 14:07 IST",
+    "score": 62,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Gaming",
+     "Documentary"
+    ]
+   },
+   {
+    "title": "Facing El Chapo",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/in/title/82048151",
+    "urlType": "title-page",
+    "note": "BACKFILL (30 Aug 18:07): Mexican action thriller (aka 'La Captura'; dir. Chava Cartas; Alfonso Herrera, Noé Hernández; 91 min) — worldwide Netflix premiere Aug 21, 2026 (The Week + Times of India); official India title page verified live (netflix.com/in/title/82048151, A-rated); on FlixPatrol India film chart (#4, 29 Aug crawl). Corrects 29 Aug 16:07 'already tracked' misread — was absent from catalog. Provisional, score review left to daily job.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 18:07 IST",
+    "score": 61,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Action",
+     "Thriller"
+    ]
+   },
+   {
+    "title": "Don't Say Good Luck",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/title/81975622",
+    "urlType": "title-page",
+    "note": "BACKFILL (30 Aug 18:07): coming-of-age drama (dir. Julia Hart; Sunny Sandler, Melanie Lynskey, Max Greenfield; PG-13) — Netflix premiere Aug 14, 2026 (Wikipedia + official Tudum 'now streaming' article + Variety/RogerEbert reviews); official title page verified live (netflix.com/title/81975622). Catalog gap found via whats-on-netflix 'Best New Movies Aug 2026' list. Provisional, score review left to daily job.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 18:07 IST",
+    "score": 60,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "The Moment",
+    "type": "movie",
+    "year": 2026,
+    "platform": "JioHotstar",
+    "url": "https://www.hotstar.com/in/movies/the-moment/1271666133",
+    "urlType": "title-page",
+    "note": "BACKFILL (02 Sep 05:25): pop-star mockumentary (dir. Aidan Zamiri; Charli XCX, Jamie Demetriou, Rosanna Arquette) — as her arena tour looms, a breakout pop star battles the cost of staying on top. Official JioHotstar title page verified live; JustWatch India lists JioHotstar; Tribune India review live. Third-party posts indicate a Jul 2026 arrival (IG reel: Jul 11) — exact India date not retrieved ⚠️. Catalog gap surfaced via r/JioHotstar mention — provisional, score review left to daily job.",
+    "addedOn": "2026-09-02",
+    "lastChecked": "2026-09-02 05:25 IST",
+    "score": 63,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Drama",
+     "Comedy"
+    ]
+   },
+   {
+    "title": "Lovesick",
+    "type": "series",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/title/81262893",
+    "urlType": "title-page",
+    "note": "BACKFILL (02 Sep 06:32): Mexican period romance 'Mal de amores' (Renata Vaca) — during the Mexican Revolution, Emilia Sauri pursues her dream of becoming a doctor, defying convention in search of love. Premiered Sep 2, 2026 (today) per official Netflix title page (81262893, TV-MA Drama) + whats-on-netflix + Vogue India week list (3 concordant sources). Catalog gap — provisional, score review left to daily job.",
+    "addedOn": "2026-09-02",
+    "lastChecked": "2026-09-02 06:32 IST",
+    "score": 66,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Romance",
+     "Drama"
+    ]
+   },
+   {
+    "title": "Untold Raygun: Breaking Badly",
+    "type": "documentary",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/title/82048542",
+    "urlType": "title-page",
+    "note": "BACKFILL (02 Sep 06:32 — resolves 01 Sep date-less flag): Untold series doc — breakdancer 'Raygun' (Rachael Gunn) recounts going from Australian academic to global meme after Paris 2024. Premiered globally Sep 1, 2026 per official Netflix title page (82048542, TV-MA Documentary) + media.netflix.com (Sep 1) + Hollywood Reporter ('currently streaming'). Catalog gap — provisional, score review left to daily job.",
+    "addedOn": "2026-09-02",
+    "lastChecked": "2026-09-02 06:32 IST",
+    "score": 65,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Documentary"
+    ]
+   }
+  ],
+  "indianPicks": [
+   {
+    "title": "Anbe Diana",
+    "type": "movie",
+    "year": 2026,
+    "platform": "SonyLIV",
+    "url": "https://www.sonyliv.com/search?q=Anbe%20Diana",
+    "urlType": "platform-search",
+    "note": "VERIFIED (29 Aug): official SonyLIV trailer page live (sonyliv.com/trailer/anbe-diana-1090540079 — 'fun-filled rom-com about a timid Perambur guy whose love for an Anglo-Indian girl puts him at odds with his conservative family') + Times of India confirms Aug 28 premiere; also in ET slideshow. Tamil rom-com (Pari Elavazhagan, Ramya Ranganathan).",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:15 IST",
+    "score": 60,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Comedy",
+     "Romance"
+    ]
+   },
+   {
+    "title": "Operation Safed Sagar: The Untold Story of the Kargil War",
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/in/title/81616273",
+    "urlType": "title-page",
+    "note": "See highlyRecommended — full entry. Kargil/IAF series, #1 India 20d; strong match for aviation-history taste (alongside Last Salute: MiG-21).",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 13:15 IST",
+    "score": 72,
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "The Last Salute: A Love Letter To MiG-21",
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=The%20Last%20Salute",
+    "urlType": "platform-search",
+    "note": "New this week; Top 10 day-1 entry.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 82,
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "Dhurandhar (extended cut)",
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/in/title/82156122",
+    "urlType": "title-page",
+    "note": "Title page verified live.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 88,
+    "genres": [
+     "Action",
+     "Thriller"
+    ]
+   },
+   {
+    "title": "Bandar",
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/search?q=Bandar",
+    "urlType": "platform-search",
+    "note": "Aug 28 arrival — VERIFIED multi-source (ET + GQ + Mashable, 29 Aug).",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-29 13:15 IST",
+    "score": 76,
+    "genres": [
+     "Drama",
+     "Thriller"
+    ]
+   },
+   {
+    "title": "Chumbak",
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=Chumbak",
+    "urlType": "platform-search",
+    "note": "Listed for Aug 28, 2026 on Netflix (bollymoviereviewz upcoming table); now also named in Mashable Aug 28-30 OTT roundup (2nd source). Platform still not title-page verified ⚠️.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-29 13:15 IST",
+    "score": 65,
+    "scoreConfidence": "low",
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "Gandhari",
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=Gandhari",
+    "urlType": "platform-search",
+    "note": "UPCOMING — out 3 September on Netflix (Netflix India official promo). Watchlist for next week.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 75,
+    "scoreConfidence": "medium",
+    "genres": [
+     "Action",
+     "Thriller"
+    ]
+   },
+   {
+    "title": "Peddi",
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=Peddi",
+    "urlType": "platform-search",
+    "note": "Still in Top 10 after 49 days on chart — long tail.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-28 23:45 IST",
+    "score": 70,
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "I, Nobody",
+    "type": "movie",
+    "year": 2026,
+    "platform": "JioHotstar",
+    "url": "https://www.hotstar.com/in/browse/reco-editorial/new-on-jiohotstar/tp-ed_CJE3EAEaAQI",
+    "urlType": "platform-row",
+    "note": "Malayalam film streaming from Aug 25, 2026 per Economic Times + Hindustan Times (explicit platform+date). Also in official new row.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 01:07 IST",
+    "score": 63,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Action"
+    ]
+   },
+   {
+    "title": "Part-Timers",
+    "type": "series",
+    "year": 2026,
+    "platform": "JioHotstar",
+    "url": "https://www.hotstar.com/in/shows/part-timers/1271675060",
+    "urlType": "title-page",
+    "note": "Telugu drama (Gnaneswari Kandregula; roommates Sindhu & Teju) — official title page live, S1 E1 dated 28 Aug 2026; previously GQ + ET Panache + official new row.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 06:07 IST",
+    "score": 60,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "Babita Singh Reporting",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Prime Video India",
+    "url": "https://www.primevideo.com/detail/0L0C4OX0141EW5XEMTSRX9164L",
+    "urlType": "title-page",
+    "note": "Prime Original investigative drama (Nimisha Sajayan, dir. Ambiecka Pandit) — global launch 28 Aug 2026 in Hindi with English subs, 240+ territories (Deadline exclusive + IMDb news + Times Now).",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-30 10:07 IST",
+    "score": 65,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Drama",
+     "Mystery"
+    ]
+   },
+   {
+    "title": "Baredda",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Prime Video India",
+    "url": "https://www.primevideo.com/search?phrase=Baredda",
+    "urlType": "platform-search",
+    "note": "Listed for 28 Aug 2026 on Prime Video India by Times Now Friday-release roundup — single source. ⚠️ Availability needs verification.",
+    "addedOn": "2026-08-29",
+    "lastChecked": "2026-08-29 06:07 IST",
+    "score": 55,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "Main Vaapas Aaunga",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/title/82018915",
+    "urlType": "title-page",
+    "note": "BACKFILL (30 Aug 00:07): Imtiaz Ali period romance (Diljit Dosanjh, Sharvari, Vedang Raina; theatrical Jun 12) — streaming exclusively on Netflix since Aug 7, 2026. Official title page verified live (netflix.com/title/82018915); TOI (Netflix India IG confirmation) + ET Panache corroborate. Catalog gap found during hourly scan — provisional, score review left to daily job.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 00:07 IST",
+    "score": 64,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Romance",
+     "Drama"
+    ]
+   },
+   {
+    "title": "Gatta Kusthi 2",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/title/82072530",
+    "urlType": "title-page",
+    "note": "BACKFILL (30 Aug 15:07): Tamil sports comedy (Vishnu Vishal Studioz / Vels Film International per IMDb) — theatrical 3 Jul 2026, streaming on Netflix since 31 Jul 2026 in Tamil/Hindi/Telugu/Kannada/Malayalam (Wikipedia + official Netflix IG). Official title page verified live (netflix.com/title/82072530); currently #5 on Tudum India films chart (30 Aug). Resolves 13:07 gap flag — provisional, score review left to daily job.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 15:07 IST",
+    "score": 62,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Comedy",
+     "Drama"
+    ]
+   },
+   {
+    "title": "Idhayam Murali",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/title/82072500",
+    "urlType": "title-page",
+    "note": "BACKFILL (30 Aug 21:08): Tamil coming-of-age romantic drama (Atharvaa, Preity Mukhundhan, Kayadu Lohar) — streaming on Netflix since 7 Aug 2026 in Tamil/Telugu/Kannada/Malayalam/Hindi (TOI + Pinkvilla + official OTT Nights IG). Official title page verified live (netflix.com/title/82072500); currently #6 on Tudum India films chart (30 Aug). Provisional — score review left to daily job.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 21:08 IST",
+    "score": 62,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Romance",
+     "Drama"
+    ]
+   },
+   {
+    "title": "Newton's 3rd Law",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/in/title/83001645",
+    "urlType": "title-page",
+    "note": "BACKFILL (02 Sep 05:25): 2026 Telugu investigative drama (dir. Rajesh Karna, Mark My Words Entertainment) — two deaths from 1999 resurface and a headstrong investigator uncovers dark secrets (Netflix synopsis; IMDb: double-murder case). Official India title page verified live (netflix.com/in/title/83001645, U/A 16+); streaming in Telugu/Hindi/Tamil/Kannada/Malayalam per official IG. #2 on FlixPatrol India films chart Sep 1 (4 days on chart). Premiere date not retrieved — late Aug per chart run ⚠️. Catalog gap found via Sep 1 chart crawl — provisional, score review left to daily job.",
+    "addedOn": "2026-09-02",
+    "lastChecked": "2026-09-02 05:25 IST",
+    "score": 64,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Drama",
+     "Mystery"
+    ]
+   }
+  ],
+  "youtubePicks": [
+   {
+    "title": "Real Stories (channel) — full-length documentaries",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/Real_Stories",
+    "urlType": "channel",
+    "note": "Full-length licensed documentaries, 3+ new per week; the reliable firehose of the section. Daily job watches for standout new uploads.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-30 21:25 IST",
+    "score": 70,
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "PBS Documentaries / PBS Voices — 'Ritual' new series",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@PBSDocumentaries",
+    "urlType": "channel",
+    "note": "PBS-quality docs + the new 'Ritual' series on PBS Voices (announced 28 Aug baseline). Daily job tracks new episodes.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-30 21:25 IST",
+    "score": 68,
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "Free Documentary (channel) — new releases",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/channel/UCijcd0GR0fkxCAZwkiuWqtQ",
+    "urlType": "channel",
+    "note": "Baseline tracking: frequent new full-length docs.",
+    "addedOn": "2026-08-28",
+    "lastChecked": "2026-08-30 21:25 IST",
+    "score": 65,
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "Veritasium",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/veritasium",
+    "urlType": "channel",
+    "note": "Science & engineering deep dives with real experiments (Derek Muller; 20M+ subs as of Apr 2026). Recent uploads include 'We sent a balloon to space to film the solar eclipse', 'Is spider web really stronger than steel?', 'Why does every mammal get 1 billion heartbeats in their life?'.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 21:25 IST",
+    "score": 78,
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "3Blue1Brown",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/c/3blue1brown",
+    "urlType": "channel",
+    "note": "Visual math/CS explainers (Grant Sanderson) — linear algebra, neural networks, topology; the systems-thinker's math channel. ~242 videos.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 21:25 IST",
+    "score": 78,
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "Kurzgesagt – In a Nutshell",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q",
+    "urlType": "channel",
+    "note": "Vibrant animated science explainers ('optimistic nihilism') — space, biology, existential risk; 383 videos.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 21:25 IST",
+    "score": 82,
+    "genres": [
+     "Documentary"
+    ]
+   }
+  ],
+  "futurePicks": [
+   {
+    "title": "The Impenetrable Barrier Trapping Us in the Solar System",
+    "type": "video",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Kurzgesagt+Impenetrable+Barrier+Trapping+Us+in+the+Solar+System",
+    "urlType": "platform-search",
+    "note": "🆕 Latest — Kurzgesagt, premiered 4 Aug 2026: why the heliopause makes leaving the solar system nearly impossible; r/kurzgesagt calls it a return to classic form. Watch link is an on-YouTube search (daily job upgrades to direct URL).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 21:25 IST",
+    "score": 82,
+    "genres": [
+     "Animation",
+     "Documentary"
+    ]
+   },
+   {
+    "title": "This equation will change how you see the world (the logistic map)",
+    "type": "video",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Veritasium+logistic+map+equation+change+how+you+see+the+world",
+    "urlType": "platform-search",
+    "note": "🎓 Essential — Veritasium's chaos-theory classic; the logistic map from simple rule to infinite complexity. Community-crowned favorite (r/Veritasium) and the single best door into systems thinking. Watch link is an on-YouTube search (daily job upgrades to direct URL).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 21:39 IST",
+    "score": 90,
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "Genetic Engineering Will Change Everything Forever – CRISPR",
+    "type": "video",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Kurzgesagt+CRISPR+Genetic+Engineering+Will+Change+Everything+Forever",
+    "urlType": "platform-search",
+    "note": "🎓 Essential — Kurzgesagt's CRISPR explainer, on the channel's official 'Our Best Stuff' playlist; the cleanest 10-minute grounding in the technology rewriting biology.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 21:39 IST",
+    "score": 85,
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "Optimistic Nihilism",
+    "type": "video",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Kurzgesagt+Optimistic+Nihilism",
+    "urlType": "platform-search",
+    "note": "🎓 Essential — Kurzgesagt's philosophy of meaning in a meaningless universe; on the official 'Our Best Stuff' playlist. The rare 'watch this for your head' pick.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 21:39 IST",
+    "score": 84,
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "Human Origins",
+    "type": "video",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Kurzgesagt+Human+Origins",
+    "urlType": "platform-search",
+    "note": "🎓 Essential — Kurzgesagt's 24M-view big-picture story of where we came from; on the official 'Our Best Stuff' playlist.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 21:39 IST",
+    "score": 82,
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "The AI that solved IMO Geometry Problems",
+    "type": "video",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=3Blue1Brown+AI+solved+IMO+Geometry+Problems+Aleph0+AlphaGeometry",
+    "urlType": "platform-search",
+    "note": "🆕 Latest — 3Blue1Brown guest video (Aleph0): how DeepMind's AlphaGeometry cracks olympiad-level geometry — AI capability progress, visualized the 3b1b way.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 21:39 IST",
+    "score": 80,
+    "genres": [
+     "Documentary"
+    ]
+   }
+  ],
+  "aiPicks": [
+   {
+    "title": "Two Minute Papers",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Two+Minute+Papers",
+    "urlType": "platform-search",
+    "note": "AI research papers turned into 5-10 min 'what a time to be alive' episodes — the fastest way to watch the frontier move. 2026 best-AI-channel lists (gen.pro).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 82
+   },
+   {
+    "title": "AI Explained",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=AI+Explained",
+    "urlType": "platform-search",
+    "note": "Deep, calm analysis of LLM releases and AI research — model comparisons and 'what actually matters', no hype. gen.pro + aiprofitboardroom 2026 picks.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 80
+   },
+   {
+    "title": "Matt Wolfe",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Matt+Wolfe",
+    "urlType": "platform-search",
+    "note": "AI tools & news roundups — practical coverage of ChatGPT, Claude, Midjourney, Canva AI for builders. 2026 lists pick him for tools+news.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 76
+   }
+  ],
+  "sportsPicks": [
+   {
+    "title": "Sky Sports Football",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Sky+Sports+Football",
+    "urlType": "platform-search",
+    "note": "Football news, analysis and highlights — Premier League coverage backbone (2026 sports-analysis lists).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 76
+   },
+   {
+    "title": "Football Analysis",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/@footballanalysis1",
+    "urlType": "channel",
+    "note": "@footballanalysis1 — team rebuilds, film breakdowns, breakout players, long-term club outlooks.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 74
+   },
+   {
+    "title": "NBA",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=NBA",
+    "urlType": "platform-search",
+    "note": "Official nightly highlights, top plays and series recaps.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 72
+   },
+   {
+    "title": "Wiloo",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Wiloo",
+    "urlType": "platform-search",
+    "note": "Tactical game-by-game breakdowns; went daily during World Cup 2026 — r/footballtactics community pick.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 70
+   }
+  ],
+  "gadgetPicks": [
+   {
+    "title": "MKBHD (Marques Brownlee)",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/user/marquesbrownlee",
+    "urlType": "channel",
+    "note": "Quality tech videos — the benchmark for phone/laptop/gadget reviews; 18-20M subs. 2026 tech-YouTuber lists rank him #1 for honest deep dives.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 84
+   },
+   {
+    "title": "Mrwhosetheboss",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA",
+    "urlType": "channel",
+    "note": "Polished mega-comparisons and big hands-ons — recent: 'Google Pixel 11 Hands on — The Phone Crisis Begins', 'The Honor Robot Phone is absolutely insane'.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 82
+   },
+   {
+    "title": "Linus Tech Tips",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Linus+Tech+Tips",
+    "urlType": "platform-search",
+    "note": "Daily tech news, builds and labs-tested reviews — the coverage workhorse (r/mkbhd calls it the most reliable tech-news channel).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 74
+   }
+  ],
+  "greenPicks": [
+   {
+    "title": "Engineering with Rosie",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Engineering+with+Rosie",
+    "urlType": "platform-search",
+    "note": "Engineer's take on renewables, batteries and grid tech — top 2026 renewable-energy channel lists (feedspot).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 78
+   },
+   {
+    "title": "DIY Solar Power with Will Prowse",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=DIY+Solar+Power+with+Will+Prowse",
+    "urlType": "platform-search",
+    "note": "Hands-on solar and battery reviews — the practical DIY-solar authority (feedspot + gridworksenergy 2026 lists).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 76
+   },
+   {
+    "title": "The Great Simplification with Nate Hagens",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=The+Great+Simplification+with+Nate+Hagens",
+    "urlType": "platform-search",
+    "note": "Big-picture energy dynamics and systems view of the human predicament (r/energy pick) — pairs well with the EV-charger map project.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 75
+   }
+  ],
+  "businessPicks": [
+   {
+    "title": "Y Combinator",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Y+Combinator",
+    "urlType": "platform-search",
+    "note": "Startup School lectures, founder talks and thousands of pitches — the free startup university (top of LinkedIn's 2026 founder-channel list).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 84
+   },
+   {
+    "title": "a16z",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=a16z",
+    "urlType": "platform-search",
+    "note": "AI/tech market analysis and operator interviews from the venture firm (LinkedIn founder list #2).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 78
+   },
+   {
+    "title": "Greg Isenberg",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Greg+Isenberg",
+    "urlType": "platform-search",
+    "note": "Niche business breakdowns and idea-to-execution plays — community-driven business models.",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 76
+   },
+   {
+    "title": "Starter Story by Pat Walls",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Starter+Story+by+Pat+Walls",
+    "urlType": "platform-search",
+    "note": "Real founder revenue case studies — what actually works, with numbers (LinkedIn founder list).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 74
+   }
+  ],
+  "moneyPicks": [
+   {
+    "title": "Ben Felix",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Ben+Felix",
+    "urlType": "platform-search",
+    "note": "Evidence-based investing (index funds, factor evidence) — ranked #1 for quality in 2026 personal-finance rankings (vidpros).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 84
+   },
+   {
+    "title": "Two Cents",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Two+Cents",
+    "urlType": "platform-search",
+    "note": "PBS personal-finance basics — budgeting, habits, behavioral traps, in 10-minute bites (vidpros 2026 list).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 78
+   },
+   {
+    "title": "Money Guy Show",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Money+Guy+Show",
+    "urlType": "platform-search",
+    "note": "Financial Order of Operations + wealth-building call-ins (vidpros 2026 list).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 76
+   },
+   {
+    "title": "Humphrey Yang",
+    "type": "channel",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=Humphrey+Yang",
+    "urlType": "platform-search",
+    "note": "Plain-English money explainers — taxes, investing first steps (outlierkit 2026 creator teardown).",
+    "addedOn": "2026-08-30",
+    "lastChecked": "2026-08-30 22:09 IST",
+    "score": 74
+   }
   ]
+ },
+ "removed": [],
+ "platformChanges": [
+  {
+   "title": "Lenin",
+   "detail": "RESOLVED 29 Aug 01:07: JioHotstar presence confirmed via official 'New on JioHotstar' editorial row. Multi-platform listing verified (Prime Video India #1 trending + JioHotstar). Not a removal/move — dual availability.",
+   "lastChecked": "2026-08-29 01:19 IST"
+  },
+  {
+   "title": "Michael",
+   "detail": "Platform expanded: now reported on BOTH Prime Video and JioHotstar (Economic Times weekend roundup, Aug 29) — was single-sourced JioHotstar-only at 00:07 pass. Multi-platform release Aug 29, 2026.",
+   "lastChecked": "2026-08-29 01:19 IST"
+  }
+ ],
+ "upcoming": [
+  {
+   "title": "Turning Point: Generation 9/11",
+   "platform": "Netflix India",
+   "date": "2026-09-02",
+   "detail": "Documentary marking 25 years since 9/11, examining its long-term impact on a generation (Mathrubhumi); Netflix Sep 2, 2026 per JustWatch India + FlixPatrol + gadgets360 — indulgexpress 'Aug 29 on JioHotstar' claim contradicted by 3 concordant sources"
+  },
+  {
+   "title": "Call My Agent! The Movie",
+   "platform": "Netflix India",
+   "date": "2026-09-10",
+   "detail": "French 'Call My Agent!' film reuniting the ASK family, set five years after the series; global Netflix premiere Sep 10, 2026 per JustWatch India + comicbasics"
+  },
+  {
+   "title": "Gandhari",
+   "platform": "Netflix India",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "Vigil Season 3 / Trigger Point Season 4 (this-week listings)",
+   "platform": "needs platform verification",
+   "date": "2026-08-22..28",
+   "detail": "TP S4 UK premiere confirmed Sun 30 Aug 9pm ITV1 + ITVX boxset (Radio Times/Digital Spy, 18 Aug); Vigil S3 India platform still unverified; 91mobiles lists both in India this-week roundup"
+  },
+  {
+   "title": "Jungle Tales with Mowgli",
+   "platform": "JioHotstar",
+   "date": "2026-09-12",
+   "detail": "Official Disney India post (28 Aug): starts 12 Sep on JioHotstar Kids Profile + Disney Channel; kids animation — aggregator dates (myvi/digit 'Aug 28') conflict and are treated as wrong"
+  },
+  {
+   "title": "Star Wars: The Mandalorian and Grogu",
+   "platform": "JioHotstar",
+   "date": "2026-09-02",
+   "genres": [
+    "Sci-Fi",
+    "Action"
+   ],
+   "detail": "Mandalorian feature film — Din Djarin & Grogu enlisted to rescue Rotta the Hutt from a pirate underworld; JioHotstar digital premiere Sep 2, 2026 per GQ week list"
+  },
+  {
+   "title": "The Runner",
+   "platform": "Prime Video India",
+   "date": "2026-09-02",
+   "genres": [
+    "Thriller"
+   ],
+   "detail": "Psychological thriller — London lawyer Maia (Gal Gadot) forced through dangerous tasks while her son is held; Prime Video Sep 2, 2026 per GQ week list"
+  },
+  {
+   "title": "The Gentlemen Season 2",
+   "platform": "Netflix India",
+   "date": "2026-09-03",
+   "genres": [
+    "Drama",
+    "Comedy"
+   ],
+   "detail": "Theo James & Kaya Scodelario return; cannabis empire expands to a global syndicate (Italy/Rome); Netflix Sep 3, 2026 per GQ + Vogue week lists"
+  },
+  {
+   "title": "Dhamaal 4",
+   "platform": "Netflix India",
+   "date": "2026-09-04",
+   "genres": [
+    "Comedy"
+   ],
+   "detail": "Indra Kumar slapstick franchise 4th instalment (Ajay Devgn + original gang); Netflix Sep 4, 2026 per Vogue week list"
+  },
+  {
+   "title": "Earle Meets World",
+   "platform": "Netflix India",
+   "date": "2026-09-04",
+   "genres": [
+    "Documentary"
+   ],
+   "detail": "8-part unscripted docuseries on influencer Alix Earle building her business empire; Netflix Sep 4, 2026 per GQ week list"
+  },
+  {
+   "title": "Jagamae Sangeetham",
+   "platform": "Prime Video India",
+   "date": "2026-09-04",
+   "genres": [
+    "Drama"
+   ],
+   "detail": "Musical drama billed from the Bandish Bandits world — disciplined Carnatic heir Balu (Akshay Lagusani) x pop star Pallavi (Sushmita Shetty); Prime Video Sep 4, 2026 per GQ week list"
+  },
+  {
+   "title": "The Court",
+   "platform": "JioHotstar",
+   "date": "2026-09-04",
+   "genres": [
+    "Drama"
+   ],
+   "detail": "Tamil courtroom drama — young lawyer Yazhini (R. Yogalakshmi), who lives with a speech impairment, takes on her veteran-lawyer father; JioHotstar Sep 4, 2026 per GQ week list"
+  },
+  {
+   "title": "Mayday",
+   "platform": "Apple TV+",
+   "date": "2026-09-04",
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "detail": "Cold War 1987 action-comedy — US Navy pilot Troy 'Assassin' Kelly (Ryan Reynolds) rescued behind enemy lines by pop-culture-obsessed ex-KGB agent Nikolai (Kenneth Branagh); Apple TV Sep 4, 2026 per GQ week list"
+  },
+  {
+   "title": "Unmadham",
+   "platform": "SonyLIV",
+   "date": "2026-09-04",
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "detail": "Malayalam psychological investigative thriller — civil police officer turned screenwriter Shelly (Kunchacko Boban) reopens a cold case as fiction and reality blur; SonyLIV Sep 4, 2026 per GQ week list"
+  },
+  {
+   "title": "The Revolutionaries",
+   "platform": "Prime Video India",
+   "date": "2026-09-11",
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "detail": "Period action thriller (Bhuvan Bam, Rohit Saraf, Gurfateh Pirzada); Prime Video premiere Sep 11, 2026 per ET Panache + bollymoviereviewz"
+  },
+  {
+   "title": "Ghamasaan",
+   "platform": "ZEE5",
+   "date": "2026-09-11",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "detail": "Tigmanshu Dhulia gritty power drama (Pratik Gandhi, Arshad Warsi) — showdown between a hunter and an outlaw; ZEE5 premiere Sep 11, 2026 per ZEE5 trailer announcement (indiantelevision.com) + IMDb ('Watch Ghamasaan on Zee 5', release Sep 11) + festival-screening reports; first new ZEE5 title signal since Aug 29"
+  },
+  {
+   "title": "The Kevin Langue Show",
+   "platform": "Netflix India",
+   "date": "2026-09-05",
+   "genres": [
+    "Comedy"
+   ],
+   "detail": "Comedy series from YouTube creator Kevin Langue; The Kevin Langue Show + Kevin Langue 2 join Netflix Sep 5, 2026 with new episodes dropping day-and-date thereafter (Netflix press release via Futon Critic Aug 25 + Variety via netinfluencer); 91mobiles India week list concurs"
+  },
+  {
+   "title": "Don't Be Shy",
+   "platform": "Prime Video India",
+   "date": "2026-09-25",
+   "genres": [
+    "Drama"
+   ],
+   "detail": "Coming-of-age film (Aarushi Bajaj, Piyush Khati); Prime Video Sep 25, 2026 per ET Panache + myvi month list + Hans India + bollymoviereviewz (4 concordant; dtnext '24 Aug 2026' treated as stale)"
+  },
+  {
+   "title": "Veerabhadruni Rahasyam (Season 1 Part 2)",
+   "platform": "ZEE5",
+   "date": "2026-09-04",
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "detail": "Telugu mystery thriller 'From the World of Marmadesam' — S1 streaming since Jul 3, 2026 (ZEE5 details page: released 4 Jul, 30 eps, Telugu; Wikipedia concurs 3 Jul); Part 2 premieres Sep 4, 2026 per cast/PR Instagram premiere post + ottrelease.com ZEE5 September roundup"
+  },
+  {
+   "title": "Last Seen",
+   "platform": "Apple TV+",
+   "date": "2026-09-09",
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "detail": "Australian thriller — Patrick Brammall stars as police detective Ian Ridley; global debut Sep 9, 2026 with two episodes, then weekly until Oct 7 (6-episode S1, IMDb); Apple TV Press release + Wikipedia concur"
+  },
+  {
+   "title": "Slow Horses (Season 6)",
+   "platform": "Apple TV+",
+   "date": "2026-09-16",
+   "genres": [
+    "Thriller"
+   ],
+   "detail": "Gary Oldman-led Slough House spy thriller returns — Season 6 premieres Sep 16, 2026 per Apple TV Press September originals page ('Season 6 • September 16, 2026') + 9to5mac + IGN; series tracked in mustWatch (S5 aired 2025); FB 'S5 Sept 24' listing rejected as stale"
+  },
+  {
+   "title": "Brothers",
+   "platform": "Apple TV+",
+   "date": "2026-09-23",
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "detail": "8-episode comedy — Matthew McConaughey + Woody Harrelson play fictionalized versions of themselves whose lifelong friendship is tested (Apple TV Press title page: premiere Sep 23, 2026); creators David West Read + Lee Eisenberg per IMDb; Wikipedia + tvinsider concur"
+  },
+  {
+   "title": "Neagley (Season 1)",
+   "platform": "Prime Video India",
+   "date": "2026-09-16",
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "detail": "Reacher spinoff (Maria Sten as Frances Neagley) — Sep 16, 2026 per Amazon MGM press (via Yahoo/IGN) + bollymoviereviewz India upcoming table ('Sep 16, 2026 Neagley', Amazon Prime Video Series); no official India page retrieved yet — daily job to verify"
+  }
+ ]
 }
