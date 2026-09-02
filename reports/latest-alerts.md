@@ -1,6 +1,6 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs. Last rewrite: 02 Sep 2026 06:32 IST._
+_Living file — rewritten by hourly/daily jobs. Last rewrite: 02 Sep 2026 09:07 IST._
 
 ---
 
@@ -38,4 +38,7 @@ _No open platform changes._ — Last checked: 02 Sep 2026 05:25 IST
 **The Court — JioHotstar, 4 Sep 2026** · **Jagamae Sangeetham — Prime Video, 4 Sep 2026**
 **Call My Agent! The Movie — Netflix, 10 Sep 2026**
 **The Revolutionaries — Prime Video, 11 Sep 2026** (Bhuvan Bam, Rohit Saraf — period action thriller)
+**Ghamasaan — ZEE5, 11 Sep 2026** (Tigmanshu Dhulia power drama; Pratik Gandhi vs Arshad Warsi — first new ZEE5 title signal since Aug 29)
+**Veerabhadruni Rahasyam S1 Part 2 — ZEE5, 4 Sep 2026** (Telugu mystery thriller, From the World of Marmadesam; S1 live since Jul)
+**Don't Be Shy — Prime Video, 25 Sep 2026** (coming-of-age; Aarushi Bajaj, Piyush Khati)
 **Jungle Tales with Mowgli — JioHotstar, 12 Sep 2026** (official Disney India: Kids Profile + Disney Channel)
