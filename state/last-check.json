@@ -2,24 +2,24 @@
   "timezone": "Asia/Kolkata",
   "platforms": {
     "netflix-india": {
-      "lastChecked": "2026-09-02 06:32 IST",
-      "method": "web_search hourly — Lovesick BACKFILL added to hiddenGems (official title page 81262893 verified; whats-on-netflix + Vogue India: Sep 2 premiere, today) + Untold Raygun BACKFILL (title page 82048542 + media.netflix.com + THR: Sep 1); Top 10 unchanged (Alpha #1, Newton's 3rd Law #2, FlixPatrol Sep 1)"
+      "lastChecked": "2026-09-02 07:16 IST",
+      "method": "web_search hourly — no new titles; Tudum India film chart shift logged (Alpha #1, Pyaar Prema Kalyanam #2, Cocktail 2 #3, GTA VI #4, Newton's 3rd Law #5; Whisper Man out of top-5); all chart titles cataloged"
     },
     "prime-video-india": {
-      "lastChecked": "2026-09-02 06:32 IST",
-      "method": "web_search hourly — no changes; The Runner (Sep 2, today) re-confirmed via GQ week list"
+      "lastChecked": "2026-09-02 07:16 IST",
+      "method": "web_search hourly — no changes; The Runner live today re-confirmed (GQ week list)"
     },
     "jiohotstar": {
-      "lastChecked": "2026-09-02 06:32 IST",
-      "method": "web_search hourly — no changes; Mandalorian & Grogu live today per official JioHotstar FB post + title page (Sep 2); Korean Kanakaraju still date-less, not added"
+      "lastChecked": "2026-09-02 07:16 IST",
+      "method": "web_search hourly — no changes; Mandalorian & Grogu live today re-confirmed (GQ); Korean Kanakaraju still date-less in ET month list, not added"
     },
     "sonyliv": {
-      "lastChecked": "2026-09-02 06:32 IST",
+      "lastChecked": "2026-09-02 07:16 IST",
       "method": "web_search hourly — no changes; Unmadham (Sep 4) unchanged; no new SonyLIV signal in retrieved sources"
     },
     "zee5": {
-      "lastChecked": "2026-09-02 06:32 IST",
-      "method": "web_search hourly — no changes; no new ZEE5 signal in retrieved sources (standing-page short films remain undated)"
+      "lastChecked": "2026-09-02 07:16 IST",
+      "method": "web_search hourly — no changes; no new ZEE5 signal in retrieved sources"
     },
     "jiocinema": {
       "lastChecked": "2026-08-29 16:07 IST",
@@ -30,8 +30,8 @@
       "method": "web_search (channel verification: Veritasium/3b1b/Kurzgesagt official pages + r/kurzgesagt new-video posts; 6 channels tracked, video-level picks start now)"
     },
     "apple-tv-plus": {
-      "lastChecked": "2026-09-02 06:32 IST",
-      "method": "web_search hourly — no changes; Dark Matter S2 E2 'A Perfect World' Sep 4 re-confirmed (Apple TV Press, weekly through Oct 30); Mayday (Sep 4) unchanged"
+      "lastChecked": "2026-09-02 07:16 IST",
+      "method": "web_search hourly — no changes; Dark Matter S2 E2 'A Perfect World' Sep 4 re-confirmed (Apple TV Press) + Mayday Sep 4 (IGN Sep roundup: Ted Lasso S4/Women in Blue continuing — all cataloged)"
     },
     "ai": {
       "lastChecked": "2026-08-30 22:09 IST",
