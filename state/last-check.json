@@ -2,23 +2,23 @@
   "timezone": "Asia/Kolkata",
   "platforms": {
     "netflix-india": {
-      "lastChecked": "2026-09-02 11:08 IST",
-      "method": "web_search hourly — repeats only; FlixPatrol Top 10 still Sep 1 crawl (Alpha #1, Newton's 3rd Law #2); Korean Kanakaraju still date-less"
+      "lastChecked": "2026-09-02 13:07 IST",
+      "method": "web_search hourly — repeats only; Tudum monthly names Jared Freid + Driven S1-3 India-unverified (daily job); Death of the Pastor's Wife #1 global, India unverified; films chart unchanged"
     },
     "prime-video-india": {
-      "lastChecked": "2026-09-02 11:08 IST",
-      "method": "web_search hourly — repeats only; Madharaasi flag unchanged for daily job; Neagley S1 Sep 16 detected in US-only sources — India unverified, not added"
+      "lastChecked": "2026-09-02 13:07 IST",
+      "method": "web_search hourly — Madharaasi flag RESOLVED (library since Oct 1 2025, GQ listing stale); no new India signals"
     },
     "jiohotstar": {
-      "lastChecked": "2026-09-02 11:08 IST",
-      "method": "web_search hourly — 'New on' rail undated rolling unchanged; Prince of Mollywood Sep 11 single IG source — flagged unverified, not added"
+      "lastChecked": "2026-09-02 13:07 IST",
+      "method": "web_search hourly — 'New on' rail undated rolling unchanged; Prince of Mollywood still single-source flag from 11:08"
     },
     "sonyliv": {
-      "lastChecked": "2026-09-02 11:08 IST",
-      "method": "web_search hourly — no new SonyLIV signals; Unmadham Sep 4 repeats"
+      "lastChecked": "2026-09-02 13:07 IST",
+      "method": "web_search hourly — no new signals; Unmadham Sep 4 repeats"
     },
     "zee5": {
-      "lastChecked": "2026-09-02 11:08 IST",
+      "lastChecked": "2026-09-02 13:07 IST",
       "method": "web_search hourly — Ghamasaan Sep 11 + Veerabhadruni Rahasyam P2 Sep 4 repeat; no new signals"
     },
     "jiocinema": {
@@ -30,8 +30,8 @@
       "method": "web_search (channel verification: Veritasium/3b1b/Kurzgesagt official pages + r/kurzgesagt new-video posts; 6 channels tracked, video-level picks start now)"
     },
     "apple-tv-plus": {
-      "lastChecked": "2026-09-02 11:08 IST",
-      "method": "web_search hourly — no changes; Dark Matter S2 E2 'A Perfect World' Sep 4 re-confirmed (Apple TV Press + IMDb)"
+      "lastChecked": "2026-09-02 13:07 IST",
+      "method": "web_search hourly — no changes; Dark Matter S2 E2 'A Perfect World' Sep 4 re-confirmed (Apple TV Press + radiotimes)"
     },
     "ai": {
       "lastChecked": "2026-08-30 22:09 IST",
