@@ -1,27 +1,21 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs. Last rewrite: 02 Sep 2026 09:07 IST._
+_Living file — rewritten by hourly/daily jobs. Last rewrite: 03 Sep 2026 07:48 IST._
 
 ---
 
 ## 🔥 DON'T MISS
 
-**Star Wars: The Mandalorian and Grogu — JioHotstar, TODAY (2 Sep 2026) — TITLE PAGE VERIFIED**
-The Mandalorian feature film — Din Djarin & Grogu enlisted to rescue Rotta the Hutt from a pirate underworld. Official [title page](https://www.hotstar.com/in/movies/star-wars-the-mandalorian-and-grogu/1271500187) shows "Releasing on Sep 2 2026" (IGN India concurs). Biggest platform title of the week. — Last checked: 02 Sep 2026 05:25 IST
+**Gandhari — Netflix India, TODAY (3 Sep 2026) — TITLE PAGE VERIFIED**
+Taapsee Pannu revenge thriller (TV-MA): a mother loses her eyesight and her daughter in a kidnapping — and hunts those responsible herself. Official [title page](https://www.netflix.com/title/81787058); official [Netflix press release](https://about.netflix.com/en/news/a-mothers-fight-against-all-odds-netflixs-gripping-thriller-gandhari-premieres-september-3-2026) + Wikipedia/IMDb/Vogue/GQ concur. — Last checked: 03 Sep 2026 07:48 IST
 
-**The Runner — Prime Video India, 2 Sep 2026 (today)**
-Psychological thriller — London lawyer Maia (Gal Gadot) is forced through escalating dangerous tasks while her son is held hostage. — Last checked: 02 Sep 2026 05:25 IST
-
-**Lovesick (Mal de amores) — Netflix India, TODAY (2 Sep 2026) — TITLE PAGE VERIFIED**
-Mexican period romance (Renata Vaca): during the Mexican Revolution, Emilia Sauri defies convention to practice medicine and find love. Official [title page](https://www.netflix.com/title/81262893); whats-on-netflix + Vogue India week list concur. — Last checked: 02 Sep 2026 06:32 IST
-
-**The Gentlemen Season 2 — Netflix India, 3 Sep 2026**
+**The Gentlemen Season 2 — Netflix India, TODAY (3 Sep 2026)**
 Theo James & Kaya Scodelario return; Guy Ritchie's cannabis empire expands to a European syndicate (Italy/Rome). — Last checked: 02 Sep 2026 05:25 IST
 
 **Newton's 3rd Law — Netflix India (streaming now) — TRENDING #2 + TITLE PAGE VERIFIED**
-2026 Telugu investigative drama: two deaths from 1999 resurface; a headstrong investigator pulls the thread ([title page](https://www.netflix.com/in/title/83001645), U/A 16+; streams in 5 Indian languages). #2 on FlixPatrol India films chart (Sep 1). ⚠️ Exact premiere date unverified. — Last checked: 02 Sep 2026 05:25 IST
+2026 Telugu investigative drama: two deaths from 1999 resurface; a headstrong investigator pulls the thread ([title page](https://www.netflix.com/in/title/83001645), U/A 16+; streams in 5 Indian languages). #2 on FlixPatrol India films chart (Sep 2 crawl). ⚠️ Exact premiere date unverified. — Last checked: 03 Sep 2026 07:48 IST
 
-**Friday 4 Sep cluster — five titles land at once**
+**Tomorrow, Friday 4 Sep cluster — five titles land at once**
 Dhamaal 4 (Netflix) · Mayday (Apple TV+, Ryan Reynolds/Kenneth Branagh) · Unmadham (SonyLIV, Kunchacko Boban) · The Court (JioHotstar, Tamil courtroom drama) · Jagamae Sangeetham (Prime, Bandish Bandits-verse musical). — Last checked: 02 Sep 2026 05:25 IST
 
 ## ⏰ WATCH BEFORE IT LEAVES
