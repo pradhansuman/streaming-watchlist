@@ -1,6 +1,6 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs. Last rewrite: 03 Sep 2026 15:03 IST._
+_Living file — rewritten by hourly/daily jobs. Last update: 03 Sep 2026 19:09 IST._
 
 ---
 
@@ -15,8 +15,8 @@ Theo James & Kaya Scodelario return; Guy Ritchie's cannabis empire expands to a 
 **Newton's 3rd Law — Netflix India (streaming now) — TRENDING #2 + TITLE PAGE VERIFIED**
 2026 Telugu investigative drama: two deaths from 1999 resurface; a headstrong investigator pulls the thread ([title page](https://www.netflix.com/in/title/83001645), U/A 16+; streams in 5 Indian languages). #2 on FlixPatrol India films chart (Sep 2 crawl). ⚠️ Exact premiere date unverified. — Last checked: 03 Sep 2026 07:48 IST
 
-**Tomorrow, Friday 4 Sep cluster — five titles land at once**
-Dhamaal 4 (Netflix) · Mayday (Apple TV+, Ryan Reynolds/Kenneth Branagh) · Unmadham (SonyLIV, Kunchacko Boban) · The Court (JioHotstar, Tamil courtroom drama) · Jagamae Sangeetham (Prime, Bandish Bandits-verse musical). — Last checked: 02 Sep 2026 05:25 IST
+**Tomorrow, Friday 4 Sep cluster — six titles land at once**
+Dhamaal 4 (Netflix, [title page](https://www.netflix.com/title/81950460) verified) · Mayday (Apple TV+, Ryan Reynolds/Kenneth Branagh) · Unmadham (SonyLIV, Kunchacko Boban) · The Court (JioHotstar, Tamil courtroom drama) · Jagamae Sangeetham (Prime, Bandish Bandits-verse musical) · **The Grand Tour 2026 revival** (Prime, all-new host trio — Bourgeois/Engelsman/Holland — six episodes drop at once, official [Amazon announcement](https://www.aboutamazon.co.uk/news/entertainment/the-grand-tour-returns-to-prime-video-on-4-september)). — Last checked: 03 Sep 2026 19:09 IST
 
 ## ⏰ WATCH BEFORE IT LEAVES
 
