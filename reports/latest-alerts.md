@@ -1,6 +1,6 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs. Last rewrite: 03 Sep 2026 07:48 IST._
+_Living file — rewritten by hourly/daily jobs. Last rewrite: 03 Sep 2026 15:03 IST._
 
 ---
 
@@ -29,6 +29,7 @@ _No open platform changes._ — Last checked: 02 Sep 2026 05:25 IST
 
 ## 📅 UPCOMING TO WATCH
 
+**Lust Stories 3 — Netflix India, 18 Sep 2026** (Emmy-nominated anthology returns — Motwane, Kiran Rao, Shakun Batra & Vishal Bhardwaj; official [title page](https://www.netflix.com/title/81734814) live; ⚠️ date per Bollywood Hungama report, not yet officially announced)
 **The Court — JioHotstar, 4 Sep 2026** · **Jagamae Sangeetham — Prime Video, 4 Sep 2026**
 **Call My Agent! The Movie — Netflix, 10 Sep 2026**
 **The Revolutionaries — Prime Video, 11 Sep 2026** (Bhuvan Bam, Rohit Saraf — period action thriller)
