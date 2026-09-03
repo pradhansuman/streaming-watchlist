@@ -1,21 +1,21 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs. Last update: 03 Sep 2026 21:07 IST._
+_Living file — rewritten by hourly/daily jobs. Last update: 04 Sep 2026 00:07 IST._
 
 ---
 
 ## 🔥 DON'T MISS
 
-**Gandhari — Netflix India, TODAY (3 Sep 2026) — TITLE PAGE VERIFIED**
+**Gandhari — Netflix India, streaming since 3 Sep 2026 — TITLE PAGE VERIFIED**
 Taapsee Pannu revenge thriller (TV-MA): a mother loses her eyesight and her daughter in a kidnapping — and hunts those responsible herself. Official [title page](https://www.netflix.com/title/81787058); official [Netflix press release](https://about.netflix.com/en/news/a-mothers-fight-against-all-odds-netflixs-gripping-thriller-gandhari-premieres-september-3-2026) + Wikipedia/IMDb/Vogue/GQ concur. — Last checked: 03 Sep 2026 07:48 IST
 
-**The Gentlemen Season 2 — Netflix India, TODAY (3 Sep 2026)**
+**The Gentlemen Season 2 — Netflix India, streaming since 3 Sep 2026**
 Theo James & Kaya Scodelario return; Guy Ritchie's cannabis empire expands to a European syndicate (Italy/Rome). — Last checked: 02 Sep 2026 05:25 IST
 
 **Newton's 3rd Law — Netflix India (streaming now) — TRENDING #2 + TITLE PAGE VERIFIED**
 2026 Telugu investigative drama: two deaths from 1999 resurface; a headstrong investigator pulls the thread ([title page](https://www.netflix.com/in/title/83001645), U/A 16+; streams in 5 Indian languages). #2 on FlixPatrol India films chart (Sep 2 crawl). ⚠️ Exact premiere date unverified. — Last checked: 03 Sep 2026 07:48 IST
 
-**Tomorrow, Friday 4 Sep cluster — six titles land at once**
+**🔥 TODAY, Friday 4 Sep — six titles land at once**
 Dhamaal 4 (Netflix, [title page](https://www.netflix.com/title/81950460) verified) · Mayday (Apple TV+, Ryan Reynolds/Kenneth Branagh) · Unmadham (SonyLIV, Kunchacko Boban) · The Court (JioHotstar, Tamil courtroom drama) · Jagamae Sangeetham (Prime, Bandish Bandits-verse musical) · **The Grand Tour 2026 revival** (Prime, all-new host trio — Bourgeois/Engelsman/Holland — six episodes drop at once, official [Amazon announcement](https://www.aboutamazon.co.uk/news/entertainment/the-grand-tour-returns-to-prime-video-on-4-september)). — Last checked: 03 Sep 2026 19:09 IST
 
 ## ⏰ WATCH BEFORE IT LEAVES
