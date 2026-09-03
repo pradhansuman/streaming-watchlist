@@ -1,6 +1,6 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs. Last update: 03 Sep 2026 19:09 IST._
+_Living file — rewritten by hourly/daily jobs. Last update: 03 Sep 2026 21:07 IST._
 
 ---
 
@@ -37,3 +37,5 @@ _No open platform changes._ — Last checked: 02 Sep 2026 05:25 IST
 **Veerabhadruni Rahasyam S1 Part 2 — ZEE5, 4 Sep 2026** (Telugu mystery thriller, From the World of Marmadesam; S1 live since Jul)
 **Don't Be Shy — Prime Video, 25 Sep 2026** (coming-of-age; Aarushi Bajaj, Piyush Khati)
 **Jungle Tales with Mowgli — JioHotstar, 12 Sep 2026** (official Disney India: Kids Profile + Disney Channel)
+**Monster: The Lizzie Borden Story — Netflix India, 17 Sep 2026** (Monster anthology S4 — Ella Beatty as Lizzie Borden, Sarah Paulson; official [title page](https://www.netflix.com/title/82068293) live; Netflix FB press + Futon Critic + Esquire India concur — India day-and-date expected)
+**Chad Powers Season 2 — JioHotstar, premiered 3 Sep 2026 (US)** (Glen Powell sports-comedy; official [JioHotstar title page](https://www.hotstar.com/in/shows/chad-powers/1271439103) live with S1 streaming; ⚠️ India S2 timing needs verification — Disney+/Hulu content typically reaches JioHotstar)
