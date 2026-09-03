@@ -2,24 +2,24 @@
  "timezone": "Asia/Kolkata",
  "platforms": {
   "netflix-india": {
-   "lastChecked": "2026-09-03 21:07 IST",
-   "method": "web_search hourly 21:07 (6 searches) — 1 add: Monster: The Lizzie Borden Story (upcoming Sep 17; official Netflix FB press + Futon Critic via Wikipedia + Esquire India + title page netflix.com/title/82068293); Stranger Things: Tales From 85 gap flag (THR Sep list, no date) for daily job; FlixPatrol Sep 3 films crawl identical order to Sep 2 (Alpha #1, Newton's 3rd Law #2, Whisper Man #3, Cocktail 2 #4, Pyaar Prema Kalyanam #5) — no trending shift; repeats otherwise; no removals/platform moves"
+   "lastChecked": "2026-09-03 22:07 IST",
+   "method": "web_search hourly 22:07 (5 searches) — no changes; week lists (GQ Friday Sep 4 / Vogue / ET Panache / myvi / news18) repeat cataloged titles; Tudum 'new on Netflix' names A Different World + Best of the Best = US Sep titles, no India signal — not added; Forbes US library adds (Jaws/Alien/Ready or Not/Smile 2/Scarface) no India signal — not added; FlixPatrol Sep 3 crawl unchanged vs Sep 2 (films Alpha #1/Newton's 3rd Law #2/Whisper Man #3; TV Safed Sagar #1 27d, The Early Spring #2 8d recurring gap flag, India's Got Latent #3) — no trending shift; leaving list unchanged (India unverified); no removals/platform moves"
   },
   "prime-video-india": {
-   "lastChecked": "2026-09-03 21:07 IST",
-   "method": "web_search hourly 21:07 — no changes; GQ Friday Sep 4 + ET Panache/Vogue/myvi monthly lists repeat cataloged titles (Sep 4 cluster incl. The Grand Tour + Jagamae Sangeetham; Revolutionaries Sep 11; Don't Be Shy Sep 25); no removals/platform moves"
+   "lastChecked": "2026-09-03 22:07 IST",
+   "method": "web_search hourly 22:07 — no changes; GQ Friday Sep 4 (Jagamae Sangeetham) + Vogue/ET Panache/myvi monthly lists repeat cataloged titles; no removals/platform moves"
   },
   "jiohotstar": {
-   "lastChecked": "2026-09-03 21:07 IST",
-   "method": "web_search hourly 21:07 — 1 add: Chad Powers S2 (upcoming; US premiere Sep 3 Hulu/Disney+ per official Disney+ article + The Week + RT; official JioHotstar title page live, S1 streaming; India S2 timing ⚠️); reco rail undated rolling library (JFK Jr & Carolyn Bessette, Dan Markel, Boat, Super Taxi, Part-Timers, Bindass Rani) — not added; no removals/platform moves"
+   "lastChecked": "2026-09-03 22:07 IST",
+   "method": "web_search hourly 22:07 — no changes; GQ/myvi repeat The Court Sep 4 cluster; official 'New on JioHotstar' reco rail same undated rolling library (JFK Jr & Carolyn Bessette, Dan Markel, Boat, Michael, Super Taxi, Part-Timers, Bindass Rani) — not added; FB hindfirstnetwork Friday list repeats stale Feb 2026 vintage (Raja Saab/Kis Kisko 2) — rejected; no removals/platform moves"
   },
   "sonyliv": {
-   "lastChecked": "2026-09-03 21:07 IST",
-   "method": "web_search hourly 21:07 — no changes; standing lists (ET Panache/Vogue/myvi/news18) repeat Unmadham Sep 4; no new signals; no removals/platform moves"
+   "lastChecked": "2026-09-03 22:07 IST",
+   "method": "web_search hourly 22:07 — no changes; standing lists repeat Unmadham Sep 4; no new signals; no removals/platform moves"
   },
   "zee5": {
-   "lastChecked": "2026-09-03 21:07 IST",
-   "method": "web_search hourly 21:07 — no changes; standing lists repeat Ghamasaan Sep 11 + Veerabhadruni Rahasyam P2 Sep 4; no new signals; no removals/platform moves"
+   "lastChecked": "2026-09-03 22:07 IST",
+   "method": "web_search hourly 22:07 — no changes; standing lists repeat Ghamasaan Sep 11 + Korean Kanakaraju Netflix + Don't Be Shy via news18 gallery; no new signals; no removals/platform moves"
   },
   "jiocinema": {
    "lastChecked": "2026-08-29 16:07 IST",
@@ -30,8 +30,8 @@
    "method": "web_search (channel verification: Veritasium/3b1b/Kurzgesagt official pages + r/kurzgesagt new-video posts; 6 channels tracked, video-level picks start now)"
   },
   "apple-tv-plus": {
-   "lastChecked": "2026-09-03 21:07 IST",
-   "method": "web_search hourly 21:07 — no changes; official Apple TV Press Sep page identical to catalog (Mayday Sep 4, Dark Matter S2 E2 Sep 4, Last Seen Sep 9, Slow Horses S6 Sep 16, Brothers Sep 23); Yahoo/9to5mac roundups concur; no removals/platform moves"
+   "lastChecked": "2026-09-03 22:07 IST",
+   "method": "web_search hourly 22:07 — no changes; official Apple TV Press Sep page + tv.apple.com Coming Soon identical to catalog (Mayday Sep 4, Dark Matter S2 E2 Sep 4, Last Seen Sep 9, Slow Horses S6 Sep 16, Brothers Sep 23); IGN weekly episode list (Ted Lasso S4 E9, Slow Horses S6 E3, Brothers E3, Women in Blue S2 finale) consistent with cataloged weekly continuation; no removals/platform moves"
   },
   "ai": {
    "lastChecked": "2026-08-30 22:09 IST",
