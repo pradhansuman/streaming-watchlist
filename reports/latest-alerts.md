@@ -1,6 +1,6 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs. Last update: 04 Sep 2026 00:07 IST._
+_Living file — rewritten by hourly/daily jobs. Last update: 04 Sep 2026 13:07 IST._
 
 ---
 
@@ -15,8 +15,8 @@ Theo James & Kaya Scodelario return; Guy Ritchie's cannabis empire expands to a 
 **Newton's 3rd Law — Netflix India (streaming now) — TRENDING #2 + TITLE PAGE VERIFIED**
 2026 Telugu investigative drama: two deaths from 1999 resurface; a headstrong investigator pulls the thread ([title page](https://www.netflix.com/in/title/83001645), U/A 16+; streams in 5 Indian languages). #2 on FlixPatrol India films chart (Sep 2 crawl). ⚠️ Exact premiere date unverified. — Last checked: 03 Sep 2026 07:48 IST
 
-**🔥 TODAY, Friday 4 Sep — six titles land at once**
-Dhamaal 4 (Netflix, [title page](https://www.netflix.com/title/81950460) verified) · Mayday (Apple TV+, Ryan Reynolds/Kenneth Branagh) · Unmadham (SonyLIV, Kunchacko Boban) · The Court (JioHotstar, Tamil courtroom drama) · Jagamae Sangeetham (Prime, Bandish Bandits-verse musical) · **The Grand Tour 2026 revival** (Prime, all-new host trio — Bourgeois/Engelsman/Holland — six episodes drop at once, official [Amazon announcement](https://www.aboutamazon.co.uk/news/entertainment/the-grand-tour-returns-to-prime-video-on-4-september)). — Last checked: 03 Sep 2026 19:09 IST
+**🔥 LIVE NOW — Friday 4 Sep cluster (four of six confirmed streaming)**
+Dhamaal 4 (Netflix, [title page](https://www.netflix.com/title/81950460) verified; Wikipedia past-tense "began streaming from 4 September 2026") · Mayday (Apple TV+, Ryan Reynolds/Kenneth Branagh — official [Apple TV Press](https://www.apple.com/tv-pr/originals/mayday/) "Release Date: September 4, 2026" + tv.apple.com page live) · Unmadham (SonyLIV, Kunchacko Boban — official [watch page](https://www.sonyliv.com/movies/unmadham-1090541255) live, 5 languages) · The Court (JioHotstar, Tamil courtroom drama — official [title page](https://www.hotstar.com/in/shows/the-court/1271672560) live, weekly episodes) · **The Grand Tour 2026 revival** (Prime, all-new host trio — Bourgeois/Engelsman/Holland — six episodes drop at once, premiered ~12:30 IST per [RadioTimes](https://www.radiotimes.com/tv/entertainment/the-grand-tour-2026-prime-video-release-time/); ⚠️ India day-and-date confirmation pending) · Jagamae Sangeetham (Prime, Bandish Bandits-verse musical — still pre-drop in retrieved sources, expected today). — Last checked: 04 Sep 2026 13:07 IST
 
 ## ⏰ WATCH BEFORE IT LEAVES
 
@@ -30,7 +30,7 @@ _No open platform changes._ — Last checked: 02 Sep 2026 05:25 IST
 ## 📅 UPCOMING TO WATCH
 
 **Lust Stories 3 — Netflix India, 18 Sep 2026** (Emmy-nominated anthology returns — Motwane, Kiran Rao, Shakun Batra & Vishal Bhardwaj; official [title page](https://www.netflix.com/title/81734814) live; ⚠️ date per Bollywood Hungama report, not yet officially announced)
-**The Court — JioHotstar, 4 Sep 2026** · **Jagamae Sangeetham — Prime Video, 4 Sep 2026**
+**Jagamae Sangeetham — Prime Video, 4 Sep 2026** (still pre-drop in retrieved sources at 13:07 IST — expected later today)
 **Call My Agent! The Movie — Netflix, 10 Sep 2026**
 **The Revolutionaries — Prime Video, 11 Sep 2026** (Bhuvan Bam, Rohit Saraf — period action thriller)
 **Ghamasaan — ZEE5, 11 Sep 2026** (Tigmanshu Dhulia power drama; Pratik Gandhi vs Arshad Warsi — first new ZEE5 title signal since Aug 29)
