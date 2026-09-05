@@ -1,6 +1,6 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs. Last update: 05 Sep 2026 12:39 IST._
+_Living file — rewritten by hourly/daily jobs. Last update: 05 Sep 2026 17:07 IST._
 
 ---
 
@@ -16,14 +16,19 @@ _Living file — rewritten by hourly/daily jobs. Last update: 05 Sep 2026 12:39 
 - **Jagamae Sangeetham — Prime** ⚠️ STILL no post-drop streaming confirmation — pending verification.
 — Last checked: 05 Sep 2026 12:39 IST
 
-**Gandhari — Netflix India, streaming since 3 Sep 2026 — TITLE PAGE VERIFIED**
-Taapsee Pannu revenge thriller (TV-MA): a mother loses her eyesight and her daughter in a kidnapping — and hunts those responsible herself. Official [title page](https://www.netflix.com/title/81787058) + press release + Wikipedia/IMDb/Vogue/GQ concur. — Last checked: 05 Sep 2026 12:05 IST
+**Gandhari — Netflix India, streaming since 3 Sep 2026 — TITLE PAGE VERIFIED — NOW #1 INDIA**
+Taapsee Pannu revenge thriller (TV-MA): a mother loses her eyesight and her daughter in a kidnapping — and hunts those responsible herself. Official [title page](https://www.netflix.com/title/81787058) + press release + Wikipedia/IMDb/Vogue/GQ concur. 🔥 **Trending: #1 Netflix India films** (FlixPatrol Sep 4 crawl), displacing Alpha after its 7-day run. — Last checked: 05 Sep 2026 17:07 IST
 
 **The Gentlemen Season 2 — Netflix India, streaming since 3 Sep 2026**
 Theo James & Kaya Scodelario return; Guy Ritchie's cannabis empire expands to a European syndicate. — Last checked: 05 Sep 2026 12:05 IST
 
 **Newton's 3rd Law — Netflix India (streaming now) — TRENDING #2 India + TITLE PAGE VERIFIED**
 2026 Telugu investigative drama ([title page](https://www.netflix.com/in/title/83001645), U/A 16+, 5 Indian languages). #2 FlixPatrol India films (Sep 3 crawl). — Last checked: 05 Sep 2026 12:05 IST
+
+**🆕 BACKFILL — two Sep 4 Netflix drops missed by India-centric passes (added 17:07)**
+- **Instadocs: The Decoy Plane** — short doc on Trump's secret Air Force One escape; premiered 4 Sep ([Tudum](https://www.netflix.com/tudum/articles/instadocs-the-decoy-plane-what-to-know) + Futon Critic) ⚠️ India day-and-date expected.
+- **On Campus: Game of the Week** — weekly college game-day docu-series, E1 live ([title page](https://www.netflix.com/title/83081734) + official announcement) ⚠️ niche US appeal.
+— Last checked: 05 Sep 2026 17:07 IST
 
 **🆕 TODAY 5 Sep: The Kevin Langue Show + Kevin Langue 2 — Netflix India**
 Netflix–YouTube creator partnership; curated back-catalog + new episodes day-and-date. Official [title page](https://www.netflix.com/title/83155668) live (Variety + Futon Critic concur). — Last checked: 05 Sep 2026 12:05 IST
