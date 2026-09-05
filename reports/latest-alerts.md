@@ -1,41 +1,58 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs. Last update: 04 Sep 2026 13:07 IST._
+_Living file — rewritten by hourly/daily jobs. Last update: 05 Sep 2026 12:05 IST._
 
 ---
 
 ## 🔥 DON'T MISS
 
+**🔥 SEP 4 CLUSTER — LANDED (4 of 6 confirmed streaming)**
+- **Dhamaal 4 — Netflix** ✅ [title page](https://www.netflix.com/title/81950460) live; Wikipedia past-tense premiere — comedy four-quel, scored 72.
+- **Mayday — Apple TV+** ✅ Ryan Reynolds/Kenneth Branagh Cold War action-comedy — [Apple TV Press](https://www.apple.com/tv-pr/originals/mayday/) + tv.apple.com live — scored 73.
+- **Unmadham — SonyLIV** ✅ Kunchacko Boban psychological thriller — [watch page](https://www.sonyliv.com/movies/unmadham-1090541255) live — scored 65.
+- **The Court — JioHotstar** ✅ Tamil courtroom drama, weekly eps — [title page](https://www.hotstar.com/in/shows/the-court/1271672560) live — scored 60.
+- **The Grand Tour 2026 revival — Prime** ⚠️ premiered ~12:30 IST 4 Sep (six eps, new host trio per RadioTimes/aboutamazon) — India day-and-date expected but live Prime India confirmation not yet retrieved.
+- **Jagamae Sangeetham — Prime** ⚠️ STILL no post-drop streaming confirmation — pending verification.
+— Last checked: 05 Sep 2026 12:05 IST
+
 **Gandhari — Netflix India, streaming since 3 Sep 2026 — TITLE PAGE VERIFIED**
-Taapsee Pannu revenge thriller (TV-MA): a mother loses her eyesight and her daughter in a kidnapping — and hunts those responsible herself. Official [title page](https://www.netflix.com/title/81787058); official [Netflix press release](https://about.netflix.com/en/news/a-mothers-fight-against-all-odds-netflixs-gripping-thriller-gandhari-premieres-september-3-2026) + Wikipedia/IMDb/Vogue/GQ concur. — Last checked: 03 Sep 2026 07:48 IST
+Taapsee Pannu revenge thriller (TV-MA): a mother loses her eyesight and her daughter in a kidnapping — and hunts those responsible herself. Official [title page](https://www.netflix.com/title/81787058) + press release + Wikipedia/IMDb/Vogue/GQ concur. — Last checked: 05 Sep 2026 12:05 IST
 
 **The Gentlemen Season 2 — Netflix India, streaming since 3 Sep 2026**
-Theo James & Kaya Scodelario return; Guy Ritchie's cannabis empire expands to a European syndicate (Italy/Rome). — Last checked: 02 Sep 2026 05:25 IST
+Theo James & Kaya Scodelario return; Guy Ritchie's cannabis empire expands to a European syndicate. — Last checked: 05 Sep 2026 12:05 IST
 
-**Newton's 3rd Law — Netflix India (streaming now) — TRENDING #2 + TITLE PAGE VERIFIED**
-2026 Telugu investigative drama: two deaths from 1999 resurface; a headstrong investigator pulls the thread ([title page](https://www.netflix.com/in/title/83001645), U/A 16+; streams in 5 Indian languages). #2 on FlixPatrol India films chart (Sep 2 crawl). ⚠️ Exact premiere date unverified. — Last checked: 03 Sep 2026 07:48 IST
+**Newton's 3rd Law — Netflix India (streaming now) — TRENDING #2 India + TITLE PAGE VERIFIED**
+2026 Telugu investigative drama ([title page](https://www.netflix.com/in/title/83001645), U/A 16+, 5 Indian languages). #2 FlixPatrol India films (Sep 3 crawl). — Last checked: 05 Sep 2026 12:05 IST
 
-**🔥 LIVE NOW — Friday 4 Sep cluster (four of six confirmed streaming)**
-Dhamaal 4 (Netflix, [title page](https://www.netflix.com/title/81950460) verified; Wikipedia past-tense "began streaming from 4 September 2026") · Mayday (Apple TV+, Ryan Reynolds/Kenneth Branagh — official [Apple TV Press](https://www.apple.com/tv-pr/originals/mayday/) "Release Date: September 4, 2026" + tv.apple.com page live) · Unmadham (SonyLIV, Kunchacko Boban — official [watch page](https://www.sonyliv.com/movies/unmadham-1090541255) live, 5 languages) · The Court (JioHotstar, Tamil courtroom drama — official [title page](https://www.hotstar.com/in/shows/the-court/1271672560) live, weekly episodes) · **The Grand Tour 2026 revival** (Prime, all-new host trio — Bourgeois/Engelsman/Holland — six episodes drop at once, premiered ~12:30 IST per [RadioTimes](https://www.radiotimes.com/tv/entertainment/the-grand-tour-2026-prime-video-release-time/); ⚠️ India day-and-date confirmation pending) · Jagamae Sangeetham (Prime, Bandish Bandits-verse musical — still pre-drop in retrieved sources, expected today). — Last checked: 04 Sep 2026 13:07 IST
+**🆕 TODAY 5 Sep: The Kevin Langue Show + Kevin Langue 2 — Netflix India**
+Netflix–YouTube creator partnership; curated back-catalog + new episodes day-and-date. Official [title page](https://www.netflix.com/title/83155668) live (Variety + Futon Critic concur). — Last checked: 05 Sep 2026 12:05 IST
+
+**✅ Chad Powers S2 — JioHotstar India — NOW STREAMING**
+Official [title page](https://www.hotstar.com/in/shows/chad-powers/1271439103) shows "New Season · 2026 · 2 Seasons" — India-timing flag lifted. Glen Powell returns; all 6 eps. — Last checked: 05 Sep 2026 12:05 IST
+
+**📺 Apple TV+ Friday 4 Sep: Dark Matter S2E2 "A Perfect World" + SILO S3 FINALE**
+Dark Matter weekly Fridays through Oct 30 ([Apple TV Press](https://www.apple.com/tv-pr/originals/dark-matter/)). Silo S3 complete — all episodes streaming (tv.apple.com). — Last checked: 05 Sep 2026 12:05 IST
 
 ## ⏰ WATCH BEFORE IT LEAVES
 
 **Netflix September exodus (US list, corroborated by whats-on-netflix + People)** — **Sep 1:** Little Miss Sunshine, Matilda, Non-Stop, Muriel's Wedding, Miracle; **later in Sep:** Girlfriends, Nashville, Rocky saga (6 films), Creed trilogy, Beverly Hills Cop; Tudum also lists Poor Things, Bombshell, The Fault in Our Stars, Redeeming Love.
-⚠️ **India availability STILL unverified** — US-centric sources only. Treat as US-list until seen on India leaving-soon rows. — Last checked: 02 Sep 2026 05:25 IST
+⚠️ **India availability STILL unverified** — US-centric sources only. — Last checked: 05 Sep 2026 12:05 IST
 
 ## 🔄 PLATFORM CHANGE
 
-_No open platform changes._ — Last checked: 02 Sep 2026 05:25 IST
+_No open platform changes._ — Last checked: 05 Sep 2026 12:05 IST
 
 ## 📅 UPCOMING TO WATCH
 
-**Lust Stories 3 — Netflix India, 18 Sep 2026** (Emmy-nominated anthology returns — Motwane, Kiran Rao, Shakun Batra & Vishal Bhardwaj; official [title page](https://www.netflix.com/title/81734814) live; ⚠️ date per Bollywood Hungama report, not yet officially announced)
-**Jagamae Sangeetham — Prime Video, 4 Sep 2026** (still pre-drop in retrieved sources at 13:07 IST — expected later today)
+**Last Seen — Apple TV+, 9 Sep 2026** (2-episode premiere, official Apple TV Press)
 **Call My Agent! The Movie — Netflix, 10 Sep 2026**
 **The Revolutionaries — Prime Video, 11 Sep 2026** (Bhuvan Bam, Rohit Saraf — period action thriller)
-**Ghamasaan — ZEE5, 11 Sep 2026** (Tigmanshu Dhulia power drama; Pratik Gandhi vs Arshad Warsi — first new ZEE5 title signal since Aug 29)
-**Veerabhadruni Rahasyam S1 Part 2 — ZEE5, 4 Sep 2026** (Telugu mystery thriller, From the World of Marmadesam; S1 live since Jul)
-**Don't Be Shy — Prime Video, 25 Sep 2026** (coming-of-age; Aarushi Bajaj, Piyush Khati)
-**Jungle Tales with Mowgli — JioHotstar, 12 Sep 2026** (official Disney India: Kids Profile + Disney Channel)
-**Monster: The Lizzie Borden Story — Netflix India, 17 Sep 2026** (Monster anthology S4 — Ella Beatty as Lizzie Borden, Sarah Paulson; official [title page](https://www.netflix.com/title/82068293) live; Netflix FB press + Futon Critic + Esquire India concur — India day-and-date expected)
-**Chad Powers Season 2 — JioHotstar, premiered 3 Sep 2026 (US)** (Glen Powell sports-comedy; official [JioHotstar title page](https://www.hotstar.com/in/shows/chad-powers/1271439103) live with S1 streaming; ⚠️ India S2 timing needs verification — Disney+/Hulu content typically reaches JioHotstar)
+**Ghamasaan — ZEE5, 11 Sep 2026** (Tigmanshu Dhulia; Pratik Gandhi vs Arshad Warsi)
+**Jungle Tales with Mowgli — JioHotstar, 12 Sep 2026** (official Disney India)
+**Slow Horses Season 6 — Apple TV+, 16 Sep 2026** (weekly through Oct 21)
+**Neagley Season 1 — Prime Video, 16 Sep 2026** (⚠️ India signal via single India-OTT source)
+**Monster: The Lizzie Borden Story — Netflix India, 17 Sep 2026** ([title page](https://www.netflix.com/title/82068293) live; day-and-date expected)
+**Lust Stories 3 — Netflix India, 18 Sep 2026** ([title page](https://www.netflix.com/title/81734814) live; ⚠️ date per report, awaiting official Netflix India announcement)
+**Brothers — Apple TV+, 23 Sep 2026** (McConaughey/Harrelson comedy)
+**Don't Be Shy — Prime Video, 25 Sep 2026**
+— Last checked: 05 Sep 2026 12:05 IST
