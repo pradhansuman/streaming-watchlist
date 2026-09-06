@@ -1,20 +1,21 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs. Last update: 05 Sep 2026 17:07 IST._
+_Living file — rewritten by hourly/daily jobs. Last update: 06 Sep 2026 12:09 IST._
 
 ---
 
 ## 🔥 DON'T MISS
 
-**🔥 SEP 4 CLUSTER — LANDED (5 of 6 confirmed streaming + GDN)**
+**🔥 SEP 4 CLUSTER — LANDED (6 of 7 confirmed streaming + GDN)**
 - **Dhamaal 4 — Netflix** ✅ [title page](https://www.netflix.com/title/81950460) live; Wikipedia past-tense premiere — comedy four-quel, scored 72.
 - **Mayday — Apple TV+** ✅ Ryan Reynolds/Kenneth Branagh Cold War action-comedy — [Apple TV Press](https://www.apple.com/tv-pr/originals/mayday/) + tv.apple.com live — scored 73.
 - **Unmadham — SonyLIV** ✅ Kunchacko Boban psychological thriller — [watch page](https://www.sonyliv.com/movies/unmadham-1090541255) live — scored 65.
 - **The Court — JioHotstar** ✅ Tamil courtroom drama, weekly eps — [title page](https://www.hotstar.com/in/shows/the-court/1271672560) live — scored 60.
 - **GDN — Netflix** ✅ R. Madhavan biographical drama on inventor G. D. Naidu — [title page](https://www.netflix.com/title/82853382) live (TV-PG, 5 languages; theatrical Aug 7) — scored 67 provisional; surfaced post-refresh 12:39.
 - **The Grand Tour 2026 revival — Prime** ⚠️ premiered ~12:30 IST 4 Sep (six eps, new host trio per RadioTimes/aboutamazon) — India day-and-date expected but live Prime India confirmation not yet retrieved.
-- **Jagamae Sangeetham — Prime** ⚠️ STILL no post-drop streaming confirmation — pending verification.
-— Last checked: 05 Sep 2026 12:39 IST
+- **Jagamae Sangeetham — Prime** ✅ post-drop confirmed 06 Sep — HT review live (2.5/5, 'Where to watch: Amazon Prime Video') — added indianPicks 63 provisional; title-page ID still pending.
+- **Earle Meets World — Netflix** ✅ [title page](https://www.netflix.com/title/82085057) live (8 eps, TV-MA, Reality) — added hiddenGems 57 provisional.
+— Last checked: 06 Sep 2026 12:09 IST
 
 **Gandhari — Netflix India, streaming since 3 Sep 2026 — TITLE PAGE VERIFIED — NOW #1 INDIA**
 Taapsee Pannu revenge thriller (TV-MA): a mother loses her eyesight and her daughter in a kidnapping — and hunts those responsible herself. Official [title page](https://www.netflix.com/title/81787058) + press release + Wikipedia/IMDb/Vogue/GQ concur. 🔥 **Trending: #1 Netflix India films** (FlixPatrol Sep 4 crawl), displacing Alpha after its 7-day run. — Last checked: 05 Sep 2026 17:07 IST

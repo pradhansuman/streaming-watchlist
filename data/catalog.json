@@ -3,7 +3,7 @@
  "system": "Streaming Watchlist — Live Content Update Engine",
  "region": "India",
  "lastBaselineScan": "2026-08-28 23:40-23:55 IST",
- "lastFullRefresh": "2026-09-05 12:05 IST",
+ "lastFullRefresh": "2026-09-06 12:09 IST",
  "notes": "Baseline established 28 Aug 2026 via live web search. Scores are provisional pending daily recalcs. urlType 'platform-search' = official platform search/discovery page fallback per link policy. | 29 Aug 01:07 hourly: caught 28 Aug Friday batch missed by baseline (I, Nobody, Part-Timers, Adults S2, The Secret Woman, All the Truth in My Lies) + Michael platform expansion + Lenin platform resolution. Scores on new entries are provisional (daily job recalculates). | 01:19 hourly: Michael multi-source confirmed, Lenin dual-platform confirmed, Tudum Sep leaving list noted (India unverified). | 06:07 hourly: Michael + Part-Timers upgraded to verified official title pages; added Babita Singh Reporting (multi-source) + Baredda (single-source ⚠️) on Prime Video India; Reacher new at #2 on Prime India Overall Top 10; Tudum Sep leaving list expanded; Operation Safed Sagar flagged for daily job. | 08:19 hourly: backfilled change-log for titles added by the crashed 01:07 run — The Secret Woman re-verified (official about.netflix.com; Danish-Norwegian thriller), All the Truth in My Lies re-verified (title page; corrected to Spanish Benavent adaptation), Adults S2 + I, Nobody logged for audit. Added Batman: Knightfall Part 1 (JioHotstar, Vogue + OTT-popcorn reel, ⚠️ provisional — no official title page). Prime/SonyLIV/ZEE5: no new signal. | 09:28 hourly: added Mousetrap (Netflix, verified title page — missed by earlier passes) + Anbe Diana (SonyLIV, single-source ⚠️, first SonyLIV signal). No removals/platform moves; Four Hands Two Sonatas + Michael premiere today as scheduled. | 10:07 hourly: no changes — weeklies repeat already-logged titles; GQ 'weekend' piece (Dhurandhar/Office Romance/Pyramid Scheme) verified stale June 5 article; Tudum Sep leaving list unchanged; no removals/platform moves across all five platforms. | 12:18 hourly: Jungle Tales with Mowgli added to upcoming (official Disney India: Sep 12, JioHotstar Kids Profile + Disney Channel; aggregator Aug 28 dates wrong); TP S4 UK premiere 30 Aug confirmed — India platform still unverified; Heart Beat S3 checked = July 30 premiere, not new; Tudum Sep leaving list unchanged; no removals/platform moves across all five platforms. | 13:15 DAILY DEEP REFRESH: Operation Safed Sagar added to highlyRecommended + indianPicks (official title page, premiered Aug 7, #1 India 20d — actioned 06:07 flag); Reacher added provisional (FlixPatrol #2 Prime India, 3d; season on chart ⚠️); Anbe Diana verified via official SonyLIV trailer page + TOI; Bandar ⚠️ lifted (ET+GQ+Mashable); Chumbak 2nd source (Mashable); Call My Agent! The Movie → upcoming Sep 10; Netflix Top 10 films stable (Pyaar 7d / Cocktail 2 14d / Peddi 50d); Sep leaving list corroborated US-only, India unverified; no removals/platform moves; YouTube/JioCinema no new signal. 8 searches used. | 2026-08-29 13:25 IST: Apple TV+ added as tracked platform (user request) — 11 titles seeded from Apple TV Press Aug 2026 + IGN roundup + The Times/Reddit best-of. Dark Matter S2 (premiered 28 Aug, weekly) and Ted Lasso S4 (Aug 5) are current-month releases. Scores provisional — daily job recalculates. | 14:07 hourly: added Grand Theft Auto VI: An Extended Look to hiddenGems (Netflix special, Aug 27 ET / Aug 28 IST premiere; Variety+IGN+BBC multi-source; India per myvi week list); Turning Point: Generation 9/11 added to upcoming (Netflix Sep 2 — JustWatch/FlixPatrol/gadgets360; indulgexpress JioHotstar Aug 29 claim contradicted); Apple TV+ first hourly pass: Apple TV Press shows no other Aug 28 release besides Dark Matter S2 (already logged 13:25); no removals/platform moves. 4 searches used. | 02:07 HOURLY: 6 searches. No meaningful changes — all retrieved sources repeat already-logged titles; JustWatch/Hotstar JioHotstar rolling-page library items (Resident Evil: Vendetta, LEGO Disney Princess: Magical Mayhem, Snitch) undated, not added; catalog gaps flagged for daily job (The Last House, Outer Banks new seasons — Tudum monthly names, unverified this pass); In The Earth US-only, India unverified; no removals/platform moves. | 06:07 HOURLY: 5 searches. No meaningful changes — all retrieved sources repeat already-logged titles; Sep leaving-list chatter further expanded (Anatomy of a Fall, Black Lightning S1-5, Orphan Black, Crashing S1, A Beautiful Life, Ali, Blood and Bone) still India-unverified ⚠️; Outer Banks S5 dated to Aug 17-23 window per wionews (corroborates standing gap flag); Apple TV Press unchanged (Dark Matter S2 latest, E2 Sep 4); no entry changes, no alerts. | 10:07 HOURLY: 5 searches. No meaningful changes — week lists repeat already-logged titles; Babita Singh Reporting confirmed already cataloged (06:07) — url upgraded to official Prime detail page (urlType title-page), genre refined Drama+Mystery; Netflix India film Top 10 Aug 29: Alpha #1 / GTA VI Extended Look #2 / Safed Sagar #3 (trending note logged); Apple TV Press unchanged (Dark Matter S2 latest, E2 Sep 4); no removals/platform moves, no alerts. | 18:07 HOURLY: 6 searches. Two verified backfills added to hiddenGems: Facing El Chapo (official India title page netflix.com/in/title/82048151; Mexican action thriller 'La Captura', Aug 21 worldwide premiere per The Week+TOI; FlixPatrol India film chart #4 on 29 Aug crawl; corrects 29 Aug 16:07 'already tracked' misread) and Don't Say Good Luck (official title page netflix.com/title/81975622; Julia Hart/Sunny Sandler drama, Aug 14 premiere per Wikipedia+Tudum+Variety). All week lists (GQ/Vogue/ET/TimesNow Aug 24-30, news18 Aug 28-30, myvi Aug 29-Sep 4) repeat already-logged titles; Apple TV Press unchanged (Dark Matter S2 latest, E2 Sep 4); Sep leaving chatter unchanged since 15:07 (India unverified); no removals/platform moves, no alerts. | 21:08 HOURLY: 9 searches (6 discovery + 3 verification). Idhayam Murali added to indianPicks (official title page netflix.com/title/82072500, streaming since 7 Aug, #6 Tudum India films chart); 'Ted Lasso (new season)' duplicate platform-corrected JioHotstar→Apple TV+ (Apple TV PR contradicts NYT Disney+ attribution); Our Sticky Love (Tudum India TV chart #3) gap-flagged for daily job — zero corroboration beyond chart; FlixPatrol worldwide Aug 30: GTA VI #1, Whisper Man #2, Facing El Chapo #3 (all cataloged); no removals/platform moves, no alerts. | 2026-08-30 21:25 IST: youtubePicks upgraded from 3 channel-only entries to 6 tracked channels (Real Stories, PBS, Free Documentary, + Veritasium, 3Blue1Brown, Kurzgesagt per user request for better YouTube recommendations) + first video-level pick (Kurzgesagt 'The Impenetrable Barrier', Aug 4). Daily job now runs a YouTube pass: new notable uploads become video picks (max 2-3/week), picks retire after ~14 days. | 2026-08-30 21:39 IST: new section futurePicks ('🚀 Future & Learn — YouTube Must Watch') per user request: latest futuristic drops (🆕) + timeless learning essentials (🎓), 6 entries, all search-verified. Impenetrable Barrier moved here from youtubePicks. | 2026-08-30 22:09 IST: SIX interest sections added per user request — aiPicks/sportsPicks/gadgetPicks/greenPicks/businessPicks/moneyPicks (21 YouTube channel entries, all search-verified 2026 lists). No genres on interest sections (excluded from Genre Picks). Daily job maintains them via weekday rotation (Mon AI, Tue Sports, Wed Gadgets, Thu Green Energy, Fri Business, Sat Money). | 05:25 HOURLY 02 Sep: 7 searches. Two backfills: Newton's 3rd Law (Netflix India — official /in/title/83001645 verified, Telugu investigative drama, #2 FlixPatrol India films Sep 1) + The Moment (JioHotstar — official title page 1271666133 verified, Charli XCX mockumentary, Jul arrival per third-party ⚠️). Trending shift: Alpha #1 / Newton's 3rd Law #2 / Whisper Man #3 / Cocktail 2 #4 (Sep 1 films chart). Alert file rewritten with Sep-wave block — 17:07 claimed rewrite had not persisted (file still showed 29 Aug version). No removals/platform moves. | 07:16 HOURLY 02 Sep: 5 searches. No new titles — Tudum India film chart shift logged (Alpha #1, Pyaar Prema Kalyanam #2, Cocktail 2 #3, GTA VI Extended Look #4, Newton's 3rd Law #5; Whisper Man out of visible top-5); Apple TV Press unchanged (Dark Matter S2 E2 Sep 4, Mayday Sep 4); Korean Kanakaraju still date-less; no removals/platform moves, no alerts. | 13:07 HOURLY 02 Sep: 7 searches. No meaningful changes — no catalog edits, no alerts. Flags for daily job: Jared Freid: The Family Plan (Netflix Sep 1) + Driven S1-3 (Netflix Sep 2) — Tudum official monthly list, India unverified; Death of the Pastor's Wife (Netflix docuseries, Aug 26) #1 globally per FlixPatrol Sep 1 — India unverified. Madharaasi flag RESOLVED: Prime library title since Oct 1 2025 (GQ listing stale); Tudum India films chart unchanged vs 07:16. | 23:07 HOURLY 02 Sep: 6 searches. One add: Ananthan Kaadu (Prime Video India, premiered today Sep 2 — TOI/ET Panache/Zoom/JustWatch 4-concordant; Malayalam/Tamil political action thriller, Arya; provisional indianPicks entry). Dhurandhar 2/Kartavya DH list verified stale May vintage, rejected. FlixPatrol Sep 2 crawl unchanged; Apple TV Press unchanged; no alerts. | 07:48 HOURLY 03 Sep: 6 searches. Gandhari PREMIERED TODAY (Sep 3) — indianPicks entry upgraded to official title page netflix.com/title/81787058 + streaming-now note; upcoming entry removed. Dutton Ranch RT Apple TV listing verified Paramount+ misclassification. FlixPatrol Sep 2 crawl unchanged; Apple TV Press unchanged; no other changes, no removals/platform moves. | 15:03 HOURLY 03 Sep: 6 searches. Lust Stories 3 added to upcoming (Netflix Sep 18 per Bollywood Hungama/ET Panache + Reddit 'Sets Sep 18' headline; official title page live; ⚠️ not yet officially announced). Onslaught + Primetime verified A24 theatrical (Sep 4 / Sep 25, US) — no India OTT signal on tracked platforms, flagged not added. Dhamaal 4 Sep 4 confirmed by TOI/ET Panache (was 'expected'). Dark Matter S2 E2 Sep 4 re-confirmed (Apple TV Press episodes page). Sep leaving list unchanged (India unverified). No removals/platform moves. | 20:07 HOURLY: 5 searches. No entry changes — all retrieved sources repeat cataloged titles; Tudum India films chart order identical to already-logged 02 Sep 07:16 crawl (no new trending shift); Mr and Mrs Bachelor verified Jul 2025 ManoramaMAX stale FB resurface (untracked platform, not added); Apple TV Press + Sep leaving list unchanged; no removals/platform moves, no alerts. | 12:39 HOURLY 05 Sep: 7 searches. GDN verified NEW (Netflix title page 82853382, premiered 04 Sep, R. Madhavan G.D. Naidu biopic) — added indianPicks 67 provisional; Bigg Boss 20 dated Sep 6 JioHotstar (TOI+BS+official page) — flag resolved, added upcoming; Milind Soman ET snippet resolved as editorial context not a title; Sep leaving list unchanged (India unverified); Earle/Jagamae/Veerabhadruni P2 still unconfirmed; no removals/platform moves.",
  "sections": {
   "mustWatch": [
@@ -874,6 +874,41 @@
     "genres": [
      "Documentary"
     ]
+   },
+   {
+    "title": "The Early Spring",
+    "type": "series",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=The%20Early%20Spring",
+    "urlType": "platform-search",
+    "note": "RE-ADDED (06 Sep): Chinese workplace-romance C-drama 早春晴朗 (Jing Boran, Sun Qian; Youku web-novel adaptation) — first Chinese drama to crack Netflix global Top 3 (No. 2 debut, 2.4M views per Hindustan Times); FlixPatrol India TV chart #2-4 recurring since late Aug. Originally added 30 Aug (61) but silently lost from catalog.json in an early-Sep timed-out write — hourly passes flagged it missing 02-03 Sep. No official title-page ID retrieved — search link; daily job to upgrade. Provisional.",
+    "addedOn": "2026-09-06",
+    "lastChecked": "2026-09-06 12:09 IST",
+    "score": 61,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Romance",
+     "Drama"
+    ]
+   },
+   {
+    "title": "Earle Meets World",
+    "type": "series",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/title/82085057",
+    "urlType": "title-page",
+    "note": "NEW (06 Sep): Alix Earle unscripted reality series — official title page live (2026, 8 episodes, TV-MA, Reality TV) + Tudum release announcement + Page Six; premiered Sep 4, 2026. Gen-Z influencer life with her blended family. Moved from upcoming after post-drop confirmation. Provisional.",
+    "addedOn": "2026-09-06",
+    "lastChecked": "2026-09-06 12:09 IST",
+    "score": 57,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Documentary"
+    ]
    }
   ],
   "indianPicks": [
@@ -1199,6 +1234,40 @@
     "genres": [
      "Drama"
     ]
+   },
+   {
+    "title": "Jagamae Sangeetham",
+    "type": "series",
+    "year": 2026,
+    "platform": "Prime Video India",
+    "url": "https://www.primevideo.com/search/?phrase=Jagamae%20Sangeetham",
+    "urlType": "platform-search",
+    "note": "POST-DROP CONFIRMED (06 Sep): Tamil musical drama from the Bandish Bandits world — disciplined Carnatic heir Balu (Akshay Lagusani) x pop star Pallavi (Sushmita Shetty), Prakash Raj co-stars; premiered Sep 4 on Prime Video. Hindustan Times review live (2.5/5, 'has heart but lacks oomph') confirms streaming. Moved from upcoming; no official title page retrieved — search link. Provisional.",
+    "addedOn": "2026-09-06",
+    "lastChecked": "2026-09-06 12:09 IST",
+    "score": 63,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "India's Got Latent (Season 2)",
+    "type": "series",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=India%27s%20Got%20Latent",
+    "urlType": "platform-search",
+    "note": "GAP CLOSED (06 Sep): Samay Raina's comedy talent show — Netflix acquired S2 as a first-of-its-kind Netflix + YouTube simulcast from Jun 20, 7 PM IST (official about.netflix.com announcement + NDTV + c21media). #1 on Netflix India TV chart for 71 days (FlixPatrol Sep 5 crawl) — chart-topping gap that predates the catalog. No title-page ID retrieved — search link. Provisional.",
+    "addedOn": "2026-09-06",
+    "lastChecked": "2026-09-06 12:09 IST",
+    "score": 60,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Comedy"
+    ]
    }
   ],
   "youtubePicks": [
@@ -1209,7 +1278,7 @@
     "urlType": "channel",
     "note": "Full-length licensed documentaries, 3+ new per week; the reliable firehose of the section. Daily job watches for standout new uploads.",
     "addedOn": "2026-08-28",
-    "lastChecked": "2026-09-05 12:05 IST",
+    "lastChecked": "2026-09-06 12:09 IST",
     "score": 70,
     "genres": [
      "Documentary"
@@ -1222,7 +1291,7 @@
     "urlType": "channel",
     "note": "PBS-quality docs + the new 'Ritual' series on PBS Voices (announced 28 Aug baseline). Daily job tracks new episodes.",
     "addedOn": "2026-08-28",
-    "lastChecked": "2026-09-05 12:05 IST",
+    "lastChecked": "2026-09-06 12:09 IST",
     "score": 68,
     "genres": [
      "Documentary"
@@ -1235,7 +1304,7 @@
     "urlType": "channel",
     "note": "Baseline tracking: frequent new full-length docs.",
     "addedOn": "2026-08-28",
-    "lastChecked": "2026-09-05 12:05 IST",
+    "lastChecked": "2026-09-06 12:09 IST",
     "score": 65,
     "genres": [
      "Documentary"
@@ -1249,7 +1318,7 @@
     "urlType": "channel",
     "note": "Science & engineering deep dives with real experiments (Derek Muller; 20M+ subs as of Apr 2026). Recent uploads include 'We sent a balloon to space to film the solar eclipse', 'Is spider web really stronger than steel?', 'Why does every mammal get 1 billion heartbeats in their life?'.",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-09-05 12:05 IST",
+    "lastChecked": "2026-09-06 12:09 IST",
     "score": 78,
     "genres": [
      "Documentary"
@@ -1263,7 +1332,7 @@
     "urlType": "channel",
     "note": "Visual math/CS explainers (Grant Sanderson) — linear algebra, neural networks, topology; the systems-thinker's math channel. ~242 videos.",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-09-05 12:05 IST",
+    "lastChecked": "2026-09-06 12:09 IST",
     "score": 78,
     "genres": [
      "Documentary"
@@ -1277,7 +1346,7 @@
     "urlType": "channel",
     "note": "Vibrant animated science explainers ('optimistic nihilism') — space, biology, existential risk; 383 videos.",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-09-05 12:05 IST",
+    "lastChecked": "2026-09-06 12:09 IST",
     "score": 82,
     "genres": [
      "Documentary"
@@ -1286,21 +1355,6 @@
   ],
   "futurePicks": [
    {
-    "title": "The Impenetrable Barrier Trapping Us in the Solar System",
-    "type": "video",
-    "platform": "YouTube",
-    "url": "https://www.youtube.com/results?search_query=Kurzgesagt+Impenetrable+Barrier+Trapping+Us+in+the+Solar+System",
-    "urlType": "platform-search",
-    "note": "🆕 Latest — Kurzgesagt, premiered 4 Aug 2026: why the heliopause makes leaving the solar system nearly impossible; r/kurzgesagt calls it a return to classic form. Watch link is an on-YouTube search (daily job upgrades to direct URL).",
-    "addedOn": "2026-08-30",
-    "lastChecked": "2026-09-05 12:05 IST",
-    "score": 82,
-    "genres": [
-     "Animation",
-     "Documentary"
-    ]
-   },
-   {
     "title": "This equation will change how you see the world (the logistic map)",
     "type": "video",
     "platform": "YouTube",
@@ -1308,7 +1362,7 @@
     "urlType": "platform-search",
     "note": "🎓 Essential — Veritasium's chaos-theory classic; the logistic map from simple rule to infinite complexity. Community-crowned favorite (r/Veritasium) and the single best door into systems thinking. Watch link is an on-YouTube search (daily job upgrades to direct URL).",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-09-05 12:05 IST",
+    "lastChecked": "2026-09-06 12:09 IST",
     "score": 90,
     "genres": [
      "Documentary"
@@ -1322,7 +1376,7 @@
     "urlType": "platform-search",
     "note": "🎓 Essential — Kurzgesagt's CRISPR explainer, on the channel's official 'Our Best Stuff' playlist; the cleanest 10-minute grounding in the technology rewriting biology.",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-09-05 12:05 IST",
+    "lastChecked": "2026-09-06 12:09 IST",
     "score": 85,
     "genres": [
      "Documentary"
@@ -1336,7 +1390,7 @@
     "urlType": "platform-search",
     "note": "🎓 Essential — Kurzgesagt's philosophy of meaning in a meaningless universe; on the official 'Our Best Stuff' playlist. The rare 'watch this for your head' pick.",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-09-05 12:05 IST",
+    "lastChecked": "2026-09-06 12:09 IST",
     "score": 84,
     "genres": [
      "Documentary"
@@ -1350,7 +1404,7 @@
     "urlType": "platform-search",
     "note": "🎓 Essential — Kurzgesagt's 24M-view big-picture story of where we came from; on the official 'Our Best Stuff' playlist.",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-09-05 12:05 IST",
+    "lastChecked": "2026-09-06 12:09 IST",
     "score": 82,
     "genres": [
      "Documentary"
@@ -1364,7 +1418,7 @@
     "urlType": "platform-search",
     "note": "🆕 Latest — 3Blue1Brown guest video (Aleph0): how DeepMind's AlphaGeometry cracks olympiad-level geometry — AI capability progress, visualized the 3b1b way.",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-09-05 12:05 IST",
+    "lastChecked": "2026-09-06 12:09 IST",
     "score": 80,
     "genres": [
      "Documentary"
@@ -1684,26 +1738,6 @@
     "Comedy"
    ],
    "detail": "Theo James & Kaya Scodelario return; cannabis empire expands to a global syndicate (Italy/Rome); Netflix Sep 3, 2026 per GQ + Vogue week lists"
-  },
-  {
-   "title": "Earle Meets World",
-   "platform": "Netflix India",
-   "date": "2026-09-04",
-   "genres": [
-    "Documentary"
-   ],
-   "detail": "8-part unscripted docuseries on influencer Alix Earle building her business empire; Netflix Sep 4, 2026 per GQ week list",
-   "lastChecked": "2026-09-05 12:05 IST"
-  },
-  {
-   "title": "Jagamae Sangeetham",
-   "platform": "Prime Video India",
-   "date": "2026-09-04",
-   "genres": [
-    "Drama"
-   ],
-   "detail": "Musical drama billed from the Bandish Bandits world — disciplined Carnatic heir Balu (Akshay Lagusani) x pop star Pallavi (Sushmita Shetty); Prime Video Sep 4, 2026 per GQ week list | 05 Sep 12:05: still no post-drop streaming confirmation retrieved — ⚠️ verify.",
-   "lastChecked": "2026-09-05 12:05 IST"
   },
   {
    "title": "The Revolutionaries",
