@@ -42,7 +42,7 @@ Dark Matter weekly Fridays through Oct 30 ([Apple TV Press](https://www.apple.co
 ## ⏰ WATCH BEFORE IT LEAVES
 
 **Netflix September exodus (US list, corroborated by whats-on-netflix + People)** — **Sep 1:** Little Miss Sunshine, Matilda, Non-Stop, Muriel's Wedding, Miracle; **later in Sep:** Girlfriends, Nashville, Rocky saga (6 films), Creed trilogy, Beverly Hills Cop; Tudum also lists Poor Things, Bombshell, The Fault in Our Stars, Redeeming Love.
-⚠️ **India availability STILL unverified** — US-centric sources only. — Last checked: 05 Sep 2026 12:05 IST
+⚠️ **India availability STILL unverified** — US-centric sources only. — Last checked: 06 Sep 2026 12:04 IST
 
 ## 🔄 PLATFORM CHANGE
 
@@ -50,7 +50,7 @@ _No open platform changes._ — Last checked: 05 Sep 2026 12:05 IST
 
 ## 📅 UPCOMING TO WATCH
 
-**🆕 Bigg Boss 20 — JioHotstar, 6 Sep 2026 (TOMORROW)** — digital-first premiere 9 PM (Colors TV 10:30 PM); Salman Khan returns; TOI + Business Standard + official Hotstar page concur
+**🔥 Bigg Boss 20 — JioHotstar, 6 Sep 2026 (TODAY — streams 9 PM tonight; Colors TV 10:30 PM)** — digital-first premiere; Salman Khan returns; TOI + Business Standard + official Hotstar page concur
 **Last Seen — Apple TV+, 9 Sep 2026** (2-episode premiere, official Apple TV Press)
 **Call My Agent! The Movie — Netflix, 10 Sep 2026**
 **The Revolutionaries — Prime Video, 11 Sep 2026** (Bhuvan Bam, Rohit Saraf — period action thriller)
@@ -62,4 +62,4 @@ _No open platform changes._ — Last checked: 05 Sep 2026 12:05 IST
 **Lust Stories 3 — Netflix India, 18 Sep 2026** ([title page](https://www.netflix.com/title/81734814) live; ⚠️ date per report, awaiting official Netflix India announcement)
 **Brothers — Apple TV+, 23 Sep 2026** (McConaughey/Harrelson comedy)
 **Don't Be Shy — Prime Video, 25 Sep 2026**
-— Last checked: 05 Sep 2026 12:39 IST
+— Last checked: 06 Sep 2026 12:04 IST
