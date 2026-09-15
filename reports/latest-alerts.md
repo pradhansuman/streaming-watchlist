@@ -1,6 +1,6 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs. Last update: 15 Sep 2026 21:07 IST._
+_Living file — rewritten by hourly/daily jobs. Last update: 15 Sep 2026 23:07 IST._
 
 ---
 
@@ -62,16 +62,17 @@ _No open platform changes._ — Last checked: 05 Sep 2026 12:05 IST
 
 ## 📅 UPCOMING TO WATCH
 
-_⚠️ Note: no scans ran 06–15 Sep — items below dated ≤12 Sep premiere-pending daily-job confirmation._
+_⚠️ Note: scanning resumed 15 Sep evening (catch-up passes 20:15–23:07). Sep ≤12 items confirmed where noted; remaining premiere-pending items await daily-job confirmation._
 
 **Bigg Boss 20 — JioHotstar, premiered 6 Sep 2026** (post-drop confirmation pending daily job)
-**Call My Agent! The Movie — Netflix, 10 Sep 2026** (post-drop confirmation pending daily job)
-**Jungle Tales with Mowgli — JioHotstar, 12 Sep 2026** (post-drop confirmation pending daily job)
+**✅ Call My Agent! The Movie — Netflix, streaming since 10 Sep 2026** — confirmed 23:07 hourly (official [title page](https://www.netflix.com/title/82026389) + Wikipedia + Tudum) — added hiddenGems 62 provisional
+**✅ Jungle Tales with Mowgli — JioHotstar, streaming since 12 Sep 2026** — confirmed 23:07 hourly (official [title page](https://www.hotstar.com/in/shows/jungle-tales-with-mowgli/1271665886) + Disney India + JioStar press) — added indianPicks 55 provisional
 **🔥 Slow Horses Season 6 — Apple TV+, 16 Sep 2026 (TOMORROW)** (weekly through Oct 21)
 **Neagley Season 1 — Prime Video, 16 Sep 2026 (TOMORROW)** (⚠️ India signal via single India-OTT source)
 **Monster: The Lizzie Borden Story — Netflix India, 17 Sep 2026** ([title page](https://www.netflix.com/title/82068293) live; day-and-date expected)
 **Lust Stories 3 — Netflix India, 18 Sep 2026** ([title page](https://www.netflix.com/title/81734814) live; date re-corroborated 15 Sep via IMDb + official first-look promo — ⚠️ awaiting direct Netflix India announcement)
 **Brothers — Apple TV+, 23 Sep 2026** (McConaughey/Harrelson comedy)
 **Don't Be Shy — Prime Video, 25 Sep 2026**
+**Irumudi — Netflix India, 17 Sep 2026** ⚠️ single-source (AccessBollywood tracker) — metadata-light, daily job to corroborate
 **Shaque: Trust No One — Netflix India, 24 Sep 2026** ([title page](https://www.netflix.com/title/81762865) + official trailer announcement; Rensil D'Silva mystery thriller, Parineeti Chopra — day-and-date expected)
-— Last checked: 15 Sep 2026 21:07 IST
+— Last checked: 15 Sep 2026 23:07 IST
