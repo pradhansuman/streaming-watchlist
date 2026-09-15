@@ -1322,6 +1322,24 @@
     "genres": [
      "Comedy"
     ]
+   },
+   {
+    "title": "Vishwanath & Sons",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/title/82034837",
+    "urlType": "title-page",
+    "note": "POST-DROP CONFIRMED (15 Sep): Tamil romantic family drama — Venky Atluri dir. (Sithara Entertainments), Suriya + Mamitha Baiju; a celebrated Olympian shooter travels to America seeking a donor for his sick child. Premiered Sep 11, 2026 on Netflix India (digital-premiere announcement + Wikipedia past-tense + official /in/ title page 'U/A 16+, 2026, Drama'). IMDb 7.3/10 (2h41m). Missed during 06-15 Sep scan gap; now #1 Netflix India films (FlixPatrol Sep 14, 3d). Provisional — daily job recalc.",
+    "addedOn": "2026-09-15",
+    "lastChecked": "2026-09-15 21:07 IST",
+    "score": 63,
+    "scoreConfidence": "low",
+    "provisionalScore": true,
+    "genres": [
+     "Drama",
+     "Romance"
+    ]
    }
   ],
   "youtubePicks": [
@@ -1861,6 +1879,16 @@
     "Thriller"
    ],
    "detail": "Next chapter (S4) of the Monster anthology: Ella Beatty as Lizzie Borden — the anthology's first female subject — with Sarah Paulson; premieres Sep 17, 2026 per official Netflix US Facebook press + The Futon Critic press release via Netflix (Aug 4, cited by Wikipedia) + RT + Esquire India ('arrives on Netflix on September 17, 2026'). Official Netflix title page live (netflix.com/title/82068293, Drama, 18+). Netflix Original — India day-and-date expected; daily job to verify /in/ title page + score."
+  },
+  {
+   "title": "Shaque: Trust No One",
+   "platform": "Netflix India",
+   "date": "2026-09-24",
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "detail": "Rensil D'Silva Hindi mystery thriller series (Parineeti Chopra, Tahir Raj Bhasin) — nine years after her baby is abducted, a mother's relentless search uncovers secrets that test whether she can trust anyone. Official Netflix title page live (netflix.com/title/81762865) + official about.netflix.com trailer announcement + IMDb news ('Premiering on September 24') + Wikipedia concur. Netflix Original — India day-and-date expected."
   }
  ]
 }

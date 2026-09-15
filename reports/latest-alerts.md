@@ -1,6 +1,6 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs. Last update: 15 Sep 2026 20:15 IST._
+_Living file — rewritten by hourly/daily jobs. Last update: 15 Sep 2026 21:07 IST._
 
 ---
 
@@ -23,7 +23,10 @@ _Living file — rewritten by hourly/daily jobs. Last update: 15 Sep 2026 20:15 
 - **Earle Meets World — Netflix** ✅ [title page](https://www.netflix.com/title/82085057) live (8 eps, TV-MA, Reality) — added hiddenGems 57 provisional.
 — Last checked: 06 Sep 2026 12:09 IST
 
-**🆕 TRENDING: Gandhari holds #1 India films 2+ weeks (Tudum 15 Sep): Alpha #2, Dhamaal 4 #3, Newton's 3rd Law #4, Korean Kanakaraju #5** — all cataloged/scored.
+**🔥 NEW #1 INDIA — Vishwanath & Sons — Netflix, streaming since 11 Sep 2026 (backfilled 21:07 after scan gap)**
+Suriya Tamil romantic family drama (Venky Atluri dir., Sithara Entertainments; Mamitha Baiju co-star) — a celebrated Olympian shooter travels to America seeking a donor for his sick child. Official [title page](https://www.netflix.com/title/82034837) (U/A 16+, 2026) + Wikipedia + IMDb (7.3/10, 2h41m) concur; missed during 06–15 Sep scan gap — added indianPicks 63 provisional. — Last checked: 15 Sep 2026 21:07 IST
+
+**🆕 TRENDING SHIFT (FlixPatrol 14 Sep): Vishwanath & Sons takes #1 (3d) — Gandhari's 2-week run ends → #4; Dhamaal 4 #2, GDN #3, Korean Kanakaraju #5** — all cataloged (V&S added this pass; Kanakaraju still date-less daily-job flag).
 
 **Gandhari — Netflix India, streaming since 3 Sep 2026 — TITLE PAGE VERIFIED — NOW #1 INDIA**
 Taapsee Pannu revenge thriller (TV-MA): a mother loses her eyesight and her daughter in a kidnapping — and hunts those responsible herself. Official [title page](https://www.netflix.com/title/81787058) + press release + Wikipedia/IMDb/Vogue/GQ concur. 🔥 **Trending: #1 Netflix India films** (FlixPatrol Sep 4 crawl), displacing Alpha after its 7-day run. — Last checked: 05 Sep 2026 17:07 IST
@@ -70,4 +73,5 @@ _⚠️ Note: no scans ran 06–15 Sep — items below dated ≤12 Sep premiere-
 **Lust Stories 3 — Netflix India, 18 Sep 2026** ([title page](https://www.netflix.com/title/81734814) live; date re-corroborated 15 Sep via IMDb + official first-look promo — ⚠️ awaiting direct Netflix India announcement)
 **Brothers — Apple TV+, 23 Sep 2026** (McConaughey/Harrelson comedy)
 **Don't Be Shy — Prime Video, 25 Sep 2026**
-— Last checked: 15 Sep 2026 20:15 IST
+**Shaque: Trust No One — Netflix India, 24 Sep 2026** ([title page](https://www.netflix.com/title/81762865) + official trailer announcement; Rensil D'Silva mystery thriller, Parineeti Chopra — day-and-date expected)
+— Last checked: 15 Sep 2026 21:07 IST
