@@ -1,10 +1,16 @@
 # 🚨 Standing Alerts
 
-_Living file — rewritten by hourly/daily jobs. Last update: 06 Sep 2026 12:09 IST._
+_Living file — rewritten by hourly/daily jobs. Last update: 15 Sep 2026 20:15 IST._
 
 ---
 
 ## 🔥 DON'T MISS
+
+**🔥 POST-GAP BATCH — 3 cataloged premieres confirmed streaming (9–11 Sep), added 15 Sep 20:15**
+- **The Revolutionaries — Prime Video** ✅ premiered 11 Sep — Nikkhil Advani period action thriller (Bhuvan Bam, Rohit Saraf); [Amazon MGM press](http://press.amazonmgmstudios.com/us/en/original-series/the-revolutionaries/1) + Wikipedia past-tense concur — added indianPicks 62 provisional.
+- **Ghamasaan — ZEE5** ✅ streaming since 11 Sep — Tigmanshu Dhulia dacoit/crime drama (Pratik Gandhi, Arshad Warsi); [wionews review](https://www.wionews.com/entertainment/bollywood/ghamasaan-film-review-pratik-gandhi-arshad-warsi-lead-tigmanshu-dhulia-s-gritty-but-familiar-crime-drama-1789105975031) + The Hindu concur; reviews mixed — added indianPicks 60 provisional.
+- **Last Seen — Apple TV+** ✅ premiered 9 Sep (2-ep, weekly to Oct 7) — Australian mystery thriller (Patrick Brammall, Maxine Peake); [Apple TV Press](https://www.apple.com/tv-pr/originals/last-seen/) + Wikipedia past-tense 'positive reviews' concur — added hiddenGems 64 provisional.
+— Last checked: 15 Sep 2026 20:15 IST
 
 **🔥 SEP 4 CLUSTER — LANDED (6 of 7 confirmed streaming + GDN)**
 - **Dhamaal 4 — Netflix** ✅ [title page](https://www.netflix.com/title/81950460) live; Wikipedia past-tense premiere — comedy four-quel, scored 72.
@@ -16,6 +22,8 @@ _Living file — rewritten by hourly/daily jobs. Last update: 06 Sep 2026 12:09 
 - **Jagamae Sangeetham — Prime** ✅ post-drop confirmed 06 Sep — HT review live (2.5/5, 'Where to watch: Amazon Prime Video') — added indianPicks 63 provisional; title-page ID still pending.
 - **Earle Meets World — Netflix** ✅ [title page](https://www.netflix.com/title/82085057) live (8 eps, TV-MA, Reality) — added hiddenGems 57 provisional.
 — Last checked: 06 Sep 2026 12:09 IST
+
+**🆕 TRENDING: Gandhari holds #1 India films 2+ weeks (Tudum 15 Sep): Alpha #2, Dhamaal 4 #3, Newton's 3rd Law #4, Korean Kanakaraju #5** — all cataloged/scored.
 
 **Gandhari — Netflix India, streaming since 3 Sep 2026 — TITLE PAGE VERIFIED — NOW #1 INDIA**
 Taapsee Pannu revenge thriller (TV-MA): a mother loses her eyesight and her daughter in a kidnapping — and hunts those responsible herself. Official [title page](https://www.netflix.com/title/81787058) + press release + Wikipedia/IMDb/Vogue/GQ concur. 🔥 **Trending: #1 Netflix India films** (FlixPatrol Sep 4 crawl), displacing Alpha after its 7-day run. — Last checked: 05 Sep 2026 17:07 IST
@@ -51,16 +59,15 @@ _No open platform changes._ — Last checked: 05 Sep 2026 12:05 IST
 
 ## 📅 UPCOMING TO WATCH
 
-**🔥 Bigg Boss 20 — JioHotstar, 6 Sep 2026 (TODAY — streams 9 PM tonight; Colors TV 10:30 PM)** — digital-first premiere; Salman Khan returns; TOI + Business Standard + official Hotstar page concur
-**Last Seen — Apple TV+, 9 Sep 2026** (2-episode premiere, official Apple TV Press)
-**Call My Agent! The Movie — Netflix, 10 Sep 2026**
-**The Revolutionaries — Prime Video, 11 Sep 2026** (Bhuvan Bam, Rohit Saraf — period action thriller)
-**Ghamasaan — ZEE5, 11 Sep 2026** (Tigmanshu Dhulia; Pratik Gandhi vs Arshad Warsi)
-**Jungle Tales with Mowgli — JioHotstar, 12 Sep 2026** (official Disney India)
-**Slow Horses Season 6 — Apple TV+, 16 Sep 2026** (weekly through Oct 21)
-**Neagley Season 1 — Prime Video, 16 Sep 2026** (⚠️ India signal via single India-OTT source)
+_⚠️ Note: no scans ran 06–15 Sep — items below dated ≤12 Sep premiere-pending daily-job confirmation._
+
+**Bigg Boss 20 — JioHotstar, premiered 6 Sep 2026** (post-drop confirmation pending daily job)
+**Call My Agent! The Movie — Netflix, 10 Sep 2026** (post-drop confirmation pending daily job)
+**Jungle Tales with Mowgli — JioHotstar, 12 Sep 2026** (post-drop confirmation pending daily job)
+**🔥 Slow Horses Season 6 — Apple TV+, 16 Sep 2026 (TOMORROW)** (weekly through Oct 21)
+**Neagley Season 1 — Prime Video, 16 Sep 2026 (TOMORROW)** (⚠️ India signal via single India-OTT source)
 **Monster: The Lizzie Borden Story — Netflix India, 17 Sep 2026** ([title page](https://www.netflix.com/title/82068293) live; day-and-date expected)
-**Lust Stories 3 — Netflix India, 18 Sep 2026** ([title page](https://www.netflix.com/title/81734814) live; ⚠️ date per report, awaiting official Netflix India announcement)
+**Lust Stories 3 — Netflix India, 18 Sep 2026** ([title page](https://www.netflix.com/title/81734814) live; date re-corroborated 15 Sep via IMDb + official first-look promo — ⚠️ awaiting direct Netflix India announcement)
 **Brothers — Apple TV+, 23 Sep 2026** (McConaughey/Harrelson comedy)
 **Don't Be Shy — Prime Video, 25 Sep 2026**
-— Last checked: 06 Sep 2026 12:04 IST
+— Last checked: 15 Sep 2026 20:15 IST

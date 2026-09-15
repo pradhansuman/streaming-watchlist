@@ -399,6 +399,24 @@
   ],
   "hiddenGems": [
    {
+    "title": "Last Seen",
+    "type": "series",
+    "year": 2026,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/in/search?term=Last+Seen",
+    "urlType": "platform-search",
+    "note": "PREMIERED Sep 9, 2026 on Apple TV (2-episode premiere, weekly to Oct 7) — Australian mystery thriller; police dispatcher Ian Ridley's daughter vanished years ago (Patrick Brammall, Maxine Peake, 6-ep S1). Wikipedia past-tense ('premiered on 9 September 2026 and received positive reviews') + official Apple TV Press pages + Apple TV FB ('first two episodes now streaming') concur. Added 20:15 hourly during 9-day scan gap; daily job to recalc + find Apple TV title page.",
+    "addedOn": "2026-09-15",
+    "lastChecked": "2026-09-15 20:15 IST",
+    "score": 64,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
+    "genres": [
+     "Thriller",
+     "Mystery"
+    ]
+   },
+   {
     "title": "On Campus: Game of the Week",
     "type": "series",
     "year": 2026,
@@ -912,6 +930,42 @@
    }
   ],
   "indianPicks": [
+   {
+    "title": "Ghamasaan",
+    "type": "movie",
+    "year": 2026,
+    "platform": "ZEE5",
+    "url": "https://www.zee5.com/search?q=Ghamasaan",
+    "urlType": "platform-search",
+    "note": "STREAMING since Sep 11, 2026 on ZEE5 — Tigmanshu Dhulia gritty dacoit/crime drama (Pratik Gandhi, Arshad Warsi); cat-and-mouse in the Hindi heartland (2h10m). wionews review ('began streaming on ZEE5 on September 11') + The Hindu review + IMDb ('Release date September 11, 2026 (India) — Watch Ghamasaan on Zee 5') concur; reviews mixed-to-moderate ('gritty but familiar'). Added 20:15 hourly during 9-day scan gap; daily job to recalc + find ZEE5 title page.",
+    "addedOn": "2026-09-15",
+    "lastChecked": "2026-09-15 20:15 IST",
+    "score": 60,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
+    "genres": [
+     "Drama",
+     "Thriller"
+    ]
+   },
+   {
+    "title": "The Revolutionaries",
+    "type": "series",
+    "year": 2026,
+    "platform": "Prime Video India",
+    "url": "https://www.primevideo.com/search?phrase=The+Revolutionaries",
+    "urlType": "platform-search",
+    "note": "PREMIERED Sep 11, 2026 on Prime Video — Hindi period action thriller directed by Nikkhil Advani (Bhuvan Bam, Rohit Saraf, Gurfateh Pirzada); young Indian freedom-fighters saga. Wikipedia past-tense ('released on 11 September 2026 on Amazon Prime') + Amazon MGM Studios press ('Season 1 Launch Date September 11, 2026', worldwide availability) + IMDb concur. Added 20:15 hourly — post-drop confirmed during 9-day scan gap; daily job to recalc + find Prime India title page.",
+    "addedOn": "2026-09-15",
+    "lastChecked": "2026-09-15 20:15 IST",
+    "score": 62,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
+    "genres": [
+     "Action",
+     "Drama"
+    ]
+   },
    {
     "title": "GDN",
     "type": "movie",
@@ -1740,26 +1794,6 @@
    "detail": "Theo James & Kaya Scodelario return; cannabis empire expands to a global syndicate (Italy/Rome); Netflix Sep 3, 2026 per GQ + Vogue week lists"
   },
   {
-   "title": "The Revolutionaries",
-   "platform": "Prime Video India",
-   "date": "2026-09-11",
-   "genres": [
-    "Action",
-    "Drama"
-   ],
-   "detail": "Period action thriller (Bhuvan Bam, Rohit Saraf, Gurfateh Pirzada); Prime Video premiere Sep 11, 2026 per ET Panache + bollymoviereviewz"
-  },
-  {
-   "title": "Ghamasaan",
-   "platform": "ZEE5",
-   "date": "2026-09-11",
-   "genres": [
-    "Drama",
-    "Thriller"
-   ],
-   "detail": "Tigmanshu Dhulia gritty power drama (Pratik Gandhi, Arshad Warsi) — showdown between a hunter and an outlaw; ZEE5 premiere Sep 11, 2026 per ZEE5 trailer announcement (indiantelevision.com) + IMDb ('Watch Ghamasaan on Zee 5', release Sep 11) + festival-screening reports; first new ZEE5 title signal since Aug 29"
-  },
-  {
    "title": "Don't Be Shy",
    "platform": "Prime Video India",
    "date": "2026-09-25",
@@ -1778,16 +1812,6 @@
    ],
    "detail": "Telugu mystery thriller 'From the World of Marmadesam' — S1 streaming since Jul 3, 2026 (ZEE5 details page: released 4 Jul, 30 eps, Telugu; Wikipedia concurs 3 Jul); Part 2 premieres Sep 4, 2026 per cast/PR Instagram premiere post + ottrelease.com ZEE5 September roundup",
    "lastChecked": "2026-09-05 12:05 IST"
-  },
-  {
-   "title": "Last Seen",
-   "platform": "Apple TV+",
-   "date": "2026-09-09",
-   "genres": [
-    "Thriller",
-    "Mystery"
-   ],
-   "detail": "Australian thriller — Patrick Brammall stars as police detective Ian Ridley; global debut Sep 9, 2026 with two episodes, then weekly until Oct 7 (6-episode S1, IMDb); Apple TV Press release + Wikipedia concur"
   },
   {
    "title": "Slow Horses (Season 6)",
@@ -1826,7 +1850,7 @@
     "Drama",
     "Romance"
    ],
-   "detail": "Emmy-nominated anthology returns — four short films by Motwane, Kiran Rao, Shakun Batra & Vishal Bhardwaj (Radhika Apte, Vijay Varma, Konkona Sen Sharma, Ali Fazal per ET Panache); Netflix premiere Sep 18, 2026 per Bollywood Hungama report (ET Panache) + Reddit headline 'Sets September 18 Premiere' + social reposts ('reportedly', trailer due first week of Sep); official Netflix title page netflix.com/title/81734814 live; ⚠️ Netflix India yet to officially announce — daily job to verify"
+   "detail": "Emmy-nominated anthology returns — four short films by Motwane, Kiran Rao, Shakun Batra & Vishal Bhardwaj (Radhika Apte, Vijay Varma, Konkona Sen Sharma, Ali Fazal per ET Panache); Netflix premiere Sep 18, 2026 per Bollywood Hungama report (ET Panache) + Reddit headline 'Sets September 18 Premiere' + social reposts ('reportedly', trailer due first week of Sep); official Netflix title page netflix.com/title/81734814 live; ⚠️ Netflix India yet to officially announce — daily job to verify Sep 15: date re-corroborated — IMDb 'Releases September 18, 2026' + official first-look promo (© 2026 Netflix, 'September 18th') + casting-director Mukesh Chhabra post; ⚠️ retained (no direct Netflix India announcement retrieved)"
   },
   {
    "title": "Monster: The Lizzie Borden Story",
