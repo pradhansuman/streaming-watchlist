@@ -159,6 +159,23 @@
   ],
   "highlyRecommended": [
    {
+    "title": "Daayra",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=Daayra",
+    "urlType": "platform-search",
+    "note": "STREAMING since 13 Nov 2026 — Meghna Gulzar crime drama (Hindi, TV-MA). Official Netflix listing: 'When four suspects are killed in police custody, an investigator must unearth whether it was a lawful operation — or a ...'. ET Now confirms the 13 Nov OTT debut and entry into Netflix's global Top 10; #1 on Netflix India films for the 9-15 Nov week and still #1 on the 23 Nov crawl (10 days). Critically the Indian title of the season. Search link — daily job to upgrade to title page.",
+    "addedOn": "2026-11-24",
+    "lastChecked": "2026-11-24 12:15 IST",
+    "score": 82,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
+    "genres": [
+     "Thriller"
+    ]
+   },
+   {
     "title": "Operation Safed Sagar: The Untold Story of the Kargil War",
     "type": "series",
     "year": 2026,
@@ -395,9 +412,80 @@
      "Documentary",
      "Comedy"
     ]
+   },
+   {
+    "title": "The Lord of the Rings: The Rings of Power (Season 3)",
+    "type": "series",
+    "year": 2026,
+    "platform": "Prime Video India",
+    "url": "https://www.primevideo.com/search?q=Rings+of+Power",
+    "urlType": "platform-search",
+    "note": "Season 3 premiered November 2026 — DiscussingFilm's Prime Video November 2026 list names it as a headline premiere and Amazon's own 'New to Prime Video November 2026' page corroborates. Exact day-of-month not retrieved; India day-and-date expected for an Amazon Original but unverified. Big-budget fantasy returning season — never previously cataloged at any season.",
+    "addedOn": "2026-11-24",
+    "lastChecked": "2026-11-24 12:15 IST",
+    "score": 79,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
+    "genres": [
+     "Action",
+     "Drama"
+    ]
+   },
+   {
+    "title": "Blade Runner 2099",
+    "type": "series",
+    "year": 2026,
+    "platform": "Prime Video India",
+    "url": "https://www.primevideo.com/search?q=Blade+Runner+2099",
+    "urlType": "platform-search",
+    "note": "New series, November 2026 — listed under New Originals on Amazon MGM Studios' 'New to Prime Video in November 2026' page and named by DiscussingFilm alongside Rings of Power S3. Day-of-month not retrieved; India day-and-date assumed for an Amazon Original, unverified.",
+    "addedOn": "2026-11-24",
+    "lastChecked": "2026-11-24 12:15 IST",
+    "score": 80,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
+    "genres": [
+     "Sci-Fi",
+     "Thriller"
+    ]
+   },
+   {
+    "title": "Stick (Season 2)",
+    "type": "series",
+    "year": 2026,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/search?term=Stick",
+    "urlType": "platform-search",
+    "note": "Season 2 premiered 4 Nov 2026 — 10 episodes. Apple TV Press November originals page + IGN's 'Apple TV Full November 2026 Release Schedule' + IMDb's November schedule announcement all give 4 Nov. Owen Wilson golf comedy, back for another round. Not previously cataloged.",
+    "addedOn": "2026-11-24",
+    "lastChecked": "2026-11-24 12:15 IST",
+    "score": 81,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
+    "genres": [
+     "Comedy",
+     "Drama"
+    ]
    }
   ],
   "hiddenGems": [
+   {
+    "title": "Being Heumann",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Apple TV+",
+    "url": "https://tv.apple.com/search?term=Being+Heumann",
+    "urlType": "platform-search",
+    "note": "⚠️ Availability needs verification — dated 13 Nov 2026 on the official Apple TV Press 'Apple Originals — November' page (retrieved via search listing). Format, runtime and credits not retrieved this pass, so type is assumed. Daily job to confirm against the official page.",
+    "addedOn": "2026-11-24",
+    "lastChecked": "2026-11-24 12:15 IST",
+    "score": 69,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
+    "genres": [
+     "Documentary"
+    ]
+   },
    {
     "title": "Last Seen",
     "type": "series",
@@ -949,6 +1037,76 @@
   ],
   "indianPicks": [
    {
+    "title": "Ranabaali",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=Ranabaali",
+    "urlType": "platform-search",
+    "note": "⚠️ Availability needs verification — chart presence confirmed twice (FlixPatrol India crawl 23 Nov: #2 films, 10 days on chart; Tudum India top-10 page) but no plot, cast, language or official title page was retrieved this pass. Genres provisional.",
+    "addedOn": "2026-11-24",
+    "lastChecked": "2026-11-24 12:15 IST",
+    "score": 71,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "Haiku",
+    "type": "movie",
+    "year": 2026,
+    "platform": "Netflix India",
+    "url": "https://www.netflix.com/search?q=Haiku",
+    "urlType": "platform-search",
+    "note": "⚠️ Availability needs verification — Tamil-language 2026 film, #4 on Netflix India films (FlixPatrol 23 Nov, 2 days on chart) and present in a Netflix India library list updated 23 Nov. No plot, cast or official title page retrieved — genres provisional.",
+    "addedOn": "2026-11-24",
+    "lastChecked": "2026-11-24 12:15 IST",
+    "score": 70,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
+    "genres": [
+     "Drama"
+    ]
+   },
+   {
+    "title": "Student of the Year: After Dark",
+    "type": "series",
+    "year": 2026,
+    "platform": "JioHotstar",
+    "url": "https://www.hotstar.com/in/search?q=Student%20of%20the%20Year%20After%20Dark",
+    "urlType": "platform-search",
+    "note": "⚠️ Availability needs verification — dated 13 Nov 2026 on a November OTT tracker and named in a 'November 2026 Ki 4 Best Web Series' roundup. No official JioHotstar title page retrieved, so date and availability rest on secondary sources. Genres provisional.",
+    "addedOn": "2026-11-24",
+    "lastChecked": "2026-11-24 12:15 IST",
+    "score": 65,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
+    "genres": [
+     "Comedy",
+     "Romance"
+    ]
+   },
+   {
+    "title": "I'm Game",
+    "type": "movie",
+    "year": 2026,
+    "platform": "JioHotstar",
+    "url": "https://www.hotstar.com/in/search?q=I%27m%20Game",
+    "urlType": "platform-search",
+    "note": "⚠️ Availability needs verification — Malayalam film named in the 'New OTT releases in India for the week of November 20' roundup and on the 91mobiles new-JioHotstar list. No official title page or exact date retrieved — flagged.",
+    "addedOn": "2026-11-24",
+    "lastChecked": "2026-11-24 12:15 IST",
+    "score": 62,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
+    "genres": [
+     "Action",
+     "Drama"
+    ]
+   },
+   {
     "title": "Ghamasaan",
     "type": "movie",
     "year": 2026,
@@ -1386,7 +1544,7 @@
     "urlType": "channel",
     "note": "Full-length licensed documentaries, 3+ new per week; the reliable firehose of the section. Daily job watches for standout new uploads.",
     "addedOn": "2026-08-28",
-    "lastChecked": "2026-09-06 12:09 IST",
+    "lastChecked": "2026-11-24 12:15 IST",
     "score": 70,
     "genres": [
      "Documentary"
@@ -1412,7 +1570,7 @@
     "urlType": "channel",
     "note": "Baseline tracking: frequent new full-length docs.",
     "addedOn": "2026-08-28",
-    "lastChecked": "2026-09-06 12:09 IST",
+    "lastChecked": "2026-11-24 12:15 IST",
     "score": 65,
     "genres": [
      "Documentary"
@@ -1426,7 +1584,7 @@
     "urlType": "channel",
     "note": "Science & engineering deep dives with real experiments (Derek Muller; 20M+ subs as of Apr 2026). Recent uploads include 'We sent a balloon to space to film the solar eclipse', 'Is spider web really stronger than steel?', 'Why does every mammal get 1 billion heartbeats in their life?'.",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-09-06 12:09 IST",
+    "lastChecked": "2026-11-24 12:15 IST",
     "score": 78,
     "genres": [
      "Documentary"
@@ -1440,7 +1598,7 @@
     "urlType": "channel",
     "note": "Visual math/CS explainers (Grant Sanderson) — linear algebra, neural networks, topology; the systems-thinker's math channel. ~242 videos.",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-09-06 12:09 IST",
+    "lastChecked": "2026-11-24 12:15 IST",
     "score": 78,
     "genres": [
      "Documentary"
@@ -1454,8 +1612,25 @@
     "urlType": "channel",
     "note": "Vibrant animated science explainers ('optimistic nihilism') — space, biology, existential risk; 383 videos.",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-09-06 12:09 IST",
+    "lastChecked": "2026-11-24 12:15 IST",
     "score": 82,
+    "genres": [
+     "Documentary"
+    ]
+   },
+   {
+    "title": "How arithmetic coding works",
+    "type": "video",
+    "year": 2026,
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=3Blue1Brown+arithmetic+coding",
+    "urlType": "platform-search",
+    "note": "3Blue1Brown long-form upload dated 17 Nov 2026 per the channel's own site (3blue1brown.com 'New — Nov 17, 2026'), so 7 days old at retrieval — inside the last-7-day window. Information theory made visual: how arithmetic coding squeezes a whole message into a single fraction. Direct watch URL not retrieved — on-YouTube search link; daily job to upgrade.",
+    "addedOn": "2026-11-24",
+    "lastChecked": "2026-11-24 12:15 IST",
+    "score": 76,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
     "genres": [
      "Documentary"
     ]
@@ -1517,20 +1692,6 @@
     "genres": [
      "Documentary"
     ]
-   },
-   {
-    "title": "The AI that solved IMO Geometry Problems",
-    "type": "video",
-    "platform": "YouTube",
-    "url": "https://www.youtube.com/results?search_query=3Blue1Brown+AI+solved+IMO+Geometry+Problems+Aleph0+AlphaGeometry",
-    "urlType": "platform-search",
-    "note": "🆕 Latest — 3Blue1Brown guest video (Aleph0): how DeepMind's AlphaGeometry cracks olympiad-level geometry — AI capability progress, visualized the 3b1b way.",
-    "addedOn": "2026-08-30",
-    "lastChecked": "2026-09-06 12:09 IST",
-    "score": 80,
-    "genres": [
-     "Documentary"
-    ]
    }
   ],
   "aiPicks": [
@@ -1577,7 +1738,7 @@
     "urlType": "platform-search",
     "note": "Football news, analysis and highlights — Premier League coverage backbone (2026 sports-analysis lists).",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-08-30 22:09 IST",
+    "lastChecked": "2026-11-24 12:15 IST",
     "score": 76
    },
    {
@@ -1588,7 +1749,7 @@
     "urlType": "channel",
     "note": "@footballanalysis1 — team rebuilds, film breakdowns, breakout players, long-term club outlooks.",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-08-30 22:09 IST",
+    "lastChecked": "2026-11-24 12:15 IST",
     "score": 74
    },
    {
@@ -1599,7 +1760,7 @@
     "urlType": "platform-search",
     "note": "Official nightly highlights, top plays and series recaps.",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-08-30 22:09 IST",
+    "lastChecked": "2026-11-24 12:15 IST",
     "score": 72
    },
    {
@@ -1610,8 +1771,23 @@
     "urlType": "platform-search",
     "note": "Tactical game-by-game breakdowns; went daily during World Cup 2026 — r/footballtactics community pick.",
     "addedOn": "2026-08-30",
-    "lastChecked": "2026-08-30 22:09 IST",
+    "lastChecked": "2026-11-24 12:15 IST",
     "score": 70
+   },
+   {
+    "title": "Is relegation a serious threat for Manchester United this season?",
+    "type": "video",
+    "year": 2026,
+    "platform": "YouTube / Sky Sports Football",
+    "url": "https://www.skysports.com/football/video/13615741/premier-league-show-is-relegation-a-serious-threat-for-manchester-united-this-season",
+    "urlType": "watch",
+    "note": "Sky Sports Football · Premier League Show analysis — Adam Binnie breaks down United's points tally against Tottenham's 2025/26 and the relegation possibility. Fresh analysis segment from a tracked channel, retrieved week-fresh. NO genres (interest-section rule).",
+    "addedOn": "2026-11-24",
+    "lastChecked": "2026-11-24 12:15 IST",
+    "score": 72,
+    "scoreConfidence": "provisional",
+    "provisionalScore": true,
+    "genres": []
    }
   ],
   "gadgetPicks": [
@@ -1792,127 +1968,54 @@
  ],
  "upcoming": [
   {
-   "title": "Bigg Boss 20",
-   "platform": "JioHotstar",
-   "date": "2026-09-06",
-   "genres": [
-    "Drama"
-   ],
-   "detail": "Salman Khan-hosted reality show, digital-first — streams JioHotstar from 9 PM Sep 6, 2026 (Colors TV 10:30 PM); TOI + Business Standard + official hotstar.com Bigg Boss page ('Find out on 6th September'); resolves 01 Sep date-less flag"
-  },
-  {
-   "title": "Vigil Season 3 / Trigger Point Season 4 (this-week listings)",
-   "platform": "needs platform verification",
-   "date": "2026-08-22..28",
-   "detail": "TP S4 UK premiere confirmed Sun 30 Aug 9pm ITV1 + ITVX boxset (Radio Times/Digital Spy, 18 Aug); Vigil S3 India platform still unverified; 91mobiles lists both in India this-week roundup"
-  },
-  {
-   "title": "Star Wars: The Mandalorian and Grogu",
-   "platform": "JioHotstar",
-   "date": "2026-09-02",
-   "genres": [
-    "Sci-Fi",
-    "Action"
-   ],
-   "detail": "Mandalorian feature film — Din Djarin & Grogu enlisted to rescue Rotta the Hutt from a pirate underworld; JioHotstar digital premiere Sep 2, 2026 per GQ week list"
-  },
-  {
-   "title": "The Runner",
-   "platform": "Prime Video India",
-   "date": "2026-09-02",
-   "genres": [
-    "Thriller"
-   ],
-   "detail": "Psychological thriller — London lawyer Maia (Gal Gadot) forced through dangerous tasks while her son is held; Prime Video Sep 2, 2026 per GQ week list"
-  },
-  {
-   "title": "The Gentlemen Season 2",
-   "platform": "Netflix India",
-   "date": "2026-09-03",
-   "genres": [
-    "Drama",
-    "Comedy"
-   ],
-   "detail": "Theo James & Kaya Scodelario return; cannabis empire expands to a global syndicate (Italy/Rome); Netflix Sep 3, 2026 per GQ + Vogue week lists"
-  },
-  {
-   "title": "Don't Be Shy",
-   "platform": "Prime Video India",
-   "date": "2026-09-25",
-   "genres": [
-    "Drama"
-   ],
-   "detail": "Coming-of-age film (Aarushi Bajaj, Piyush Khati); Prime Video Sep 25, 2026 per ET Panache + myvi month list + Hans India + bollymoviereviewz (4 concordant; dtnext '24 Aug 2026' treated as stale)"
-  },
-  {
-   "title": "Veerabhadruni Rahasyam (Season 1 Part 2)",
-   "platform": "ZEE5",
-   "date": "2026-09-04",
-   "genres": [
-    "Mystery",
-    "Thriller"
-   ],
-   "detail": "Telugu mystery thriller 'From the World of Marmadesam' — S1 streaming since Jul 3, 2026 (ZEE5 details page: released 4 Jul, 30 eps, Telugu; Wikipedia concurs 3 Jul); Part 2 premieres Sep 4, 2026 per cast/PR Instagram premiere post + ottrelease.com ZEE5 September roundup",
-   "lastChecked": "2026-09-05 12:05 IST"
-  },
-  {
-   "title": "Slow Horses (Season 6)",
+   "title": "Way of the Warrior Kid",
    "platform": "Apple TV+",
-   "date": "2026-09-16",
-   "genres": [
-    "Thriller"
-   ],
-   "detail": "Gary Oldman-led Slough House spy thriller returns — Season 6 premieres Sep 16, 2026 per Apple TV Press September originals page ('Season 6 • September 16, 2026') + 9to5mac + IGN; series tracked in mustWatch (S5 aired 2025); FB 'S5 Sept 24' listing rejected as stale"
+   "date": "2026-11-25",
+   "note": "Chris Pratt series — Apple TV Press November originals page lists 25 Nov 2026, corroborated by a 13 Nov streaming guide. Premieres TOMORROW.",
+   "lastChecked": "2026-11-24 12:15 IST"
   },
   {
-   "title": "Brothers",
+   "title": "Silo (Season 4 — final)",
    "platform": "Apple TV+",
-   "date": "2026-09-23",
-   "genres": [
-    "Comedy",
-    "Drama"
-   ],
-   "detail": "8-episode comedy — Matthew McConaughey + Woody Harrelson play fictionalized versions of themselves whose lifelong friendship is tested (Apple TV Press title page: premiere Sep 23, 2026); creators David West Read + Lee Eisenberg per IMDb; Wikipedia + tvinsider concur"
+   "date": "2027-07-09",
+   "note": "Official Apple news 4 Sep 2026: Silo returns for its fourth and final season on 9 July 2027. Dated, confirmed.",
+   "lastChecked": "2026-11-24 12:15 IST"
   },
   {
-   "title": "Neagley (Season 1)",
-   "platform": "Prime Video India",
-   "date": "2026-09-16",
-   "genres": [
-    "Action",
-    "Thriller"
-   ],
-   "detail": "Reacher spinoff (Maria Sten as Frances Neagley) — Sep 16, 2026 per Amazon MGM press (via Yahoo/IGN) + bollymoviereviewz India upcoming table ('Sep 16, 2026 Neagley', Amazon Prime Video Series); no official India page retrieved yet — daily job to verify"
+   "title": "Slow Horses (Season 7)",
+   "platform": "Apple TV+",
+   "date": "2027",
+   "note": "Ordered for 2027 per trade reporting; date not yet announced. S6 aired 16 Sep 2026.",
+   "lastChecked": "2026-11-24 12:15 IST"
   },
   {
-   "title": "Lust Stories 3",
-   "platform": "Netflix India",
-   "date": "2026-09-18",
-   "genres": [
-    "Drama",
-    "Romance"
-   ],
-   "detail": "Emmy-nominated anthology returns — four short films by Motwane, Kiran Rao, Shakun Batra & Vishal Bhardwaj (Radhika Apte, Vijay Varma, Konkona Sen Sharma, Ali Fazal per ET Panache); Netflix premiere Sep 18, 2026 per Bollywood Hungama report (ET Panache) + Reddit headline 'Sets September 18 Premiere' + social reposts ('reportedly', trailer due first week of Sep); official Netflix title page netflix.com/title/81734814 live; ⚠️ Netflix India yet to officially announce — daily job to verify Sep 15: date re-corroborated — IMDb 'Releases September 18, 2026' + official first-look promo (© 2026 Netflix, 'September 18th') + casting-director Mukesh Chhabra post; ⚠️ retained (no direct Netflix India announcement retrieved)"
+   "title": "Severance (Season 3)",
+   "platform": "Apple TV+",
+   "date": "2027",
+   "note": "Apple completed the Severance IP acquisition and listing copy states the series returns in 2027. No date retrieved.",
+   "lastChecked": "2026-11-24 12:15 IST"
   },
   {
-   "title": "Monster: The Lizzie Borden Story",
-   "platform": "Netflix India",
-   "date": "2026-09-17",
-   "genres": [
-    "Drama",
-    "Thriller"
-   ],
-   "detail": "Next chapter (S4) of the Monster anthology: Ella Beatty as Lizzie Borden — the anthology's first female subject — with Sarah Paulson; premieres Sep 17, 2026 per official Netflix US Facebook press + The Futon Critic press release via Netflix (Aug 4, cited by Wikipedia) + RT + Esquire India ('arrives on Netflix on September 17, 2026'). Official Netflix title page live (netflix.com/title/82068293, Drama, 18+). Netflix Original — India day-and-date expected; daily job to verify /in/ title page + score."
+   "title": "Foundation (Season 4)",
+   "platform": "Apple TV+",
+   "date": "2027 (late, reported)",
+   "note": "⚠️ Reported late 2027 following Silo S4's July 2027 slot — not an official Apple announcement.",
+   "lastChecked": "2026-11-24 12:15 IST"
   },
   {
-   "title": "Shaque: Trust No One",
-   "platform": "Netflix India",
-   "date": "2026-09-24",
-   "genres": [
-    "Mystery",
-    "Thriller"
-   ],
-   "detail": "Rensil D'Silva Hindi mystery thriller series (Parineeti Chopra, Tahir Raj Bhasin) — nine years after her baby is abducted, a mother's relentless search uncovers secrets that test whether she can trust anyone. Official Netflix title page live (netflix.com/title/81762865) + official about.netflix.com trailer announcement + IMDb news ('Premiering on September 24') + Wikipedia concur. Netflix Original — India day-and-date expected."
+   "title": "Bad Monkey (Season 2)",
+   "platform": "Apple TV+",
+   "date": "TBA",
+   "note": "Named in a November streaming guide; no date or metadata retrieved this pass — placeholder for a future pass.",
+   "lastChecked": "2026-11-24 12:15 IST"
   }
- ]
+ ],
+ "metadata": {
+  "version": 1,
+  "system": "Streaming Watchlist — Live Content Update Engine",
+  "region": "India",
+  "lastBaselineScan": "2026-08-28 23:40-23:55 IST",
+  "lastFullRefresh": "2026-11-24 12:15 IST",
+  "notes": "Baseline 28 Aug 2026. | 24 Nov 2026 DAILY RETRY after a 70-day scan gap (last pass 15 Sep 23:07): all entries lastChecked before 24 Nov are UNVERIFIED — the job did not touch them and did not confirm they still stream. SonyLIV produced no retrievable new-release signal. All Nov adds are provisional pending score recalc."
+ }
 }
